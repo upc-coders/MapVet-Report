@@ -14,8 +14,5 @@
 -
 -
 
-### 2023
-## Registro de Versiones
+### Agosto 2023
 
-## Tabla de Contenido
-## Student Outcome
