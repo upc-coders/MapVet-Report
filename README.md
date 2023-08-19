@@ -5,7 +5,7 @@
 - **Docente:** Juan Carlos Tinoco Licas
 - **Ciclo:** 2023-02
 - **Nombre de la Startup:** upc-coders
-- **Nombre del producto:** a
+- **Nombre del producto:** VetCare
 
 ## Integrantes
 - Renato German Reyes Valenzuela    U20221B471
