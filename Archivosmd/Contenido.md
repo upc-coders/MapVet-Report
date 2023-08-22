@@ -21,6 +21,7 @@
 
 | Versión  | Fecha    |   Autor  |   Descripción de modificación    |
 |----------|----------|----------|----------------------------------|
-|   TB1    | Cell 2   | Cell 3   |            Cell 3                | 
+|   TB1    | Cell 2   | -Renato German Reyes Valenzuela   |            Cell 3                | 
+                      | -Juan Jesús alisaya Sánchez       |
 | Row 2    | Cell 5   | Cell 6   | Cell 3   |
 | Row 3    | Cell 8   | Cell 9   | Cell 3   |
