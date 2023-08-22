@@ -17,10 +17,15 @@
 ### Agosto 2023
 
 ------------------------------------------------------
-# Registro de Versiones
+### Registro de Versiones
 
 | Versión  | Fecha    |   Autor  |   Descripción de modificación    |
 |----------|----------|----------|----------------------------------|
-|   TB1    | Cell 2   | - Nombre   |            Cell 3                |                       
-| Row 2    | Cell 5   | Cell 6   | Cell 3   |
-| Row 3    | Cell 8   | Cell 9   | Cell 3   |
+|   TB1    | Lunes 4 de setiembre de 2023   | - Integrante 1  |            Modificación 1                |
+|   TB1    | Lunes 4 de setiembre de 2023   | - Integrante 2  |            Modificación 2                |
+|   TB1    | Lunes 4 de setiembre de 2023   | - Integrante 3  |            Modificación 3                |
+|   TB1    | Lunes 4 de setiembre de 2023   | - Integrante 4  |            Modificación 4                |
+|   TB1    | Lunes 4 de setiembre de 2023   | - Integrante 5  |            Modificación 5                |
+
+
+### Project Report Colaboration Insights
