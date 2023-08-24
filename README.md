@@ -11,8 +11,8 @@
 - Renato German Reyes Valenzuela    U20221B471
 - Juan Jesús alisaya Sánchez    U202121935
 - Daniel Valverde Lopez    U202121440
--
--
+- Sebastian Andre Ramirez Mendez    20191E575
+- Juliana Yauricasa Seguil    20201b782
 
 ### Agosto 2023
 
