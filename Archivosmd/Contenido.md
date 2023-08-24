@@ -29,3 +29,9 @@
 
 
 ### Project Report Colaboration Insights
+
+### Student Outcome
+
+| Criterio Específico  |  Acciones Realizadas    |   Conclusiones  |
+|----------------------|-------------------------|-----------------|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software|                         |                 |   
