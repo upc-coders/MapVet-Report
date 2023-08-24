@@ -8,11 +8,11 @@
 - **Nombre del producto:** VetCare
 
 ## Integrantes
-- Renato German Reyes Valenzuela    U20221B471
-- Juan Jesús alisaya Sánchez    U202121935
-- Daniel Valverde Lopez    U202121440
--
--
+- Calisaya Sánchez, Juan Jesús         U202121935
+- Ramirez Mendez, Sebastian Andre      U20191E575
+- Reyes Valenzuela, Renato German      U20221B471
+- Valverde Lopez, Daniel               U202121440
+- Yauricasa Seguil, Juliana Alexandra  U20201B782
 
 ### Agosto 2023
 
