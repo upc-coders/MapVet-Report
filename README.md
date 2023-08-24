@@ -11,7 +11,7 @@
 | Alumno  | Código    |
 |----------|----------|
 | Renato German Reyes Valenzuela   | U20221B471 |
-| Juan Jesús alisaya Sánchez       | U202121935 |
+| Juan Jesús Calisaya Sánchez       | U202121935 |
 | Daniel Valverde Lopez  		   | U202121440 |
 | Sebastian Andre Ramirez Mendez   | U20191E575 |
 | Juliana Yauricasa Seguil		   | U20201b782 |
