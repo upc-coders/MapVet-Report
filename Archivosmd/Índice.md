@@ -1,20 +1,24 @@
-**Registro de Versiones del Informe**
-**Project Report Collaboration Insights**
-### Contenido
-Tabla de contenidos
-**Student Outcome**
+### **Registro de Versiones del Informe**
+
+### **Project Report Collaboration Insights**
+
+# Contenido
+
+## [Student Outcome](Student%20Outcome.md)
+
 ## Capítulo I: Introducción
+
 1.1. Startup Profile 
 
-1.1.1. Descripción de la Startup
+1.1.1. [Descripción de la Startup](Descripción%20de%20la%20Startup.md)
 
-1.1.2. Perfiles de integrantes del equipo
+1.1.2. [Perfiles de integrantes del equipo](Perfiles%20de%20integrantes%20del%20equipo.md)
 
 1.2. Solution Profile 
 
-1.2.1 Antecedentes y problemática 
+1.2.1 [Antecedentes y problemática](Antecedentes%20y%20problemática.md) 
 
-1.2.2 Lean UX Process.
+1.2.2 Lean UX Process
 
 1.2.2.1. Lean UX Problem Statements. 
 
@@ -24,14 +28,15 @@ Tabla de contenidos
 
 1.2.2.4. Lean UX Canvas. 
 
-1.3. Segmentos objetivo.
+1.3. [Segmentos objetivo](Segmentos%20objetivo.md)
 
 ## Capítulo II: Requirements Elicitation & Analysis
+
 2.1. Competidores.
  
-2.1.1. Análisis competitivo. 
+2.1.1. [Análisis competitivo](Analisis_Competitivo.md) 
 
-2.1.2. Estrategias y tácticas frente a competidores. 
+2.1.2. [Estrategias y tácticas frente a competidores](Analisis_Competitivo.md) 
 
 2.2. Entrevistas.
  
