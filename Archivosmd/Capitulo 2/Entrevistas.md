@@ -1,7 +1,8 @@
 ### 2.2. Entrevistas
 **2.2.1 Diseño de entrevistas**
+
 **Segmento: Veterinarias**
-*Preguntas aquí*
+
 **Segmento: Dueños de mascotas**
 1.	Datos Personales (edad, ubicación, ocupación, estado civil)
 2.	¿Tienes alguna mascota?, si la respuesta en si ¿Cuantos tienes?
@@ -18,6 +19,7 @@
 13.	¿Qué piensas sobre la posibilidad de poder buscar productos para tu mascota en la misma app-web?
 
 **2.2.2 Registro de entrevistas**
+
 **Segmento: Veterinarias**
 | Nro | Veterinaria | Enlace |
 |-----|--------------|--------------|
@@ -27,12 +29,13 @@
 **Segmento: Dueños de mascotas**
 | Nro | Dueño | Mascota | Enlace |
 |-----|--------------|--------------|--------------|
-| 1 |	| 	|		 |
-| 2 |	| 	|		 |
+| 1 | Rodrigo Porles | Gato	|	https://youtu.be/1JZDQpDmu64	 |
+| 2 | Ronaldo Flores | Perro |	https://youtu.be/8HETHLqhNE0	 |
 | 3 |	| 	|  		 | 
 
 **2.2.3 Análisis de entrevistas**
+
 **Segmento: Veterinarias**
-*Análisis aquí*
+
 **Segmento: Dueños de mascotas**
-*Análisis aquí*
+- Los entrevistados de este segmento presentaron muchas similitudes con respecto a la atencióny cuidado de sus mascotas tales como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no encontrar citas en el establecimiento de su preferencia. Los entrevistados manifestaron su conformidad ante la propuesta de contar con una aplicación web la cual les facilite agendar citas para sus mascotas y a la vez esta plataforma te permita adquirir múltiples productos para las mascotas.
