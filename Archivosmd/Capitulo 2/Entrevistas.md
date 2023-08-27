@@ -3,7 +3,26 @@
 
 **Segmento: Veterinarias**
 
+1.	¿Cual es tu nombre completo?
+2.	¿Que edad tienes?
+3.	¿En qué zona vives?
+4.	¿Tienes una veterinaria propia?¿Como se llama?
+5.	¿En qué zona la veterinaria en donde trabajas?
+6.	¿Cuál es el horario de atención y como es la modalidad de atención?
+7.	¿Cuáles son las mascotas más comunes que atienden?
+8.	¿Cuál es el promedio de mascotas que atienden en el día?
+9.	¿Qué mascotas está usted  calificado(a) para darles una buena atención?
+10.	¿Sabe qué recursos o instrumentos son necesarios para cada especie de animal?
+11.	¿Sabe si las medicinas o tratamientos puede darles a cada animal dependiendo de la enfermedad que tenga?
+12.	¿Alguna vez tuvo que rechazar a una mascota por no estar calificado para darle una atención de calidad?
+13.	¿Tiene interés por informarse sobre una nueva mascota que vaya a tender?
+14.	¿Cuál es el tipo de medio por el cual encuentra información segura y confiable sobre una mascota exótica y sus respectivos cuidados?
+15.	¿Tiene actualmente alguna página, aplicación o un medio confiable que le brinde información sobre el cuidado de las mascotas?
+16. ¿Qué opinas de una aplicación que le ayude con las tareas de la veterinaria? 
+17. ¿Qué te gustaría que implemente esta aplicación?
+
 **Segmento: Dueños de mascotas**
+
 1.	Datos Personales (edad, ubicación, ocupación, estado civil)
 2.	¿Tienes alguna mascota?, si la respuesta en si ¿Cuantos tienes?
 3.	¿Por qué elegiste esa mascota?
@@ -39,4 +58,4 @@
 **Segmento: Veterinarias**
 
 **Segmento: Dueños de mascotas**
-- Los entrevistados de este segmento presentaron muchas similitudes con respecto a la atencióny cuidado de sus mascotas tales como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no encontrar citas en el establecimiento de su preferencia. Los entrevistados manifestaron su conformidad ante la propuesta de contar con una aplicación web la cual les facilite agendar citas para sus mascotas y a la vez esta plataforma te permita adquirir múltiples productos para las mascotas.
+- Los entrevistados de este segmento presentaron muchas similitudes con respecto a la atención y cuidado de sus mascotas tales como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no encontrar citas en el establecimiento de su preferencia. Los entrevistados manifestaron su conformidad ante la propuesta de contar con una aplicación web la cual les facilite agendar citas para sus mascotas y a la vez esta plataforma te permita adquirir múltiples productos para las mascotas.
