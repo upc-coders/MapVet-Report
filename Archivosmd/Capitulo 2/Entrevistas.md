@@ -26,6 +26,7 @@
 | 1 |	|	 	|
 | 2 |	|	 	| 
 | 3 |	|	 	|  
+
 **Segmento: Dueños de mascotas**
 | Nro | Dueño | Mascota | Enlace |
 |-----|--------------|--------------|--------------|
