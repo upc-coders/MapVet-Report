@@ -1,5 +1,4 @@
-### 2.2. Entrevistas
-**2.2.1 Diseño de entrevistas**
+﻿### 2.2.1 Diseño de entrevistas
 
 **Segmento: Veterinarias**
 
@@ -18,7 +17,7 @@
 13.	¿Tiene interés por informarse sobre una nueva mascota que vaya a tender?
 14.	¿Cuál es el tipo de medio por el cual encuentra información segura y confiable sobre una mascota exótica y sus respectivos cuidados?
 15.	¿Tiene actualmente alguna página, aplicación o un medio confiable que le brinde información sobre el cuidado de las mascotas?
-16. ¿Qué opinas de una aplicación que le ayude con las tareas de la veterinaria? 
+16. ¿Qué opinas de una aplicación que le ayude con las tareas de la veterinaria?
 17. ¿Qué te gustaría que implemente esta aplicación?
 
 **Segmento: Dueños de mascotas**
@@ -36,26 +35,3 @@
 11.	¿Qué opinas sobre la posibilidad de contar con una app-web la cual te facilite agendar citas con tu veterinaria?
 12. ¿Qué opinas de la opción de que esta misma app-web te permita revisar sus recetas y otra información personalizada?
 13.	¿Qué piensas sobre la posibilidad de poder buscar productos para tu mascota en la misma app-web?
-
-**2.2.2 Registro de entrevistas**
-
-**Segmento: Veterinarias**
-| Nro | Veterinaria | Enlace |
-|-----|--------------|--------------|
-| 1 |	|	 	|
-| 2 |	|	 	| 
-| 3 |	|	 	|  
-
-**Segmento: Dueños de mascotas**
-| Nro | Dueño | Mascota | Enlace |
-|-----|--------------|--------------|--------------|
-| 1 | Rodrigo Porles | Gato	|	https://youtu.be/1JZDQpDmu64	 |
-| 2 | Ronaldo Flores | Perro |	https://youtu.be/8HETHLqhNE0	 |
-| 3 |	| 	|  		 | 
-
-**2.2.3 Análisis de entrevistas**
-
-**Segmento: Veterinarias**
-
-**Segmento: Dueños de mascotas**
-- Los entrevistados de este segmento presentaron muchas similitudes con respecto a la atención y cuidado de sus mascotas tales como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no encontrar citas en el establecimiento de su preferencia. Los entrevistados manifestaron su conformidad ante la propuesta de contar con una aplicación web la cual les facilite agendar citas para sus mascotas y a la vez esta plataforma te permita adquirir múltiples productos para las mascotas.
