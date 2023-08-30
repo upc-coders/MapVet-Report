@@ -20,31 +20,31 @@
 
 1.2.2 Lean UX Process
 
-1.2.2.1. Lean UX Problem Statements. 
+1.2.2.1. [Lean UX Problem Statements](Capitulo%201/Lean%20UX%20Problem%20Statements.md)
 
-1.2.2.2. Lean UX Assumptions. 
+1.2.2.2. [Lean UX Assumptions](Capitulo%201/Lean%20UX%20Assumptions.md)
 
-1.2.2.3. Lean UX Hypothesis Statements. 
+1.2.2.3. [Lean UX Hypothesis Statements](Capitulo%201/Lean%20UX%20Hypothesis%20Statements.md)
 
-1.2.2.4. Lean UX Canvas. 
+1.2.2.4. [Lean UX Canvas](Capitulo%201/Lean%20UX%20Canvas.md)
 
-1.3. [Segmentos objetivo](Segmentos%20objetivo.md)
+1.3. [Segmentos objetivo](Capitulo%201/Segmentos%20objetivo.md)
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
 2.1. Competidores.
  
-2.1.1. [Análisis competitivo](Analisis_Competitivo.md) 
+2.1.1. [Análisis competitivo](Capitulo%202/Analisis_Competitivo.md)
 
-2.1.2. [Estrategias y tácticas frente a competidores](Analisis_Competitivo.md) 
+2.1.2. [Estrategias y tácticas frente a competidores](Capitulo%202/Estrategias_Tacticas.md)
 
 2.2. Entrevistas.
  
-2.2.1. Diseño de entrevistas.
+2.2.1. [Diseño de entrevistas](Capitulo%202/Diseño%20de%20entrevistas.md)
 
-2.2.2. Registro de entrevistas.
+2.2.2. [Registro de entrevistas](Capitulo%202/Registro%20de%20entrevistas.md)
 
-2.2.3. Análisis de entrevistas.
+2.2.3. [Análisis de entrevistas](Capitulo%202/Análisis%20de%20entrevistas.md)
 
 2.3. Needfinding.
 
@@ -54,13 +54,13 @@
 
 2.3.3. User Journey Mapping.
 
-2.3.4. Empathy Mapping.
+2.3.4. [Empathy Mapping](Capitulo%202/Empathy_Mapping.md)
 
-2.3.5. As-is Scenario Mapping.
+2.3.5. [As-is Scenario Mapping](Capitulo%202/As_Is_Scenario_Mapping.md)
 
 ## Capítulo III: Requirements Specification
 
-3.1. To-Be Scenario Mapping.
+3.1. [To-Be Scenario Mapping](Capitulo%203/To_Be_Scenario_Mapping.md)
 
 3.2. User Stories.
 
