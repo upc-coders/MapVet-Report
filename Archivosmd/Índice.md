@@ -10,13 +10,13 @@
 
 1.1. Startup Profile 
 
-1.1.1. [Descripción de la Startup](Descripción%20de%20la%20Startup.md)
+1.1.1. [Descripción de la Startup](Capitulo%201/Descripción%20de%20la%20Startup.md)
 
-1.1.2. [Perfiles de integrantes del equipo](Perfiles%20de%20integrantes%20del%20equipo.md)
+1.1.2. [Perfiles de integrantes del equipo](Capitulo%201/Perfiles%20de%20integrantes%20del%20equipo.md)
 
 1.2. Solution Profile 
 
-1.2.1 [Antecedentes y problemática](Antecedentes%20y%20problemática.md) 
+1.2.1 [Antecedentes y problemática](Capitulo%201/Antecedentes%20y%20problemática.md)
 
 1.2.2 Lean UX Process
 
