@@ -1,1 +1,4 @@
 
+|ATRIBUTO|TIPO DE DATO|DESCRIPCION|
+|---|---|---|
+||||
