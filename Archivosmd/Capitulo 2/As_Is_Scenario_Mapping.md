@@ -1,4 +1,16 @@
 ## 2.3.5 As-Is Scenario Mapping
+
+**Segmento: Veterinaria**
+| Fase | |  |  |
+|-----|--------------|--------------|--------------|
+| Doing 	|	|	|	 |
+| 			|	|	|	 |
+| Thinking  |	|	|	 |
+| 			|	|	|	 |
+| Feeling   |	| 	|	 | 
+|			|	|	|	 |
+
+**Segmento: Dueños de mascotas**
 | Fase | Necesito atención para mi mascota | Agendo una cita con un veterinario | Compro insumos para mi mascota |
 |-----|--------------|--------------|--------------|
 | Doing 	|Busco tips en redes sociales	|Tengo que ir físicamente al local para consultar la posibilidad de una cita	|Busco Productos para mi mascota	 |

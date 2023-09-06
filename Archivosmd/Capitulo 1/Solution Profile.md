@@ -1,4 +1,4 @@
-﻿### 1.1.1. Descripción de la Startup
+### 1.2. Descripción de la Solucion
 
 VetCare es una página web dedicada a proporcionar información especializada sobre la salud y el cuidado de las mascotas. VetCare permitirá a los usuarios dueños hacer un seguimiento digitalizado de sus mascotas, programar recordatorios o citas con la veterinaria de su preferencia. Además, la plataforma facilita la comunicación con centros veterinarios que brinden atención médica personalizada.
 

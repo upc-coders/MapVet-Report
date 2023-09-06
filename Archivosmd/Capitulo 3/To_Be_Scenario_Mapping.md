@@ -1,4 +1,16 @@
 ## 3.1 To-Be Scenario Mapping
+
+**Segmento: Veterinaria**
+| Fase | |  |  |
+|-----|--------------|--------------|--------------|
+| Doing 	|	|	|	 |
+| 			|	|	|	 |
+| Thinking  |	|	|	 |
+| 			|	|	|	 |
+| Feeling   |	| 	|	 | 
+|			|	|	|	 |
+
+**Segmento: Dueños de mascotas**
 | Fase | Necesito atención para mi mascota | Agendo una cita con un veterinario | Compro insumos para mi mascota |
 |-----|--------------|--------------|--------------|
 | Doing 	|Busco tips en la plataforma con el respaldo de veterinarios profesionales	|Busco en la plataforma las fechas disponibles para agendar una cita	|Busco Productos para mi mascota en la plataforma |
