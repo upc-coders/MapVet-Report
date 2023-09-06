@@ -9,7 +9,7 @@
 |			|Ojalá la veterinaria no este cerrada para atender a mi mascota	|Siento temor de llevar a mi mascota a otra veterinaria porque no sé como es la atención	|Me siento estresado porque no encuentro una tienda cercana a mi hogar	|
 
 
-
+FALTA EDITAR VETERINARIAS
 | Fase | Necesito atención para mi mascota | Agendo una cita con un veterinario | Compro insumos para mi mascota |
 |-----|--------------|--------------|--------------|
 | Doing 	|Busco tips en redes sociales	|Tengo que ir físicamente al local para consultar la posibilidad de una cita	|Busco Productos para mi mascota	 |
