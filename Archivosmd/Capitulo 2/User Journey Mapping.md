@@ -1,3 +1,3 @@
-## 2.3.3. User Personas
+## 2.3.3. User Journey Mapping
 
-![Journey Map](../img_strat/JourneyMapDuenio.png)
+![Journey Map](https://i.ibb.co/xhZfB7w/image.png)

@@ -3,4 +3,4 @@
 **Segmento: Veterinaria**
 
 **Segmento: Dueños de mascotas**
-![texto_alternativo](../img_strat/EmpathyDuenio.png)
+![imagen_empathy_mapping](https://i.ibb.co/6bQSHNG/image.png)
