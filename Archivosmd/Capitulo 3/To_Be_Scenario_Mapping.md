@@ -3,10 +3,10 @@
 **Segmento: Veterinaria**
 | Fase | Necesito Registrar la atención de mascotas | Realizo el proceso de citas | Administro los productos que tengo en disposición para las mascotas |
 |-----|--------------|--------------|--------------|
-| Doing 	| Ofrezco los servicios de la veterinaria por medio de redes sociales y en el local	| Establezco la disponibilidad y el medio para reservar citas a través de la plataforma web 	|Establezco un apartado para poder promocionar los productos en disposición y los precios por medio de la aplicación. |
-| 			|	|	|	 |
-| Thinking  |	|	|	 |
-| 			|	|	|	 |
+| Doing 	| Ofrezco tips y consejos para tratar en primera instancia un malestar de las mascotas	| Establezco la disponibilidad y el medio para reservar citas a través de la plataforma web 	|Establezco un apartado para poder promocionar los productos en disposición y los precios por medio de la aplicación. |
+| 			| Ofrezco los servicios de la veterinaria por medio de la plataforma y sus costos	| Optimizamos el tiempo en reserva de citas con ayuda de la relacion de disponibilidad y el tipo de estructura que desarrollamos para la aplicación web	|	Implementamos un apartado de galería para la venta tanto de medicamentos como de juguetes y alimentos |
+| Thinking  | Sentimos satisfacción por enfocar que nuestras presentaciones en la plataforma sean avaladas por personal calificado en las áreas respectivas	|	Priorizamos la utilidad de la plataforma para que nuestros clientes gozen de la mejor experiencia posible|	Se busca administrar y realizar mantenimiento de manera constante a la plataforma para no generar malas experiencias en el usuario |
+| 			|	El interfaz para la presentación del registrado de citas es dinámico y fácil de comprender| la conexión del agendado de citas está directamente relacionado con el servidor de la base de datos e razón de no tener inconvenientes en medio del tránsito de información	|	Añado promociones para poder atraer a más clientes con buenos precios |
 | Feeling   |	| 	|	 | 
 |			|	|	|	 |
 
