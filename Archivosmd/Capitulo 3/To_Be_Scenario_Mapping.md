@@ -7,3 +7,14 @@
 | 			|La atención a mi mascota fue rápida debido a la organización del agendado de citas	|Pienso que esta situación me prevee de llevar a mi mascota a veterinarias que no conozco	|La tienda virtual tiene muchos productos y me ahorro el tiempo de ir a una tienda física |
 | Feeling   |Siento que puedo ayudar a mi mascota si hago caso a los consejos que encuentro en la plataforma	|Siento satisfaccion porque puedo atender a mi mascota 	|Siento felicidad porque la plataforma ayuda a encontrar productos variados | 
 |			|Siento alivio porque sé que podré atender a mi mascota	|Siento satisfaccion de llevar a mi mascota a la veterinaria porque la atención es buena	|Me siento feliz porque encuentro todo tipo de producto para mascotas en la plataforma	|
+
+
+
+| Fase | Necesito Registrar la atención de mascotas | Realizo el proceso de citas | Administro los productos que tengo en disposición para las mascotas |
+|-----|--------------|--------------|--------------|
+| Doing 	| Ofrezco los servicios de la veterinaria por medio de redes sociales y en el local	| Establezco la disponibilidad y el medio para reservar citas a través de la plataforma web 	|Establezco un apartado para poder promocionar los productos en disposición y los precios por medio de la aplicación. |
+| 			|	|||
+| Thinking  |	|||
+| 			|	|	| |
+| Feeling   |aaa	|aaa 	|aaa | 
+|			|aaa	|aaa	|aaa	|
