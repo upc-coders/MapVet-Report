@@ -1,0 +1,12 @@
+### 4.2.1.	Organization Systems
+
+<a href="https://ibb.co/1XTgnms"><img src="https://i.ibb.co/ykq9RQh/pacientes.png" alt="pacientes" border="0"></a>
+
+El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información
+referencial de la página web. Luego el usuario elegirá la opción de paciente el cual le
+direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un doctor”,” analizar la sangre “o “cita para análisis de sangre”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes de los médicos y por último tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrará un link para llevarlo a nuestro chat de WhatsApp.
+
+
+<a href="https://ibb.co/ryttWGH"><img src="https://i.ibb.co/LpPPGz1/vet.png" alt="vet" border="0"></a>
+
+El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información referencial de la página web. Luego el usuario elegirá la opción de “médico” el cual le direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un paciente”, ”analizar la sangre“ o “comparaciones de resultados”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes también tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrara un link para llevarlo a nuestra chat de WhatsApp y por último tendrá la opciones “Historial de pacientes” donde podrá ver a todos los que atendió y ver sus resultados.
