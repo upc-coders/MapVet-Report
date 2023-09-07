@@ -4,9 +4,9 @@
 
 |  Nro  | Veterinaria |  Enlace   |
 |:-----:|:-----------:|:---------:|
-|   1   |    	        |    	 	    |
-|   2   |      	      |    	 	    |
-|   3   |      	      |    	 	    |
+|   1   |    	  Pet Center      |   https://youtu.be/dllWD8SsIWs 	 	    |
+|   2   |     Pet´s Place 	      |   https://youtu.be/w0zX0C9ENq8 	 	    |
+
 
 **Segmento: Dueños de mascotas**
 
