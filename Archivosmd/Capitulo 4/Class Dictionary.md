@@ -37,13 +37,13 @@ CLASE VETERINARIA
 CLASE DOCTOR
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|CODIGO|VARCHAR(10)|SI||
-|NOMBRE|VARCHAR(100)|NO||
-|APELLIDO|VARCHAR(100)|NO||
-|EDAD|NUMBER(2)|NO||
-|PROFESION|VARCHAR(150)|NO||
-|TELEFONO|NUMBER(9)|NO||
-|DOMICILIO|VARCHAR(200)|NO||
+|CODIGO|VARCHAR(10)|SI|En este atributo se almacena el codigo del médico-veterinario que trabaja en la Veterinaria, se comporta como identificador de la clase|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se almacena el nombre del médico-veterinario|
+|APELLIDO|VARCHAR(100)|NO|En este atributo se almacena el apellido del médico-veterinario|
+|EDAD|NUMBER(2)|NO|En este atributo se almacena la edad del médico-veterinario|
+|PROFESION|VARCHAR(150)|NO|En este atributo se almacena la profesión del médico-veterinario|
+|TELEFONO|NUMBER(9)|NO|En este atributo se almacena el número de teléfono celular del médico-veterinario|
+|DOMICILIO|VARCHAR(200)|NO|En este atributo se almacena el domicilio del médico-veterinario|
 
 
 CLASE CITAS
