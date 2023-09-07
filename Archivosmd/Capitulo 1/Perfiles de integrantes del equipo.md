@@ -20,9 +20,12 @@ Soy una persona entusiasta que disfruta colaborar en equipo, y me caracterizo po
 * **Renato German Reyes Valenzuela**
 
 
-
 * **Daniel Valverde Lopez**
 
+<div align="center">
+  <img src="https://i.ibb.co/yXryVGT/Foto-Daniel.jpg" alt="FotoDaniel" width="250px" height="250px" />
+</div>
+Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software. Antes de llevar la carrera tenía interés por la materia, aprendí conceptos básicos de programación con Python y Ruby. Además, me considero una persona responsable y empática, por esa razón tengo facilidad para desarrollar trabajos en grupo.
 
 
 * **Juliana Alexandra Yauricasa Seguil**
