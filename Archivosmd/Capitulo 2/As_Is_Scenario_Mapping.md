@@ -1,4 +1,16 @@
 ## 2.3.5 As-Is Scenario Mapping
+
+**Segmento: Veterinaria**
+| Fase | Necesito Registrar la atención de mascotas | Realizo el proceso de citas | Administro los productos que tengo en disposición para las mascotas |
+|-----|--------------|--------------|--------------|
+| Doing 	| Recibe a un cliente en busca de reservar una cita	| Adjunto en una libreta física el registro de la cita	| Ofrezco en un mostrador limitados productos para mis clientes	|
+| 			|Registra manualmente los datos de la masctoa 	|Busca si tiene disponibilidad en próximas fechas	|	|
+| Thinking  | El cliente viene cuando no hay citas disponibles para hoy	|Tengo que cuadrar bien los horarios para que luego no se den incovenientes por cruce	|El cliente debe adaptarse a los productos que tengo en mi local|
+| 			|El cliente debe recordar la fecha y hora de la cita para no perjudicarme	| Pierdo mucho tiempo registrando manualmente a los pacientes	|Busco alguna forma de ofrecer más productos	|
+| Feeling   |Siento que las formas de control son ineficientes	| Ojalá no se pierdan mis apuntes	|Desería poder vender más artículos para obtener más ingresos	| 
+
+
+**Segmento: Dueños de mascotas**
 | Fase | Necesito atención para mi mascota | Agendo una cita con un veterinario | Compro insumos para mi mascota |
 |-----|--------------|--------------|--------------|
 | Doing 	|Busco tips en redes sociales	|Tengo que ir físicamente al local para consultar la posibilidad de una cita	|Busco Productos para mi mascota	 |
