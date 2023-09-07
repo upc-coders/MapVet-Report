@@ -32,10 +32,10 @@
 ## Contenido 
 ### Capitulo I: Introducción
 #### 1.1. Startup Profile
-##### 1.1.1. [Descripcion de la Startup](Archivosmd/Capitulo 1/Startup Profile.md)
-##### 1.1.2. [Perfiles de Integrantes del equipo](Archivosmd/Capitulo 1/Perfiles de integrantes del equipo.md)
-#### 1.2. [Solution Profile](Archivosmd/Capitulo 1/Solution Profile.md)
-##### 1.2.1. [Antecedentes y problematica](/Archivosmd/Capitulo 1/Antecedentes y problemática.md)
+##### 1.1.1. [Descripcion de la Startup](/Archivosmd/Capitulo%201/Startup%20Profile.md)
+##### 1.1.2. [Perfiles de Integrantes del equipo](/Archivosmd/Capitulo%201/Perfiles%20de%20integrantes%20del%20equipo.md)
+#### 1.2. [Solution Profile](/Archivosmd/Capitulo%201/Solution%20Profile.md)
+##### 1.2.1. [Antecedentes y problematica](/Archivosmd/Capitulo%201/Antecedentes%20y%20problemática.md)
 ##### 1.2.2. Lean UX Process 
 ###### 1.2.2.1. Lean UX Problem Statements
 ###### 1.2.2.2. Lean UX Assumptions
@@ -55,9 +55,9 @@
 ##### 2.3.2. User Task Matrix
 ##### 2.3.3. User Journey Mapping
 ##### 2.3.4. Empathy Mapping
-##### 2.3.5. [As-is Scenario Mapping](/Docs/Capitulo%20II/As-is%20Scenario%20Mapping.md)
+##### 2.3.5. [As-is Scenario Mapping](/Archivosmd/Capitulo%202/As_Is_Scenario_Mapping.md)
 ### Capitulo III: Requirements Specification
-#### 3.1. [To-Be Scenario Mapping](/Docs/Capitulo%20III/To-Be%20Scenario%20Mapping.md)
+#### 3.1. [To-Be Scenario Mapping](/Archivosmd/Capitulo%203/To_Be_Scenario_Mapping.md)
 #### 3.2. User Stories 
 #### 3.3. Impact Mapping
 #### 3.4. Product Backlog
