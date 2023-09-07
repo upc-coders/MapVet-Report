@@ -19,12 +19,10 @@ Soy una persona entusiasta que disfruta colaborar en equipo, y me caracterizo po
 
 * **Renato German Reyes Valenzuela**
 
-  Mi nombre es Renato Reyes Valenzuela, tengo 22 años y soy estudiante del 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. El aporte técnico que puedo dar para el equipo es el dominio del lenguaje SQL para el diseño de Base de datos y el conocimiento intermedio de programación con Java, Javascript y CSS. (Falta Foto)
-
 <div align="center">
   <img href="https://ibb.co/3pm46zn"><img src="https://i.ibb.co/zXVQ9Jz/Renato-Perfil.jpg" alt="Renato-Perfil" border="0" width="380px" height="250px" />
 </div>
-
+Mi nombre es Renato Reyes Valenzuela, tengo 22 años y soy estudiante del 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. El aporte técnico que puedo dar para el equipo es el dominio del lenguaje SQL para el diseño de Base de datos y el conocimiento intermedio de programación con Java, Javascript y CSS. 
 
 * **Daniel Valverde Lopez**
 
@@ -36,3 +34,7 @@ Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software.
 
 * **Juliana Alexandra Yauricasa Seguil**
 
+<div align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/QQr3snC/Foto.jpg" alt="Foto" border="0"></a>
+</div>
+Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Con relación al trabajo en grupo, me considero una persona ordenada y responsable. Por ello, participaré activamente en las actividades grupales para culminar el proyecto de manera satisfactoria.
