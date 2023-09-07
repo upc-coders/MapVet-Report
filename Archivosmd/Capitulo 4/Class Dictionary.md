@@ -1,11 +1,12 @@
 CLASE PERSONA
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|CODIGO|VARCHAR(10)|SI||
-|APELLIDO|VARCHAR(100)|NO||
-|TELEFONO|NUMBER(9)|NO||
-|DOMICILIO|VARCHAR(200)|NO||
-|ESTADO|CHAR(1)|NO||
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el código del cliente y sirve como identificador de latabla PERSONA. Se comporta como PRIMARY KEY para comunicar la clase con la clase MASCOTA|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se guarda el nombre del cliente, dueño de la mascota|
+|APELLIDO|VARCHAR(100)|NO|En este atributo se guarda el apellido del cliente, dueño de la mascota|
+|TELEFONO|NUMBER(9)|NO|En este atributo se guarda el telefono del cliente, dueño de la mascota|
+|DOMICILIO|VARCHAR(200)|NO|En este atributo se guarda la dirección del domicilio del cliente, dueño de la mascota|
+|ESTADO|CHAR(1)|NO|En este atributo se guarda el estado del cliente respecto a la atención en la veterinaria entre activo (A) e inactivo (I)|
 
 
 CLASE MASCOTA
