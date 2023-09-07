@@ -12,10 +12,11 @@ CLASE PERSONA
 CLASE MASCOTA
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|CODIGO|VARCHAR(10)|SI||
-|NOMBRE|VARCHAR(100)|NO||
-|EDAD|NUMBER(3)|NO||
-|RAZA|VARCHAR(100)|NO||
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el código de la mascota, que se genera al ser registrado por primera vez en la veterinaria|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se guarda el nombre completo de la mascota|
+|EDAD|NUMBER(3)|NO|En este atributo se guarda la edad de la mascota|
+|FECHANAC|DATE|NO|En este atributo la fecha de nacimiento de la mascota|
+|RAZA|VARCHAR(100)|NO|En este atributo se guarda la raza de la mascota|
 
 CLASE HISTORIAL MEDICO
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
