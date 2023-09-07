@@ -50,8 +50,8 @@ CLASE CITAS
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
 |CODIGO|CHAR(10)|SI|En este atributo se guardan los cóodigos de las citas disponibles |
-|FECHA|DATE|NO||
-|HORA|NUMBER(2)|NO||
-|MINUTO|NUMBER(2)|NO||
-|TIPO_CITA|VARCHAR(200)|NO||
-|ESTADO|CHAR(1)|NO||
+|FECHA|DATE|NO|En este atributo se guarda la fecha de la cita registrada|
+|HORA|NUMBER(2)|NO|En este atributo se guarda la hora de la cita registrada|
+|MINUTO|NUMBER(2)|NO|En este atributo se guarda el minuto de la cita registrada|
+|TIPO_CITA|VARCHAR(200)|NO|En este atributo se guarda el tipo ce cita que se va a registrar|
+|ESTADO|CHAR(1)|NO|En este atributo se guarda el estado de la cita, Reservado (R), Disponible(D), no disponible(N)|
