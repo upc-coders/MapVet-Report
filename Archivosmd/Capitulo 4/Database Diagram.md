@@ -1,2 +1,2 @@
 # DataBase Diagram
-![texto_alternativo](../img_strat/DATABASE_DIAGRAM.jpg)
+![texto_alternativo](../img_strat/DATABASE_DIAGRAM.JPG)
