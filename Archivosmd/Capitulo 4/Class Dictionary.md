@@ -49,7 +49,7 @@ CLASE DOCTOR
 CLASE CITAS
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|CODIGO|CHAR(10)|SI||
+|CODIGO|CHAR(10)|SI|En este atributo se guardan los cóodigos de las citas disponibles |
 |FECHA|DATE|NO||
 |HORA|NUMBER(2)|NO||
 |MINUTO|NUMBER(2)|NO||
