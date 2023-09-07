@@ -14,4 +14,4 @@
 |:-----:|:-----------------:|:--------:|:----------------------------:|
 |   1   |  Rodrigo Porles   |   Gato   | https://youtu.be/1JZDQpDmu64 |
 |   2   |  Ronaldo Flores   |  Perro   | https://youtu.be/8HETHLqhNE0 |
-|   3   |         	         |          |       	                      |                      
+|   3   |  Aracely Sanchez  |  Perro   | https://youtu.be/1JZDQpDmu64 |                      
