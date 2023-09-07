@@ -21,20 +21,20 @@ CLASE MASCOTA
 CLASE HISTORIAL MEDICO
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|CODIGO|VARCHAR(10)|SI||
-|DIAGNOSTICO|VARCHAR(500)|NO||
-|RECETA|VARCHAR(500)|NO||
-|ATENCION|VARCHAR(500)|NO||
-|ESTADO|CHAR(1)|NO||
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el codigo de una intervención del historial médico de la mascota, se comporta como identificador de la clase|
+|DIAGNOSTICO|VARCHAR(500)|NO|En este atributo se almacena el diagnóstico que recibió la mascota en la intervención, si es que hubiera|
+|RECETA|VARCHAR(500)|NO|En este atributo se almacena la información de los medicamentos recetados para la macota|
+|ATENCION|VARCHAR(500)|NO|En este atributo se almacena la atención que recibió la mascota al ser intervenida|
+|ESTADO|CHAR(1)|NO|En este atributo se almacena el estado en el que se encuentra el padecimiento o el servicio, si activo(A) o inactivo(I) |
 
 CLASE VETERINARIA
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
-|ID_VET|VARCHAR(8)|SI||
-|NOMBRE|VARCHAR(100)|NO||
-|DIRECCION|VARCHAR(150)|NO||
+|ID_VET|VARCHAR(8)|SI|En este atributo se almacena el código de la veterinaria, se comporta como identificador de la clase|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se almacena el nombre de la Veterinaria|
+|DIRECCION|VARCHAR(150)|NO|En este atributo se almacena la dirección de la sede de la Veterinaria|
 
-CLASE PERSONA
+CLASE DOCTOR
 |ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
 |---|---|---|---|
 |CODIGO|VARCHAR(10)|SI||
