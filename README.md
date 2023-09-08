@@ -112,9 +112,4 @@
 ###### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ###### 5.2.1.8. Team Collaboration Insights during Sprint
 
------
-## Student Outcome
 
-| Criterio Especifico | Acciones Realizadas | Conclusiones | 
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   | 
