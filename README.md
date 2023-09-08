@@ -1,6 +1,10 @@
 # Universidad Peruana de Ciencias Aplicadas
 ## Ingeniería de Software
 ### Aplicaciones Web - Trabajo Final
+
+<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
+
+
 - **Sección:** SW51
 - **Docente:** Juan Carlos Tinoco Licas
 - **Ciclo:** 2023-02
