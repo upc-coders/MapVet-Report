@@ -1,5 +1,15 @@
 ## 2.3.2. User Task Matrix
 **Segmento: Veterinaria**
+|  User Task  | Veterinarias |  |
+|-------------|-------------|-------------|
+|   Task      | Frecuencia  | Importancia |
+| Ofrecer Software de Registro de Citas| Sometimes | MEDIUM |
+| Ofrecer Productos via servicio web| Always | HIGH |
+| Mantener registro de diagnósticos de mascotas atendidas| Sometimes | HIGH |
+| Manejar base de datos de Productos disponibles| Always | HIGH |
+| Manejar base de datos para el registro de mascotas nuevas y concurrentes | Often | Medium |
+| Ofrecer tips para el cuidado de mascotas| never | Low |
+
 
 **Segmento: Dueños de mascotas**
 |  User Task  | Dueños de Mascotas |  |
