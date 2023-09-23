@@ -4,7 +4,10 @@
 
 ### 2.1.1. Analisis competitivo
 
+
 ### Competitive Analysis Landscape  
+
+El objetivo del siguiente analisis competitivo es identificar las fortalezas y debilidades en relacion con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
 
 
 | Competidor          |                                                           | VetCare                                                                                                                                                                                                                                                       | 11Pets                                                                                                                                                                                                              | ExpertoAnimal                                                                                                                                                                                                 | SocialAnimals                                                                                                                                            |
