@@ -87,3 +87,17 @@ El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra infor
 Para nuestra página web, en las secciones de perfiles, citas y preguntas frecuentes, las cuales tendrá un diseño intuitivo sin saturación de botones para que el usuario al buscar una sección pueda hacerlo de manera sencilla, en el apartado de Mapa también brinda al usuario una vista general de su ubicación para poder visualizar las veterinarias.
 
 ![Searching-systems](/assets/img/Chapter-IV/Searching-systems.png)
+
+### 4.2.5. Navigation Systems
+
+En esta sección explicaremos las técnicas que usaremos para guiar a nuestros usuarios, de esta manera lograr que puedan interactuar con nuestro producto eficientemente.
+
+![Landing](/assets/img/Chapter-IV/Landing.png)
+
+En la cabecera tendremos las distintas secciones tales como perfiles, Map Vet, citas y las preguntas frecuentes, este nos ayudará a agilizar la navegación de nuestro cliente, y podrán recorrer todo nuestro contenido.
+
+También haremos uso del patrón de diseño Jump To Section, ya que, en estas secciones habrá botones donde a nuestro usuario lo redireccionaremos a otras páginas como es en el caso de Log In.
+
+![Register](/assets/img/Chapter-IV/Registro.png)
+
+En esta página el usuario podrá poner sus credenciales para que pueda acceder a la plataforma, y en caso pulse en Register se le mandará a la sección de registro para que pueda crearse una cuenta. También haremos usos del inline form en las que podrá completar sus datos solicitados.
