@@ -74,3 +74,22 @@ Para el desarrollo del Landing Page se usarán las siguientes nomenclaturas.
      Usaremos el camelCase para nombrar a nuestras variables. Además se evitará el uso de los caracteres especiales con el fin de evitar posibles errores en nuestro proyecto.
 -	Constantes
      Seran nombradas en mayúsculas. En caso el nombre sea compuesto se usará un guion abajo como separador (_) .
+
+## 5.1.4.	Software Deployment Configuration.
+Para el despliegue de nuestra landing page usamos GitHub donde primero realizamos la creación de nuestro repositorio donde se desarrollará el código de nuestra landing page
+
+![Repository Created](/assets/img/Chapter-V/Repository-Landing.png)
+
+Una vez creado nuestro repositorio, nos repartimos las distintas user stories para el desarrollo de nuestra landing page y creamos las ramas necesarias para que cada integrante pueda trabajar sin complicaciones.
+
+![Branches](/assets/img/Chapter-V/Branches.png)
+
+En el apartado de build and deployment selecciónamos la rama que queremos que se despliegue, en nuestro caso sería la rama develop, en la cual se realizan todos los cambios.
+
+![Github pages used](/assets/img/Chapter-V/Github-Pages-Config.png)
+
+Le damos a guardar y empezaría el despliegue de nuestro landing en Github Pages, nos generará un link con el cual podemos acceder a nuestro landing page.
+
+![Landing Page image](/assets/img/Chapter-V/Landing-Page.png)
+
+Link de la landing page: https://upc-coders.github.io/MapVet-LandingPage/
