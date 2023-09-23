@@ -36,3 +36,32 @@ El diseño del logo de nuestra marca fue basado  en  los iconos de mundo, ubicac
 El espacio usado entre las palabras, títulos o imágenes varía desde los 8 píxeles hasta los 40 píxeles.
 
 ![Spacing](/assets/img/Chapter-IV/Spacing.png)
+
+### 4.1.2.	Web Style Guidelines
+
+* Tema:
+
+Los temas aplicados son los de modo claro y oscuro.
+
+![Mode-light](/assets/img/Chapter-IV/Mode-light.png)
+
+![Dark-mode](/assets/img/Chapter-IV/Dark-mode.png)
+
+* Botones:
+
+Se muestran los botones seleccionados con los colores y sin seleccionar
+
+![Buttons](/assets/img/Chapter-IV/Buttons.png)
+
+* Índices:
+
+Los índices mostrados son del modo claro y oscuro.
+
+![Index](/assets/img/Chapter-IV/Index.png)
+
+* Diseño:
+
+Diseño de un cuadro de texto compuesto de un título, texto y botón. El espaciado usado entre los componentes es de 24 píxeles.
+
+![Design](/assets/img/Chapter-IV/Desing.png)
+
