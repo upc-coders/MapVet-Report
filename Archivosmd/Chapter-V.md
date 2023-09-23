@@ -2,6 +2,7 @@
 En esta sección presentamos los medios que usaremos para el seguimiento del desarrollo del código, usaremos la herramienta Github como plataforma y sistema de control de versiones.
 Respositorio en GitHub para el Proyecto:
 https://github.com/upc-coders/MapVet-Report/
+
 - Main Branch:
 Es nuestro branch principal y la raiz de nuestras ramas, aquí se visualizará el estado del código fuente, que luego se redirigirá a production, y donde al finalizar las tareas de las otras ramas se incorporará al producto final.
 - Develop Branch:
