@@ -165,3 +165,25 @@ En este Sprint 1 se logró la implementación de la landing page de MapVet, los 
 ### 5.2.1.5.  Software Deployment Evidence for Sprint Review.
 
 ### 5.2.1.6. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Información personal:**
+-	¿Cuál es tu nombre?
+-	¿Cuál es tu edad?
+-	¿Cuál es tu estado social?
+-	¿Cuál es tu ocupación profesional?
+-	¿Te encuentras trabajando en la actualidad?
+
+**Preguntas de interacción con la Landing Page y Web Application:**
+-	¿Como se sintió al interactuar con el landing page?
+-	¿Y en el apartado de la aplicación web, como sintió al interactuar con esta?
+-	¿Cómo fue su experiencia con el menú y botones tanto en el landing page como con la aplicación web?
+-	¿Logra identificar fácilmente las secciones importantes, como títulos y botones en las distintas vistas de la aplicación y en el Landing Page?
+-	¿Considera que la información brindada es puntual y sencilla?
+-	¿Siente que las tareas de reservar una cita y usar el mapa serian sencillas de realizar usando la interfaz?
+-	¿Pudo visualizar correctamente los perfiles de las mascotas y el mapa?
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
