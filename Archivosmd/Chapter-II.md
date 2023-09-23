@@ -233,3 +233,20 @@ Información de cuidado: El 100% de los entrevistados opta por informarse sobre 
 Atención Veterinaria: El 100% de los entrevistados prefiere llevar a su mascota al veterinario más cercano.
 
 Opinión acerca de la aplicación: El 100% de los entrevistados considera que es una buena idea la implementación de citas para evitar perder tiempo en realizar todo ese trámite.  
+
+## 2.3. Needfinding
+
+En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
+### 2.3.1. User Personas  
+
+En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
+
+**User Empathy Mapping: Veterinaria**  
+![UserPersona_Ariel](../assets/img/Chapter-II/UserPersona_Ariel.png)
+
+
+**User Empathy Mapping: Dueños de mascotas**   
+![UserPersonaPablo](../assets/img/Chapter-II/UserPersonaPablo.png)
+
+
