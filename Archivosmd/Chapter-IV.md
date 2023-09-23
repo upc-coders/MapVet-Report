@@ -160,3 +160,240 @@ En el siguiente diagrama se muestra los contenedores del sistema. Se presenta un
 En el siguiente diagrama se presenta los detalles de tecnología e implementación de los contenedores.
 
 ![Component](/assets/img/Chapter-IV/Diagraman-Component.png)
+
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+![Class-Diagram](/assets/img/Chapter-IV/Class-Diagram.png)
+
+
+### 4.7.2. Class Dictionary
+
+CLASE PERSONA
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el código del cliente y sirve como identificador de latabla PERSONA. Se comporta como PRIMARY KEY para comunicar la clase con la clase MASCOTA|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se guarda el nombre del cliente, dueño de la mascota|
+|APELLIDO|VARCHAR(100)|NO|En este atributo se guarda el apellido del cliente, dueño de la mascota|
+|TELEFONO|NUMBER(9)|NO|En este atributo se guarda el telefono del cliente, dueño de la mascota|
+|DOMICILIO|VARCHAR(200)|NO|En este atributo se guarda la dirección del domicilio del cliente, dueño de la mascota|
+|ESTADO|CHAR(1)|NO|En este atributo se guarda el estado del cliente respecto a la atención en la veterinaria entre activo (A) e inactivo (I)|
+
+
+CLASE MASCOTA
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el código de la mascota, que se genera al ser registrado por primera vez en la veterinaria|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se guarda el nombre completo de la mascota|
+|EDAD|NUMBER(3)|NO|En este atributo se guarda la edad de la mascota|
+|FECHANAC|DATE|NO|En este atributo la fecha de nacimiento de la mascota|
+|RAZA|VARCHAR(100)|NO|En este atributo se guarda la raza de la mascota|
+
+CLASE HISTORIAL MEDICO
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|CODIGO|VARCHAR(10)|SI|En este atributo se guarda el codigo de una intervención del historial médico de la mascota, se comporta como identificador de la clase|
+|DIAGNOSTICO|VARCHAR(500)|NO|En este atributo se almacena el diagnóstico que recibió la mascota en la intervención, si es que hubiera|
+|RECETA|VARCHAR(500)|NO|En este atributo se almacena la información de los medicamentos recetados para la macota|
+|ATENCION|VARCHAR(500)|NO|En este atributo se almacena la atención que recibió la mascota al ser intervenida|
+|ESTADO|CHAR(1)|NO|En este atributo se almacena el estado en el que se encuentra el padecimiento o el servicio, si activo(A) o inactivo(I) |
+
+CLASE VETERINARIA
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|ID_VET|VARCHAR(8)|SI|En este atributo se almacena el código de la veterinaria, se comporta como identificador de la clase|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se almacena el nombre de la Veterinaria|
+|DIRECCION|VARCHAR(150)|NO|En este atributo se almacena la dirección de la sede de la Veterinaria|
+
+CLASE DOCTOR
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|CODIGO|VARCHAR(10)|SI|En este atributo se almacena el codigo del médico-veterinario que trabaja en la Veterinaria, se comporta como identificador de la clase|
+|NOMBRE|VARCHAR(100)|NO|En este atributo se almacena el nombre del médico-veterinario|
+|APELLIDO|VARCHAR(100)|NO|En este atributo se almacena el apellido del médico-veterinario|
+|EDAD|NUMBER(2)|NO|En este atributo se almacena la edad del médico-veterinario|
+|PROFESION|VARCHAR(150)|NO|En este atributo se almacena la profesión del médico-veterinario|
+|TELEFONO|NUMBER(9)|NO|En este atributo se almacena el número de teléfono celular del médico-veterinario|
+|DOMICILIO|VARCHAR(200)|NO|En este atributo se almacena el domicilio del médico-veterinario|
+
+
+CLASE CITAS
+|ATRIBUTO|TIPO DE DATO|PRIMARY KEY|DESCRIPCION|
+|---|---|---|---|
+|CODIGO|CHAR(10)|SI|En este atributo se guardan los cóodigos de las citas disponibles |
+|FECHA|DATE|NO|En este atributo se guarda la fecha de la cita registrada|
+|HORA|NUMBER(2)|NO|En este atributo se guarda la hora de la cita registrada|
+|MINUTO|NUMBER(2)|NO|En este atributo se guarda el minuto de la cita registrada|
+|TIPO_CITA|VARCHAR(200)|NO|En este atributo se guarda el tipo ce cita que se va a registrar|
+|ESTADO|CHAR(1)|NO|En este atributo se guarda el estado de la cita, Reservado (R), Disponible(D), no disponible(N)|
+
+
+## 4.8. Database Design.
+
+CREATE TABLE citas (
+
+    codigo    CHAR(10) NOT NULL,
+    
+    fecha     DATE,
+    
+    hora      NUMBER(2),
+    
+    minuto    NUMBER(2),
+    
+    tipo_cita VARCHAR2(200 BYTE),
+    
+    estado    CHAR(1 BYTE),
+    
+    doctor    CHAR(8 BYTE) NOT NULL
+
+);
+
+ALTER TABLE citas ADD CONSTRAINT citas_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE doctor (
+
+    codigo    CHAR(8 BYTE) NOT NULL,
+    
+    nombre    VARCHAR2(100 BYTE),
+    
+    apellido  VARCHAR2(100 BYTE),
+    
+    edad      NUMBER(2),
+    
+    profesion VARCHAR2(150 BYTE),
+    
+    telefono  NUMBER(9),
+    
+    domicilio VARCHAR2(200 BYTE)
+
+);
+
+ALTER TABLE doctor ADD CONSTRAINT doctor_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE historial_medico (
+
+    codigo      CHAR(10 BYTE) NOT NULL,
+    
+    diagnostico VARCHAR2(500 BYTE),
+    
+    receta      VARCHAR2(500 BYTE),
+    
+    atencion    VARCHAR2(500 BYTE),
+    
+    estado      CHAR(1 BYTE),
+    
+    mascota     VARCHAR2(10 BYTE) NOT NULL
+
+);
+
+ALTER TABLE historial_medico ADD CONSTRAINT historial_medico_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE mascota (
+
+    codigo      VARCHAR2(10 BYTE) NOT NULL,
+    
+    nombre      VARCHAR2(100 BYTE),
+    
+    edad        NUMBER(3),
+    
+    raza        VARCHAR2(100 BYTE),
+    
+    dueño       VARCHAR2(10 BYTE) NOT NULL,
+    
+    veterinaria CHAR(8 BYTE) NOT NULL
+
+);
+
+ALTER TABLE mascota ADD CONSTRAINT mascota_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE persona (
+
+    codigo    VARCHAR2(10 BYTE) NOT NULL,
+    
+    nombre    VARCHAR2(100 BYTE),
+    
+    apellido  VARCHAR2(100 BYTE),
+    
+    telefono  NUMBER(9),
+    
+    domicilio VARCHAR2(200 BYTE),
+    
+    estado    CHAR(1)
+
+);
+
+ALTER TABLE persona ADD CONSTRAINT persona_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE registro_citas (
+
+    mascota VARCHAR2(10 BYTE) NOT NULL,
+    
+    citas   CHAR(10) NOT NULL,
+    
+    codigo  CHAR(10 BYTE) NOT NULL
+
+);
+
+ALTER TABLE registro_citas ADD CONSTRAINT relation_5_pk PRIMARY KEY ( codigo );
+
+CREATE TABLE veterinaria (
+
+    id_vet    CHAR(8 BYTE) NOT NULL,
+    
+    nombre    VARCHAR2(100 BYTE),
+    
+    direccion VARCHAR2(150 BYTE)
+
+);
+
+ALTER TABLE veterinaria ADD CONSTRAINT veterinaria_pk PRIMARY KEY ( id_vet );
+
+ALTER TABLE citas
+
+    ADD CONSTRAINT citas_doctor_fk FOREIGN KEY ( doctor )
+    
+        REFERENCES doctor ( codigo );
+
+ALTER TABLE historial_medico
+
+    ADD CONSTRAINT historial_medico_mascota_fk FOREIGN KEY ( mascota )
+    
+        REFERENCES mascota ( codigo );
+
+ALTER TABLE mascota
+
+    ADD CONSTRAINT mascota_persona_fk FOREIGN KEY ( dueño )
+    
+        REFERENCES persona ( codigo );
+
+
+ALTER TABLE mascota
+
+    ADD CONSTRAINT mascota_veterinaria_fk FOREIGN KEY ( veterinaria )
+    
+        REFERENCES veterinaria ( id_vet );
+
+
+ALTER TABLE registro_citas
+
+    ADD CONSTRAINT relation_5_citas_fk FOREIGN KEY ( citas )
+    
+        REFERENCES citas ( codigo );
+
+ALTER TABLE registro_citas
+
+    ADD CONSTRAINT relation_5_mascota_fk FOREIGN KEY ( mascota )
+    
+        REFERENCES mascota ( codigo );
+
+
+
+### 4.8.1. Database Diagram.
+
+![Database-diagram](/assets/img/Chapter-IV/Database-Diagram.JPG)
+
+
+
+
