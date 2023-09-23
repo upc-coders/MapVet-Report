@@ -282,4 +282,12 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 |   Configurar notificaciones y alertas  |Hardly ever|Low|
 
 
+## 2.3.3. User Journey Mapping
+
+En este apartado desarrollamos los User Journey Mapping para cada User Persona.
+
+**User Journey Mapping: Dueño de mascotas**  
+![Journey Map](https://i.ibb.co/xhZfB7w/image.png)
+
+
 
