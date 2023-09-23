@@ -262,8 +262,8 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 | Ofrecer Productos via servicio web| Always | HIGH |
 | Mantener registro de diagnósticos de mascotas atendidas| Sometimes | HIGH |
 | Manejar base de datos de Productos disponibles| Always | HIGH |
-| Manejar base de datos para el registro de mascotas nuevas y concurrentes | Often | Medium |
-| Ofrecer tips para el cuidado de mascotas| Never | Low |
+| Manejar base de datos para el registro de mascotas nuevas y concurrentes | Often | MEDIUM |
+| Ofrecer tips para el cuidado de mascotas| Never | LOW |
 
 
 **Segmento: Dueños de mascotas**  
@@ -275,12 +275,45 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 |   Buscar productos para la mascota  |Often|MEDIUM|
 |   Agregar los productos a la canasta  |Often|HIGH|
 |   Concretar la compra de los productos |Often|HIGH|
-|   Ver el historial médico de las mascotas  |Sometimes|Medium|
+|   Ver el historial médico de las mascotas  |Sometimes|MEDIUM|
 |   Buscar tips para el cuidado de la mascota  |Often|HIGH|
 |   Revisar el resumen de la compra |Always|HIGH|
-|   Editar datos de la mascota  |Never|Low|
-|   Configurar notificaciones y alertas  |Hardly ever|Low|
+|   Editar datos de la mascota  |Never|LOW|
+|   Configurar notificaciones y alertas  |Hardly ever|LOW|
 
+
+A través del User Task Matrix podemos identificar las frecuencias e importancias entre las diferentes User Persona que presentamos y esta nos sirva de guía.
+#### Dueños de mascotas:  
+Para los dueños de mascotas las tareas que presentan mayor frecuencia son:  
+- Separar un cita para la mascota.
+- Seleccionar el tipo de atención para la mascota.
+- Revisar el resumen de la compra.  
+
+Los datos que se necesitan en la User Task Matrix son la frecuencia con la que el propietario realiza el proceso de atención en una veterinaria, como por ejemplo, programar una cita para su mascota, seleccionar el tipo de atención y, a su vez, revisar el resumen de la compra.
+
+Para los dueños de mascotas las tareas que presentan mayor importancia son:
+- Separar una cita para la mascota.
+- Seleccionar el tipo de atención para la mascota.
+- Agregar los productos a la canasta.
+- Concretar la compra de los productos.
+- Buscar tips para el cuidado de la mascota.
+- Revisar el resumen de la compra.
+
+Los datos describen las importancias que el dueño de la mascota le brinda a las actividades, como seleccionar citas para sus mascotas, seleccionar el tipo de atención, agregar productos a la canasta, concretas la compra de los productos, buscar tips para el cuidado de la mascota y revisar el resumen de la compra. Este proceso es importante para la implementación.  
+
+#### Veterinarios:
+Para los veterinarios las tareas que presentan mayor frecuencia son:  
+- Ofrecer productos via servicio web.  
+- Manejar base de datos de productos disponibles.  
+
+Los datos describen las actividades más frecuentes como la oferta de productos a través de un servicio web y la gestión de la base de datos de productos disponible. Esto es frecuente, ya que de ello depende la función del negocio.  
+
+Para los veterinarios las tareas que presentan mayor importancia son:  
+- Ofrecer productos via servicio web.
+- Mantener registro de diagnósticos de mascotas atendidas.
+- Manejar base de datos de productos disponible.
+
+Los datos describen las actividades más importantes para los veterinarios, como el registro de diagnósticos de las mascotas atendidas, la venta de productos a través de la web y la gestión de la base de datos del stock de productos. Todo esto es de suma importancia, ya que cubre las necesidades para atender correctamente a los clientes.  
 
 ## 2.3.3. User Journey Mapping
 
