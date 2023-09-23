@@ -178,3 +178,58 @@ Por lo general, lleva a su gato a un veterinario cercano a su casa, no necesaria
 
 En relación a la aplicación, Rodrigo considera que es una idea excelente, ya que elimina la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas, lo que ahorra tiempo. Además, le resulta atractivo que la aplicación pueda proporcionar el historial médico de su mascota, lo que es muy práctico, ya que las recetas físicas suelen perderse y la información no siempre está disponible de manera constante.  
 
+### 2.2.3 Análisis de entrevistas  
+
+**Segmento: Veterinarias**  
+
+Atienden a todo tipo de razas, pero tienen un enfoque especial en los canes pequeños.  
+Cuentan con un médico veterinario especializado en cada una de sus sedes.  
+Utilizan bases de datos en el proceso de diagnóstico para verificar el origen de los problemas de salud.  
+No están preparados para atender emergencias graves y derivan a los pacientes a instalaciones adecuadas.  
+Realizan un chequeo minucioso en la mascota, evaluando su estado de piel, ojos y oídos.  
+Priorizan la satisfacción del cliente y la comodidad de las mascotas en futuras visitas.  
+Ofrecen atención para perros y gatos.  
+Atienden un promedio de alrededor de 25 mascotas en días de semana y aproximadamente 40 mascotas en los fines de semana.  
+Ambas veterinarias experimentan problemas relacionados con el software y hardware de las computadoras, lo que afecta la velocidad de funcionamiento de los equipos y genera frustración entre el personal.  
+Colaboran con doctores especializados en la atención de mascotas.  
+Mantienen un registro detallado de todas las atenciones médicas en una base de datos.  
+Se comunican con los clientes de forma virtual para recordarles los cuidados necesarios para sus mascotas.  
+No han implementado un software específico para gestionar citas y atienden a los clientes por orden de llegada.
+
+- Los entrevistados en este segmento expresan preocupación por los sistemas que se utilizan en las veterinarias, ya que consideran que son obsoletos y les preocupa los posibles problemas que puedan surgir en el futuro. Además, muestran interés en la posibilidad de contar con software que mejore la experiencia de trabajo para los empleados y la experiencia del usuario para los clientes.
+
+Atención a mascotas: El 100% de los entrevistados brinda atención a felinos y canes.
+
+Recepción de datos: El 100% de los entrevistados recopila sus datos en una base de datos que contiene información valiosa sobre la mascota.
+
+Problemas de software: El 100% de los entrevistados experimenta problemas con la gestión de aplicaciones en el trabajo debido a la falta de un buen mantenimiento.
+
+Falta de implementación de aplicaciones: El 100% de los entrevistados no cuenta con la implementación de una aplicación de citas.
+
+
+**Segmento: Dueños de mascotas**  
+
+Ronaldo:  
+__Número de Mascotas:__ Ronaldo tiene 2 mascotas, ambas adoptadas.  
+__Información sobre Cuidado:__ Utiliza Facebook y TikTok para obtener información sobre el cuidado de sus mascotas.  
+__Atención Veterinaria:__ En caso de emergencia, lleva a sus mascotas al veterinario más cercano y confía en la atención recibida.  
+__Consideración de Otras Clínicas:__ En situaciones de emergencia, considera visitar otras clínicas veterinarias cercanas.  
+__Aplicación de Citas:__ Considera que la opción de programar citas a través de una aplicación es una excelente idea y ve beneficios en tener acceso virtual al historial médico de sus mascotas.  
+__Compra de Productos:__ Está interesado en comprar productos relacionados con sus mascotas, como juguetes.
+
+Rodrigo:  
+__Tipo de Mascota:__ Rodrigo tiene un gato como mascota debido a su fuerte conexión con los gatos y su preferencia por animales más independientes que los perros.  
+__Búsqueda de Información:__ Investiga en Internet, consulta videos en YouTube y utiliza Instagram para obtener orientación y consejos sobre el cuidado de su gato.  
+__Atención Veterinaria:__ Lleva a su gato a un veterinario cercano a su casa y busca otras opciones de veterinarias a través de Instagram y recomendaciones en caso de dificultades.  
+__Dificultad para Obtener Citas:__ A menudo, enfrenta dificultades para obtener una cita en la clínica de su elección debido a la alta demanda.  
+__Opinión sobre la Aplicación:__ Considera que una aplicación para programar citas es una excelente idea, ya que ahorra tiempo y valora la posibilidad de acceder al historial médico de su mascota de manera virtual.  
+__Beneficios de la Aplicación:__ Ve como beneficios de la aplicación la eliminación de la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas y la disponibilidad del historial médico de su mascota de forma constante.
+
+
+- Los entrevistados en este segmento mostraron muchas similitudes en cuanto a la atención y cuidado de sus mascotas, como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no poder encontrar citas en el establecimiento de su preferencia. También expresaron su satisfacción ante la propuesta de contar con una aplicación web que les facilite la programación de citas para sus mascotas y, al mismo tiempo, les permita adquirir una variedad de productos para sus mascotas.
+
+Información de cuidado: El 100% de los entrevistados opta por informarse sobre el cuidado de su mascota a través de las redes sociales.
+
+Atención Veterinaria: El 100% de los entrevistados prefiere llevar a su mascota al veterinario más cercano.
+
+Opinión acerca de la aplicación: El 100% de los entrevistados considera que es una buena idea la implementación de citas para evitar perder tiempo en realizar todo ese trámite.  
