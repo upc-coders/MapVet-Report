@@ -78,3 +78,12 @@ El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra infor
 
 El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información referencial de la página web. Luego el usuario elegirá la opción de “médico” el cual le direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un paciente”, ”analizar la sangre“ o “comparaciones de resultados”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes también tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrara un link para llevarlo a nuestra chat de WhatsApp y por último tendrá la opciones “Historial de pacientes” donde podrá ver a todos los que atendió y ver sus resultados.
 
+### 4.2.2. Labeling Systems.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+Para nuestra página web, en las secciones de perfiles, citas y preguntas frecuentes, las cuales tendrá un diseño intuitivo sin saturación de botones para que el usuario al buscar una sección pueda hacerlo de manera sencilla, en el apartado de Mapa también brinda al usuario una vista general de su ubicación para poder visualizar las veterinarias.
+
+![Searching-systems](/assets/img/Chapter-IV/Searching-systems.png)
