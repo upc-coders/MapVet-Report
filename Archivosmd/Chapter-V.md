@@ -1,4 +1,5 @@
-## 5.1.1.	Software Development Environment Configuration.
+## 5.1. Software Configuration Management.
+### 5.1.1.	Software Development Environment Configuration.
 En esta sección especificaremos y detallaremos las plataformas y software que usamos como equipo para la realización de nuestro startup.
 - GitHub: En esta plataforma es donde crearemos nuestro repositorio donde realizaremos los avances de nuestro startup. Además, nos ayuda a tener un mejor control en el trabajo de equipo debido a que se puede visualizar el avance de cada integrante a través de los commits.
 https://github.com/
@@ -12,7 +13,7 @@ https://code.visualstudio.com/download
 Es una herramienta esencial en nuestro conjunto de software para el desarrollo de nuestro startup. Esta plataforma nos permite colaborar de manera efectiva en el diseño y prototipado de nuestras aplicaciones y productos. Con Figma, podemos crear y compartir diseños en tiempo real, lo que facilita la revisión y la retroalimentación por parte de todo el equipo. Además, esta herramienta nos ayuda a mantener una coherencia visual en nuestros proyectos, lo que es fundamental para la experiencia del usuario. 
 https://www.figma.com/
 
-## 5.1.2.	Source Code Management.
+### 5.1.2.	Source Code Management.
 En esta sección presentamos los medios que usaremos para el seguimiento del desarrollo del código, usaremos la herramienta Github como plataforma y sistema de control de versiones.
 Respositorio en GitHub para el Proyecto:
 https://github.com/upc-coders/MapVet
@@ -45,7 +46,7 @@ Es una convención ligera sobre los mensajes de confirmación. Nos proporciona u
 - style: Para los cambios de formato, tabulaciones, espacios o puntos y coma, etc;
 - test: Cuando se añade tests o refactoriza uno existente.
 
-## 5.1.3.	Source Code Style Guide & Conventions.
+### 5.1.3.	Source Code Style Guide & Conventions.
 **Convenciones que se usarán para el desarrollo del Landing Page:**
 Para el desarrollo del Landing Page se usarán las siguientes nomenclaturas.
 -	Usaremos nomenclatura en inglés
@@ -75,7 +76,7 @@ Para el desarrollo del Landing Page se usarán las siguientes nomenclaturas.
 -	Constantes
      Seran nombradas en mayúsculas. En caso el nombre sea compuesto se usará un guion abajo como separador (_) .
 
-## 5.1.4.	Software Deployment Configuration.
+### 5.1.4.	Software Deployment Configuration.
 Para el despliegue de nuestra landing page usamos GitHub donde primero realizamos la creación de nuestro repositorio donde se desarrollará el código de nuestra landing page
 
 ![Repository Created](/assets/img/Chapter-V/Repository-Landing.png)
@@ -93,3 +94,75 @@ Le damos a guardar y empezaría el despliegue de nuestro landing en Github Pages
 ![Landing Page image](/assets/img/Chapter-V/Landing-Page.png)
 
 Link de la landing page: https://upc-coders.github.io/MapVet-LandingPage/
+
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+En esta sección, se detalla el proceso completo de implementación y despliegue de la Landing Page. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.1.1. Sprint Planning 1
+En el Sprint Planning 1 se planificó para la elaboración de la landing page del proyecto. Mediante una reunión grupal se determinaron y acordaron distintos puntos para su elaboración
+
+|             Sprint #             |                                                                                                                               Sprint 1                                                                                                                                | 
+|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                       |
+|               Date               |                                                                                                                              	2023-09-22                                                                                                                              |
+|               Time               |                                                                                                                               08:00 PM	                                                                                                                               |
+|             Location             |                                                                                                                          	Virtual (Discord)                                                                                                                           |
+|           Prepared By            |                                                                                                                 	 Juliana Yauricasa, Daniel Valverde                                                                                                                  |
+|            Attendees             |                                                 Renato German Reyes Valenzuela / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Sebastian Andre Ramirez Mendez / Juliana Yauricasa Seguil              	                                                 |
+|    Sprint 1 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración de la landing page. Se acordó que la fecha de entrega de los tasks será hasta el 23 de septiembre de 2023                                                                                     	 |
+| Sprint 1 - Retrospective Summary |                           Un miembro del grupo consultó la posibilidad de ampliar la fecha de entrega de las tareas asignadas.                                                                                                            	                           |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                       |
+|          Sprint 1 Goal           |                                         Despliegue de la landing page en su totalidad, en un lapso de 3 días                                                                                                               	                                          |
+|        Sprint 1 Velocity         |                                                                                              *                                                                         	                                                                                              |
+|       Sum of Story Points        |                                                                                                         *                                                  	                                                                                                          |
+
+### 5.2.1.2. Sprint Backlog 1
+El objetivo principal del Sprint 1 es lograr la implementación de la landing page del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+|  Sprint #  | Sprint 1 |                     |        |             |            |             |        |
+|:----------:|:--------:|:-------------------:|:------:|:-----------:|:----------:|:-----------:|:------:|
+| User Story |    	     | 	Work-item / Task 	 |        |             |            |             |        |
+|     ID     |  Title	  |       	 	  ID       | Title  | Description | Estimation | Assigned To | Status | 
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+|            |    	     |         	 	         |        |             |            |             |        |
+
+### 5.2.1.3. Development Evidence for Sprint Review.
+
+|                        Repository                         | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date)   |
+|:---------------------------------------------------------:|:------:|:---------:|:--------------:|:-------------------:|:---------------------:|
+|     https://github.com/upc-coders/MapVet-LandingPage      |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+
+### 5.2.1.4. Execution Evidence for Sprint Review.
+En este Sprint 1 se logró la implementación de la landing page de MapVet, los miembros cumplieron con las tareas asignadas durante el sprint y gracias a esto se concretó con su implementación y despliegue. A continución, una vista de las principales pantallas de la landing page.
+
+
+![Landing 1](/assets/img/Chapter-V/Landing-Page.png)
+
+![Landing 2](/assets/img/Chapter-V/Landing-Page-About.png)
+
+![Landing 3](/assets/img/Chapter-V/Landing-Page-Recommendation.png)
+
+![Landing 4](/assets/img/Chapter-V/Landing-Page-Faq.png)
+
+![Landing 5](/assets/img/Chapter-V/Landing-Page-Pet.png)
+
+### 5.2.1.5.  Software Deployment Evidence for Sprint Review.
+
+### 5.2.1.6. Team Collaboration Insights during Sprint.
