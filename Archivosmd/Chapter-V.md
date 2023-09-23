@@ -152,7 +152,6 @@ El objetivo principal del Sprint 1 es lograr la implementación de la landing pa
 ### 5.2.1.4. Execution Evidence for Sprint Review.
 En este Sprint 1 se logró la implementación de la landing page de MapVet, los miembros cumplieron con las tareas asignadas durante el sprint y gracias a esto se concretó con su implementación y despliegue. A continución, una vista de las principales pantallas de la landing page.
 
-
 ![Landing 1](/assets/img/Chapter-V/Landing-Page.png)
 
 ![Landing 2](/assets/img/Chapter-V/Landing-Page-About.png)
