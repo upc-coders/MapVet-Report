@@ -317,10 +317,13 @@ Los datos describen las actividades más importantes para los veterinarios, como
 
 ## 2.3.3. User Journey Mapping
 
-En este apartado desarrollamos los User Journey Mapping para cada User Persona.
+En esta sección, desarrollamos los User Journey Mapping para cada User Persona. El flujo comienza desde la primera atención que se lleva a cabo en la consulta veterinaria, que implica buscar el servicio, atender la cita y, en otros casos, utilizar la tienda virtual para comprar diversos productos para la mascota. Desde la perspectiva del veterinario, se utiliza para realizar un registro adecuado de la atención, que luego se almacena en una base de datos para futuras consultas, lo que facilita la fluidez en dichos procesos.  
 
 **User Journey Mapping: Dueño de mascotas**  
-![Journey Map](https://i.ibb.co/xhZfB7w/image.png)
+![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapDuenio.png)
+
+**User Journey Mapping: Veterinario**  
+![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapVet.png)
 
 
 ## 2.3.4 Empathy Mapping
