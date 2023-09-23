@@ -122,3 +122,17 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 ![Wireframe4](/assets/img/Chapter-IV/Wireframe4.png)
 
 ![Wireframe5](/assets/img/Chapter-IV/Wireframe5.png)
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+### 4.4.3. Web Applications Mock-ups
+
+![Mockup1](/assets/img/Chapter-IV/Mockup1.png)
+
+![Mockup2](/assets/img/Chapter-IV/Mockup2.png)
+
+![Mockup3](/assets/img/Chapter-IV/Mockup3.png)
+
+![Mockup4](/assets/img/Chapter-IV/Mockup4.png)
+
+![Mockup5](/assets/img/Chapter-IV/Mockup5.png)
