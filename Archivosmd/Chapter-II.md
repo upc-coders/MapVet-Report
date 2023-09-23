@@ -74,3 +74,107 @@ En resumen, en "VetCare" nuestra estrategia de diferenciación se centra en brin
 12. ¿Qué opinas de la opción de que esta misma app-web te permita revisar sus recetas y otra información personalizada?
 13.	¿Qué piensas sobre la posibilidad de poder buscar productos para tu mascota en la misma app-web?
 
+### 2.2.2 Registro de entrevistas
+
+**Segmento: Veterinarias**
+
+|  Nro  | Veterinaria |  
+|:-----:|:-----------:|
+|   1   |    	  Pet Center      |   
+|   2   |     Pet´s Place 	      |   
+
+
+**Segmento: Dueños de mascotas**
+
+|  Nro  |       Dueño       | Mascota  |      
+|:-----:|:-----------------:|:--------:|
+|   1   |  Rodrigo Porles   |   Gato   | 
+|   2   |  Ronaldo Flores   |  Perro   |                     
+
+
+
+#### Entrevistas técnicos
+
+<div style="text-align: center;">
+
+<p >Entrevista 1</p>
+
+Nombre: Ariel Alberto Rivera Martinez, 30 años, Ate.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+</div>
+
+
+Duración de la entrevista: [00:00:00 - 00:09:00]
+
+__Resumen__:
+
+Administrador de PetCenter clínica veterinaria:  
+En nuestra clínica veterinaria, atendemos a todo tipo de razas, con un enfoque especial en los canes pequeños, que son más comunes de encontrar en departamentos pequeños. El índice de felinos atendidos es bastante bajo. En promedio, atendemos aproximadamente a unas 30 mascotas al día, ofreciendo una gama de servicios generales y consultas veterinarias. A veces experimentamos problemas en nuestro sistema, como caídas de la plataforma o dificultades en el registro de mascotas, lo que a su vez afecta el seguimiento de los casos caninos. Contamos con un médico veterinario especializado en cada una de nuestras sedes.
+
+En el proceso de diagnóstico, utilizamos ampliamente bases de datos, contrastando la información y verificando si el caso es de origen viral. En caso de emergencias graves, la sede de Ariel no está preparada para atenderlas, por lo que derivamos al paciente lo más rápido posible a una instalación adecuada. Ponemos gran énfasis en realizar un chequeo minucioso en la mascota, evaluando su estado actual de piel, ojos y oídos, para obtener un resumen médico completo de su estado. Utilizamos un sistema de registro completo en la veterinaria que abarca todos los aspectos de nuestro trabajo. Abordamos cualquier problema que surja en la veterinaria con prontitud, priorizando la satisfacción del cliente y la comodidad de sus mascotas en futuras visitas.
+
+<div style="text-align: center;">
+
+<p >Entrevista 2</p>
+
+Nombre: Juan Pablo Coscomaro, 36 años, Jesús María.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:09:00 - 00:13:40]
+
+__Resumen__:
+
+Soy trabajador de la veterinaria PetsPlace, ubicada en el distrito de La Molina. Ofrecemos atención para perros y gatos, con un promedio de alrededor de 20 mascotas en días de semana y aproximadamente 40 mascotas en los fines de semana. El software y el hardware de nuestras computadoras no han recibido mantenimiento en mucho tiempo, lo que ha causado que nuestros equipos funcionen de manera lenta y esto ha generado frustración entre los trabajadores de la veterinaria.
+
+Colaboramos con doctores especializados en la atención de mascotas y mantenemos un registro detallado de todas las atenciones médicas en una base de datos, tanto para los tratamientos como para las consultas que las mascotas han tenido históricamente. Principalmente, optamos por comunicarnos con nuestros clientes de forma virtual para recordarles si sus mascotas requieren ciertos cuidados, con el objetivo de mejorar la experiencia del cliente. Realizamos una investigación completa del historial de cada mascota antes de ofrecer servicios como baños y otros tratamientos, con el fin de atenderlas de la mejor manera posible.
+
+Aunque no hemos implementado un software específico para gestionar citas, atendemos a nuestros clientes por orden de llegada.
+
+#### Entrevistas usuarios
+
+<div style="text-align: center;">
+
+<p >Entrevista 3</p>
+
+Nombre: Ronaldo Flores, 22 años, Pachacamac.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:13:40 - 00:20:45]
+
+__Resumen__:
+
+En la actualidad, Ronaldo tiene 2 mascotas, ambas llegaron a su hogar a través de adopciones. Se informa sobre el cuidado de sus mascotas a través de Facebook y TikTok. En caso de una emergencia de mayor magnitud, lleva a sus mascotas al veterinario más cercano, donde siempre ha recibido un excelente trato y tiene plena confianza. En situaciones de emergencia, considera la posibilidad de visitar otras clínicas veterinarias cercanas.
+
+En cuanto a la aplicación, Ronaldo cree que es una excelente idea la opción de programar citas a través de la plataforma. Esto le beneficia, ya que en muchas ocasiones los documentos se extravían, lo que dificulta el acceso al historial médico de sus mascotas y sus recomendaciones. Por lo tanto, considera ideal tener toda esta información disponible de forma virtual.
+
+En cuanto a la posibilidad de comprar productos relacionados con sus mascotas, Ronaldo también considera una buena idea y le gustaría adquirir juguetes para sus fieles compañeros.
+
+<div style="text-align: center;">
+
+<p >Entrevista 4</p>
+
+Nombre: Rodrigo Porles, 18 años, Surco.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:20:45 - 00:28:56]
+
+__Resumen__:
+
+Rodrigo nos comenta que tiene un gato como mascota. La elección de tener una mascota felina se debió a que sintió una fuerte conexión con los gatos y también porque son animales más independientes que los perros. Investiga ampliamente en internet acerca del cuidado de su mascota, consulta videos en YouTube para obtener orientación sobre cómo cuidarla y utiliza Instagram para obtener consejos sobre su cuidado. A medida que convive con su animal, adquiere gradualmente las herramientas necesarias para su cuidado.
+
+Por lo general, lleva a su gato a un veterinario cercano a su casa, no necesariamente por la confianza, sino debido a la proximidad de la clínica a su hogar. Cuando enfrenta dificultades o necesita una segunda opinión, busca otras opciones de veterinarias a través de Instagram y recomendaciones. A menudo, le resulta complicado obtener una cita debido a la alta demanda en la clínica de su elección.
+
+En relación a la aplicación, Rodrigo considera que es una idea excelente, ya que elimina la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas, lo que ahorra tiempo. Además, le resulta atractivo que la aplicación pueda proporcionar el historial médico de su mascota, lo que es muy práctico, ya que las recetas físicas suelen perderse y la información no siempre está disponible de manera constante.  
+
