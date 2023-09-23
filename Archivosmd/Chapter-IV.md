@@ -136,3 +136,27 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 ![Mockup4](/assets/img/Chapter-IV/Mockup4.png)
 
 ![Mockup5](/assets/img/Chapter-IV/Mockup5.png)
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+En el siguiente diagrama se detalla como interactúan los usuarios con el sistema de VetCare y con sistemas externos como E-mail y plataformas de pago.
+
+![Context](/assets/img/Chapter-IV/Diagraman-SystemContext.png)
+
+### 4.6.2. Software Architecture Container Diagram
+
+En el siguiente diagrama se muestra los contenedores del sistema. Se presenta una vision mas amplia de la arquitectura de software.
+
+![Container](/assets/img/Chapter-IV/Diagraman-Container.png)
+
+### 4.6.3. Software Architecture Components Diagram
+
+En el siguiente diagrama se presenta los detalles de tecnología e implementación de los contenedores.
+
+![Component](/assets/img/Chapter-IV/Diagraman-Component.png)
