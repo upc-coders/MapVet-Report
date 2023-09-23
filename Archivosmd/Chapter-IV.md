@@ -101,3 +101,24 @@ También haremos uso del patrón de diseño Jump To Section, ya que, en estas se
 ![Register](/assets/img/Chapter-IV/Registro.png)
 
 En esta página el usuario podrá poner sus credenciales para que pueda acceder a la plataforma, y en caso pulse en Register se le mandará a la sección de registro para que pueda crearse una cuenta. También haremos usos del inline form en las que podrá completar sus datos solicitados.
+
+
+## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
+
+### 4.3.2. Landing Page Mock-up.
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+![Wireframe1](/assets/img/Chapter-IV/Wireframe1.png)
+
+![Wireframe2](/assets/img/Chapter-IV/Wireframe2.png)
+
+![Wireframe3](/assets/img/Chapter-IV/Wireframe3.png)
+
+![Wireframe4](/assets/img/Chapter-IV/Wireframe4.png)
+
+![Wireframe5](/assets/img/Chapter-IV/Wireframe5.png)
