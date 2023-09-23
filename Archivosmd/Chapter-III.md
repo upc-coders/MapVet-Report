@@ -51,3 +51,8 @@
 | HUD06 | Comentarios y Calificaciones     | Como dueño de una mascota, quiero poder ver los comentarios y calificaciones de otros usuarios sobre los productos antes de comprarlos. | - Debo poder ver los comentarios y calificaciones de otros usuarios en la página de detalles del producto. - Debe haber un sistema de calificación por estrellas y la opción de dejar comentarios. - Los comentarios deben mostrar la fecha de publicación y el nombre del usuario que los dejó. | EP002      |
 | HUD07 | Acceder a Guías de Cuidado       | Como dueño de una mascota, quiero acceder a guías detalladas de cuidado y salud para mi tipo específico de mascota (perro, gato, pájaro, etc.). | - La aplicación debe ofrecer guías de cuidado específicas para diferentes tipos de mascotas. - Debo poder seleccionar mi tipo de mascota y acceder a información relevante. - Las guías deben ser informativas y proporcionar consejos útiles sobre el cuidado y la salud de la mascota. | EP003      |
 
+## 3.3. Impact Mapping
+
+![Impact Mapping](/assets/img/Chapter-III/Impact-Map.png)
+
+
