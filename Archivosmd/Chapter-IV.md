@@ -78,9 +78,55 @@ El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra infor
 
 El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información referencial de la página web. Luego el usuario elegirá la opción de “médico” el cual le direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un paciente”, ”analizar la sangre“ o “comparaciones de resultados”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes también tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrara un link para llevarlo a nuestra chat de WhatsApp y por último tendrá la opciones “Historial de pacientes” donde podrá ver a todos los que atendió y ver sus resultados.
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems.  
 
-### 4.2.3. SEO Tags and Meta Tags
+En el contexto de una aplicación con un encabezado que incluye las pestañas "Profile, Mapa, Appointments, FAQ y Recommendations", el sistema de etiquetado desempeña un papel crucial para garantizar que los usuarios comprendan y utilicen eficazmente las funciones disponibles.  
+Aquí tienes un resumen sobre cómo podría funcionar un sistema de etiquetado para esta aplicación:  
+
+__Profile (Perfil):__  
+Esta pestaña se utiliza para acceder y gestionar la información del perfil del usuario, como nombre, foto, datos personales y preferencias.  
+El sistema de etiquetado asegura que la palabra "Profile" sea clara y fácil de entender, lo que indica que los usuarios pueden acceder a su perfil personal aquí.  
+
+__Mapa:__  
+La pestaña "Mapa" proporciona acceso a la funcionalidad de ubicación y navegación en la aplicación.  
+El etiquetado garantiza que los usuarios comprendan que pueden buscar lugares o navegar en un mapa interactivo.  
+
+__Appointments (Citas):__  
+Bajo la pestaña "Appointments", los usuarios pueden programar y gestionar sus citas o reuniones.  
+El sistema de etiquetado comunica claramente que esta sección está destinada a la gestión de citas.  
+
+__FAQ (Preguntas frecuentes):__  
+"FAQ" es una abreviatura comúnmente utilizada para "Frequently Asked Questions" (Preguntas Frecuentes).  
+El etiquetado informa a los usuarios que aquí encontrarán respuestas a preguntas comunes o información de soporte.  
+
+__Recommendations (Recomendaciones):__  
+La pestaña "Recommendations" puede ofrecer sugerencias personalizadas, consejos o recomendaciones basadas en las preferencias del usuario.  
+El sistema de etiquetado indica que esta sección proporciona información útil o sugerencias relevantes.  
+
+En resumen, un sistema de etiquetado efectivo en esta aplicación asegura que los usuarios comprendan claramente las funciones disponibles en cada sección del encabezado. Esto mejora la usabilidad y la experiencia del usuario, ya que facilita la navegación y el acceso a las características específicas que ofrece la aplicación.  
+
+
+### 4.2.3. SEO Tags and Meta Tags  
+En este apartado de mostrarán las etiquetas de SEO (Search Engine Optimization) y metaetiquetas para proporcionar información importante sobre la página web a los motores de búsqueda y a los navegadores. Aquí se explica cómo se utilizan estas etiquetas en el código:  
+
+Meta charset y Meta viewport:  
+ __Charset__: Especifica la codificación de caracteres de la página como UTF-8, lo que es importante para garantizar la visualización correcta de caracteres especiales.  
+__Viewport__: Controla la forma en que la página se adapta a diferentes tamaños de pantalla en dispositivos móviles y ayuda a que la página sea responsive.  
+
+Link rel para estilos y favicon:  
+__Estilos:__ Enlaza la hoja de estilo CSS que se utilizará para dar estilo a la página.  
+__Favicon:__ establece el ícono (favicon) que se mostrará en la pestaña del navegador.  
+
+Etiquetas de enlace a fuentes de Google Fonts:  
+Se utilizan múltiples etiquetas "link" para enlazar fuentes de Google Fonts, lo que permite cargar fuentes personalizadas en la página.  
+
+Title (Título):  
+Se establece el título "MapVet-LandingPage"  que se muestra en la barra de título del navegador. Este título es fundamental para el SEO, ya que ayuda a los motores de búsqueda y a los usuarios a comprender de qué trata la página.  
+
+En resumen, estas etiquetas de SEO y metaetiquetas son esenciales para mejorar la visibilidad de la página en los motores de búsqueda y garantizar una representación adecuada en dispositivos móviles. Además, el título de la página proporciona información clave sobre el contenido de la página, lo que puede atraer a los visitantes y mejorar la clasificación en los resultados de búsqueda.  
+
+
+
 
 ### 4.2.4. Searching Systems
 
@@ -107,7 +153,28 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 
 ### 4.3.1. Landing Page Wireframe.
 
+
+![Wireframe1](https://i.ibb.co/prkm74t/home.png)
+
+![Wireframe1](https://i.ibb.co/2Yw1Pqg/aboutus.png)
+
+![Wireframe3](https://i.ibb.co/nmwzxpG/about.png)
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+
+![Wireframe1](https://i.ibb.co/P9bbq85/mockup111.png)
+
+![Wireframe1](https://i.ibb.co/SvNjP8h/mockup2.png)
+
+![Wireframe1](https://i.ibb.co/FbcNFh5/mockup3.png)
+
+
+
+
+
+
 
 ## 4.4. Web Applications UX/UI Design
 
