@@ -53,7 +53,7 @@ Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana d
 
 ### 1.2.1. Antecedentes y problemática
 
-### _The 5 ‘W’s y 2 ‘H’s_
+__The 5 ‘W’s y 2 ‘H’s__
 
 **What?**
 
@@ -163,5 +163,20 @@ Hemos observado que los dueños de mascotas no tienen el acceso a información c
 
 ## 1.3. Segmentos objetivo
 
-- Personas de 18 a más, dueños de mascotas que están interesados en recibir un cuidado adecuado para sus mascotas.
-- Veterinarias que buscan mejorar la calidad de la atención y la experiencia de sus usuarios.
+Esta sección describe dos segmentos de público objetivo relacionados con el cuidado de mascotas:  
+
+Personas de 18 años en adelante, dueños de mascotas interesados en recibir un cuidado adecuado para sus mascotas:  
+__Edad:__ 18 años en adelante.  
+__Intereses:__ Interesados en el cuidado y bienestar de sus mascotas.  
+__Demografía:__ Pueden ser de diversas edades, géneros y orígenes étnicos, pero comparten el amor por los animales y la responsabilidad de cuidarlos.  
+__Comportamiento:__ Buscan servicios de atención médica veterinaria, productos de calidad para sus mascotas, y están dispuestos a invertir tiempo y dinero en el cuidado de sus animales.  
+__Necesidades:__ Información sobre salud y bienestar de mascotas, servicios de atención médica veterinaria, alimentos de calidad, productos de cuidado, consejos sobre entrenamiento y comportamiento, etc.  
+
+Veterinarias que buscan mejorar la calidad de la atención y la experiencia de sus usuarios:  
+__Tipo de negocio:__ Clínicas veterinarias, hospitales para animales, consultorios veterinarios.  
+__Intereses:__ Mejorar la calidad de atención médica para animales, aumentar la satisfacción del cliente, optimizar procesos internos, mantenerse al tanto de avances en la medicina veterinaria.  
+__Demografía:__ Profesionales veterinarios y personal de apoyo en clínicas y hospitales veterinarios.  
+__Comportamiento:__ Buscan herramientas y tecnologías que mejoren la gestión de pacientes, registros médicos, servicios de emergencia, comunicación con los dueños de mascotas, etc.  
+__Necesidades:__ Software de gestión de clínicas veterinarias, formación continua, productos médicos y farmacéuticos, recursos para mejorar la experiencia del cliente, actualizaciones sobre tratamientos y procedimientos veterinarios, etc.  
+
+Estos dos segmentos representan dos partes importantes de la comunidad relacionada con el cuidado de mascotas: los dueños de mascotas que buscan atención de calidad para sus animales y las veterinarias que proporcionan esos servicios. Identificar y comprender estos segmentos es esencial para diseñar estrategias efectivas de marketing y desarrollo de productos o servicios relacionados con el cuidado de mascotas.  
