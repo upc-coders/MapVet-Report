@@ -1,4 +1,5 @@
 ## 5.1. Software Configuration Management.
+En esta sección se detallan las decisiones y normas que posibilitarán que el equipo garantice la coherencia a lo largo de todo el ciclo de vida de desarrollo de nuestra solución.
 ### 5.1.1.	Software Development Environment Configuration.
 En esta sección especificaremos y detallaremos las plataformas y software que usamos como equipo para la realización de nuestro startup.
 - GitHub: En esta plataforma es donde crearemos nuestro repositorio donde realizaremos los avances de nuestro startup. Además, nos ayuda a tener un mejor control en el trabajo de equipo debido a que se puede visualizar el avance de cada integrante a través de los commits.
@@ -12,6 +13,13 @@ https://code.visualstudio.com/download
 - Figma:
 Es una herramienta esencial en nuestro conjunto de software para el desarrollo de nuestro startup. Esta plataforma nos permite colaborar de manera efectiva en el diseño y prototipado de nuestras aplicaciones y productos. Con Figma, podemos crear y compartir diseños en tiempo real, lo que facilita la revisión y la retroalimentación por parte de todo el equipo. Además, esta herramienta nos ayuda a mantener una coherencia visual en nuestros proyectos, lo que es fundamental para la experiencia del usuario. 
 https://www.figma.com/
+- UxPressia:
+Es una plataforma en línea especializada en el mapeo de la trayectoria del cliente. Nos ayuda a crear mapas de impacto y perfiles de usuario, como User Personas, Empathy Maps y Journey Maps.
+https://uxpressia.com/
+- Webstorm: 
+Es un entorno de desarrollo de JetBrains, una empresa especializada en software, orientado al desarrollo web en JavaScript. Esta herramienta proporciona facilidades para probar sitios web en navegadores como Google Chrome. En nuestro proyecto, utilizaremos webstorm para trabajar con lenguajes como HTML, CSS y JavaScript.
+https://www.jetbrains.com/webstorm/
+
 
 ### 5.1.2.	Source Code Management.
 En esta sección presentamos los medios que usaremos para el seguimiento del desarrollo del código, usaremos la herramienta Github como plataforma y sistema de control de versiones.
@@ -163,8 +171,12 @@ En este Sprint 1 se logró la implementación de la landing page de MapVet, los 
 ![Landing 5](/assets/img/Chapter-V/Landing-Page-Pet.png)
 
 ### 5.2.1.5.  Software Deployment Evidence for Sprint Review.
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama develop.
 
+**Link de la Landing Page desplegada:**  https://upc-coders.github.io/MapVet-LandingPage/
 ### 5.2.1.6. Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
