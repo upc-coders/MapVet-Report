@@ -83,4 +83,11 @@ Al culminar las redacciones de los User Story,debemos priorizarlas. El product B
 | 19              | US17 | Hacer una Cita (Appointment)              | Como usuario, quiero poder hacer una cita (appointment) en el Landing Page.                                                                                | 8            | EP006       |
 | 20              | US18 | Comprar en la Tienda (Store)              | Como usuario, quiero poder hacer una compra en la tienda del Landing Page.                                                                                 | 8            | EP006       |
 
+Imagen de Product Backlog en Pivotal Tracker:
+
+![Pivotal 1](/assets/img/Chapter-III/pivotal-1.png)
+
+![Pivotal 2](/assets/img/Chapter-III/pivotal-2.png)
+
+Link del Pivotal Tracker:  https://www.pivotaltracker.com/projects/2677948 
 
