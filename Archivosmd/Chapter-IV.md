@@ -153,34 +153,42 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 
 ### 4.3.1. Landing Page Wireframe.
 
+En esta parte se presentará la versión final de los Wireframes del Landing Page. [Link del Wireframe](https://acortar.link/1ijiKf)
 
-![Wireframe1](https://i.ibb.co/prkm74t/home.png)
+![Wireframe1](/assets/img/Chapter-IV/home.png)
 
-![Wireframe1](https://i.ibb.co/2Yw1Pqg/aboutus.png)
+![Wireframe1](/assets/img/Chapter-IV/aboutus.png)
 
-![Wireframe3](https://i.ibb.co/nmwzxpG/about.png)
+![Wireframe3](/assets/img/Chapter-IV/about.png)
 
+Los Wireframes que se desarrollaron en esta sección son bocetos que tienen como propósito esquematizar la estructura de nuestra landing page por lo general son de bajo nivel sin preocuparse tanto por los detalles de diseño gráfico, como colores o imágenes.
 
 ### 4.3.2. Landing Page Mock-up.
 
+En esta sección se desarrollo el Mockup del Landing Page en su versión final. [Link del Mockup](https://acortar.link/1ijiKf)
 
-![Wireframe1](https://i.ibb.co/P9bbq85/mockup111.png)
+![Mock-up](/assets/img/Chapter-IV/Wireframe.png)
 
-![Wireframe1](https://i.ibb.co/SvNjP8h/mockup2.png)
+![Mock-up](/assets/img/Chapter-IV/maboutus.png)
 
-![Wireframe1](https://i.ibb.co/FbcNFh5/mockup3.png)
+![Mock-up](/assets/img/Chapter-IV/mabout.png)
 
-
-
-
-
-
+En esta sección se creó el mockup utilizando el color turquesa y su gama de degradados, la tipografía utilizamos Ubuntu, Montserrat, Iria Sans, Chakras Petch y Open Sans Light y se incorporaron las imágenes requeridas.
 
 ## 4.4. Web Applications UX/UI Design
 
+A continuación, se mostrará y detallará la propuesta visual y de interacción para las características que conforman la interacción del usuario con los productos digitales. [Web Applications Wireframes](https://acortar.link/1ijiKf)
+
+
 ### 4.4.1. Web Applications Wireframes
 
+- Interfaz para los usuarios
+En estos Wireframes se visualiza la pantalla de carga, inicio de sesión y registro, los cuales fueron diseñados siguiendo la tipografía y tamaño especificados en la documentación.
+
 ![Wireframe1](/assets/img/Chapter-IV/Wireframe1.png)
+
+- Interfaz para los Dueños de mascotas
+A continuación, se presenta los Wireframes de las páginas de “Recomendaciones” página principal donde se visualizará las veterinarias recomendadas, “Veterinarias” perfil de la veterinaria y sus datos, “Perfiles” ver y editar los el perfil de las mascotas del usuario, “Mapa” interactivo donde tendrá recomendaciones de las veterinarias más cercanas y su calificación, “Citas” donde podrá ver las citas pendientes y crear una solicitud para algún chequeo de su mascota, “Tienda” donde podrá comprar artículos relacionados al cuidado de la mascota, “Pagos” para pagar de forma segura los artículos, “Reseña” donde podrá ver y dejar reseñas acerca de las veterinarias y calificarlas, “Preguntas Frecuentes” donde se tendrá información acerca del cuidado de mascota. Además, todo este contenido en un menú.
 
 ![Wireframe2](/assets/img/Chapter-IV/Wireframe2.png)
 
@@ -188,7 +196,31 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 
 ![Wireframe4](/assets/img/Chapter-IV/Wireframe4.png)
 
-![Wireframe5](/assets/img/Chapter-IV/Wireframe5.png)
+- Reservar una cita
+En esta sección el dueño de mascota está en la página de recomendaciones o en mapa para elegir alguna veterinaria buena, que se ajuste a sus necesidades
+
+![Wireframe5](/assets/img/Chapter-IV/recomendaciones.png)
+![Wireframe5](/assets/img/Chapter-IV/mapa.png)
+
+Al tener tomar la decisión de la veterinaria tendrá que darle al botón de “Nueva Cita” y se registrará rellenado los datos y presión al “botón” y se registrará como cita pendiente.
+
+![Wireframe5](/assets/img/Chapter-IV/veterinarias.png)
+![Wireframe5](/assets/img/Chapter-IV/citas-pendientes.png)
+![Wireframe5](/assets/img/Chapter-IV/reserva-de-citas.png)
+
+Interfaz del veterinario:
+- Interfaz del veterinario: 
+A continuación, se presenta los Wireframes de las páginas de “Inicio” donde se verán las veterinarias recomendadas, “Veterinaria” muestra los datos de la veterinaria con botones de tienda, reseña y reserva, “Perfil” donde se visualizar a los datos y poder editarlos, “Mapa” de las veterinarias cercanas, “Citas Agendadas” donde podrá visualizar y programar una cita para sus clientes, “Productos” se visualizará los productos disponibles para posteriormente comprarlos y Pago para pagar de manera segura. 
+
+![Wireframe5](/assets/img/Chapter-IV/w1v.png)
+![Wireframe5](/assets/img/Chapter-IV/w2v.png)
+![Wireframe5](/assets/img/Chapter-IV/w3v.png)
+
+- Programar cita
+El veterinario está en el apartado de Inicio e ingresa a la veterinaria que trabaja luego en el botón de *reservar* para posteriormente programar una cita mediante la proporción de información acerca de la cita y por último dar click en el botón de reservar.
+
+![Wireframe5](/assets/img/Chapter-IV/inicio.png)
+![Wireframe5](/assets/img/Chapter-IV/veterinaria.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
