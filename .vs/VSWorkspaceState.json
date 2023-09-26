@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Archivosmd"
+    "\\Archivosmd",
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\Archivosmd\\Competidores.md",
+  "SelectedNode": "\\Archivosmd\\Chapter-IV.md",
   "PreviewInSolutionExplorer": false
 }
