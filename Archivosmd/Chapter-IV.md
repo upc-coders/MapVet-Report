@@ -191,7 +191,7 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 ![Wireframe5](/assets/img/Chapter-IV/Wireframe5.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-
+ En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams
 ### 4.4.3. Web Applications Mock-ups
 
 ![Mockup1](/assets/img/Chapter-IV/Mockup1.png)
