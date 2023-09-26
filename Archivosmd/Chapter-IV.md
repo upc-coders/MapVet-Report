@@ -191,6 +191,8 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 ![Wireframe5](/assets/img/Chapter-IV/Wireframe5.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+En el siguiente apartado se muestra los wireflows diagram, el proceso que van a seguir tanto los dueños de mascotas como el personal de las veterinarias
+
 
 ### 4.4.3. Web Applications Mock-ups
 
