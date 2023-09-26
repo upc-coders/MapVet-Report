@@ -2,9 +2,9 @@
 
 ## 2.1. Competidores
 
-### 2.1.1. Analisis competitivo
+### 2.1.1. Análisis competitivo
 
-El objetivo del siguiente analisis competitivo es identificar las fortalezas y debilidades en relacion con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
+El objetivo del siguiente análisis competitivo es identificar las fortalezas y debilidades en relacion con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
 
 #### Competitive Analysis Landscape
 
@@ -23,3 +23,342 @@ El objetivo del siguiente analisis competitivo es identificar las fortalezas y d
 |                     | Debilidades                                               | Nuevo en el mercado y falta de experiencia.                                                                                                                                                                                                                    | Limitaciones presupuestarias para el mantenimiento de la aplicación.                                                                                                                                               | Mayor tiempo de respuesta en las consultas de usuarios.                                                                                                                                                          | Falta de soporte técnico para evitar posibles saturaciones en la aplicación.                                                                                   |
 |                     | Oportunidades                                             | Aprovechar la tecnología y el marketing digital para destacar la marca en redes sociales.                                                                                                                                                                   | Pocos competidores en el mercado.                                                                                                                                                                                   | Generar nuevos puestos de trabajo para el personal.                                                                                                                                                             | Implementar mejoras periódicas para los clientes.                                                                                                         |
 |                     | Amenazas                                                  | Inestabilidad política en el estado.                                                                                                                                                                                                                          | Condiciones climáticas desfavorables para el negocio local.                                                                                                                                                         | Impacto inestable en el sistema económico.                                                                                                                                                                    | Posibles caídas imprevistas en los servidores.                                                                                                              |
+
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+En "VetCare" hemos identificado que nuestra estrategia principal es la diferenciación. Nuestra compañía se enfoca en brindar atención médica veterinaria a través de una aplicación móvil y plataforma web, con un enfoque especial en el cuidado de animales. Reconocemos que cada especie de animal posee necesidades únicas en términos de atención médica, alimentación, entorno, higiene y otros aspectos. Nuestra plataforma se especializa en proporcionar información y atención personalizada para una amplia variedad de mascotas.
+
+Una de las características sobresalientes de nuestra marca es la oferta de atención veterinaria gratuita para situaciones de urgencia o emergencia que puedan enfrentar los animales. Además, ofrecemos la conveniencia de realizar compras a través de la misma aplicación. Esto no solo brinda beneficios a los dueños de mascotas, sino que también nos distingue de la competencia que no proporciona esta opción.
+
+En comparación con nuestros competidores, hemos establecido un sólido soporte técnico para garantizar el óptimo funcionamiento de nuestra aplicación y plataforma web. Reconocemos la importancia de la tecnología en el ámbito de la atención médica actual, y nos esforzamos por brindar una experiencia sin contratiempos a nuestros usuarios.
+
+En cuanto a nuestra estrategia de marketing, hemos identificado una oportunidad en la falta de presencia de nuestros competidores en una plataforma clave: YouTube. A diferencia de marcas como "11 pets", "Experto animal" y "Social Animals", que se centran en métodos de marketing digital tradicionales como Facebook, Twitter e Instagram, nosotros hemos adoptado un enfoque adicional mediante la creación de contenido en YouTube. Esta estrategia nos permite no solo generar ingresos a través de visitas y anuncios, sino también fortalecer nuestro producto al proporcionar información valiosa y práctica sobre la atención médica y el cuidado de mascotas. A través de nuestro canal de YouTube, no solo promocionamos nuestros servicios, sino que también nos convertimos en una fuente confiable de orientación y asesoramiento para los propietarios de mascotas.
+
+En resumen, en "VetCare" nuestra estrategia de diferenciación se centra en brindar atención médica veterinaria a través de una plataforma digital. Nuestro enfoque en la atención personalizada, la atención de urgencias gratuita y la creación de contenido en YouTube nos posiciona de manera única en el mercado de cuidado de mascotas.
+
+### 2.2.1 Diseño de entrevistas
+
+**Segmento: Veterinarias**
+
+1.	¿Cuál es tu nombre completo?
+2.	¿Qué edad tienes?
+3.	¿En qué zona vives?
+4.	¿Tienes una veterinaria propia? ¿Cómo se llama?
+5.	¿En qué zona la veterinaria en donde trabajas?
+6.	¿Cuál es el horario de atención y como es la modalidad de atención?
+7.	¿Cuáles son las mascotas más comunes que atienden?
+8.	¿Cuál es el promedio de mascotas que atienden en el día?
+9.	¿Qué mascotas está usted calificado(a) para darles una buena atención?
+10.	¿Sabe qué recursos o instrumentos son necesarios para cada especie de animal?
+11.	¿Sabe si las medicinas o tratamientos puede darles a cada animal dependiendo de la enfermedad que tenga?
+12.	¿Alguna vez tuvo que rechazar a una mascota por no estar calificado para darle una atención de calidad?
+13.	¿Tiene interés por informarse sobre una nueva mascota que vaya a tender?
+14.	¿Cuál es el tipo de medio por el cual encuentra información segura y confiable sobre una mascota exótica y sus respectivos cuidados?
+15.	¿Tiene actualmente alguna página, aplicación o un medio confiable que le brinde información sobre el cuidado de las mascotas?
+16. ¿Qué opinas de una aplicación que le ayude con las tareas de la veterinaria?
+17. ¿Qué te gustaría que implemente esta aplicación?
+
+**Segmento: Dueños de mascotas**
+
+1.	Datos Personales (edad, ubicación, ocupación, estado civil)
+2.	¿Tienes alguna mascota?, si la respuesta en si ¿Cuantos tienes?
+3.	¿Por qué elegiste esa mascota?
+4.	¿Por qué medio te informas sobre el cuidado de tu mascota?
+5.	¿Tienes alguna página, aplicación o blog de confianza para ti sobre el cuidado de tu mascota?
+6.	¿Compraste primero todo lo necesario para tu mascota antes de adoptarlo o fue después?
+7.	¿Qué es lo primero que haces cuando tu mascota se enferma?
+8.	¿Tienes algún veterinario de confianza? ¿Por qué es de confianza?
+9.	¿Alguna vez te pasó que la veterinaria que frecuentas no está abierta?, en caso la respuesta sea sí ¿Qué hiciste para resolver este problema?
+10.	¿Alguna vez tu mascota se enfermó por una negligencia de un veterinario?
+11.	¿Qué opinas sobre la posibilidad de contar con una app-web la cual te facilite agendar citas con tu veterinaria?
+12. ¿Qué opinas de la opción de que esta misma app-web te permita revisar sus recetas y otra información personalizada?
+13.	¿Qué piensas sobre la posibilidad de poder buscar productos para tu mascota en la misma app-web?
+
+### 2.2.2 Registro de entrevistas
+
+**Segmento: Veterinarias**
+
+|  Nro  | Veterinaria |  
+|:-----:|:-----------:|
+|   1   |    	  Pet Center      |   
+|   2   |     Pet´s Place 	      |   
+
+
+**Segmento: Dueños de mascotas**
+
+|  Nro  |       Dueño       | Mascota  |      
+|:-----:|:-----------------:|:--------:|
+|   1   |  Rodrigo Porles   |   Gato   | 
+|   2   |  Ronaldo Flores   |  Perro   |                     
+
+
+
+#### Entrevistas técnicos
+
+<div style="text-align: center;">
+
+<p >Entrevista 1</p>
+
+Nombre: Ariel Alberto Rivera Martinez, 30 años, Ate.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+</div>
+
+
+Duración de la entrevista: [00:00:00 - 00:09:00]
+
+__Resumen__:
+
+Administrador de PetCenter clínica veterinaria:  
+En nuestra clínica veterinaria, atendemos a todo tipo de razas, con un enfoque especial en los canes pequeños, que son más comunes de encontrar en departamentos pequeños. El índice de felinos atendidos es bastante bajo. En promedio, atendemos aproximadamente a unas 30 mascotas al día, ofreciendo una gama de servicios generales y consultas veterinarias. A veces experimentamos problemas en nuestro sistema, como caídas de la plataforma o dificultades en el registro de mascotas, lo que a su vez afecta el seguimiento de los casos caninos. Contamos con un médico veterinario especializado en cada una de nuestras sedes.
+
+En el proceso de diagnóstico, utilizamos ampliamente bases de datos, contrastando la información y verificando si el caso es de origen viral. En caso de emergencias graves, la sede de Ariel no está preparada para atenderlas, por lo que derivamos al paciente lo más rápido posible a una instalación adecuada. Ponemos gran énfasis en realizar un chequeo minucioso en la mascota, evaluando su estado actual de piel, ojos y oídos, para obtener un resumen médico completo de su estado. Utilizamos un sistema de registro completo en la veterinaria que abarca todos los aspectos de nuestro trabajo. Abordamos cualquier problema que surja en la veterinaria con prontitud, priorizando la satisfacción del cliente y la comodidad de sus mascotas en futuras visitas.
+
+<div style="text-align: center;">
+
+<p >Entrevista 2</p>
+
+Nombre: Juan Pablo Coscomaro, 36 años, Jesús María.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:09:00 - 00:13:40]
+
+__Resumen__:
+
+Soy trabajador de la veterinaria PetsPlace, ubicada en el distrito de La Molina. Ofrecemos atención para perros y gatos, con un promedio de alrededor de 20 mascotas en días de semana y aproximadamente 40 mascotas en los fines de semana. El software y el hardware de nuestras computadoras no han recibido mantenimiento en mucho tiempo, lo que ha causado que nuestros equipos funcionen de manera lenta y esto ha generado frustración entre los trabajadores de la veterinaria.
+
+Colaboramos con doctores especializados en la atención de mascotas y mantenemos un registro detallado de todas las atenciones médicas en una base de datos, tanto para los tratamientos como para las consultas que las mascotas han tenido históricamente. Principalmente, optamos por comunicarnos con nuestros clientes de forma virtual para recordarles si sus mascotas requieren ciertos cuidados, con el objetivo de mejorar la experiencia del cliente. Realizamos una investigación completa del historial de cada mascota antes de ofrecer servicios como baños y otros tratamientos, con el fin de atenderlas de la mejor manera posible.
+
+Aunque no hemos implementado un software específico para gestionar citas, atendemos a nuestros clientes por orden de llegada.
+
+#### Entrevistas usuarios
+
+<div style="text-align: center;">
+
+<p >Entrevista 3</p>
+
+Nombre: Ronaldo Flores, 22 años, Pachacamac.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:13:40 - 00:20:45]
+
+__Resumen__:
+
+En la actualidad, Ronaldo tiene 2 mascotas, ambas llegaron a su hogar a través de adopciones. Se informa sobre el cuidado de sus mascotas a través de Facebook y TikTok. En caso de una emergencia de mayor magnitud, lleva a sus mascotas al veterinario más cercano, donde siempre ha recibido un excelente trato y tiene plena confianza. En situaciones de emergencia, considera la posibilidad de visitar otras clínicas veterinarias cercanas.
+
+En cuanto a la aplicación, Ronaldo cree que es una excelente idea la opción de programar citas a través de la plataforma. Esto le beneficia, ya que en muchas ocasiones los documentos se extravían, lo que dificulta el acceso al historial médico de sus mascotas y sus recomendaciones. Por lo tanto, considera ideal tener toda esta información disponible de forma virtual.
+
+En cuanto a la posibilidad de comprar productos relacionados con sus mascotas, Ronaldo también considera una buena idea y le gustaría adquirir juguetes para sus fieles compañeros.
+
+<div style="text-align: center;">
+
+<p >Entrevista 4</p>
+
+Nombre: Rodrigo Porles, 18 años, Surco.
+
+[![Ver entrevista](../assets/img/Chapter-II/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
+
+Duración de la entrevista: [00:20:45 - 00:28:56]
+
+__Resumen__:
+
+Rodrigo nos comenta que tiene un gato como mascota. La elección de tener una mascota felina se debió a que sintió una fuerte conexión con los gatos y también porque son animales más independientes que los perros. Investiga ampliamente en internet acerca del cuidado de su mascota, consulta videos en YouTube para obtener orientación sobre cómo cuidarla y utiliza Instagram para obtener consejos sobre su cuidado. A medida que convive con su animal, adquiere gradualmente las herramientas necesarias para su cuidado.
+
+Por lo general, lleva a su gato a un veterinario cercano a su casa, no necesariamente por la confianza, sino debido a la proximidad de la clínica a su hogar. Cuando enfrenta dificultades o necesita una segunda opinión, busca otras opciones de veterinarias a través de Instagram y recomendaciones. A menudo, le resulta complicado obtener una cita debido a la alta demanda en la clínica de su elección.
+
+En relación a la aplicación, Rodrigo considera que es una idea excelente, ya que elimina la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas, lo que ahorra tiempo. Además, le resulta atractivo que la aplicación pueda proporcionar el historial médico de su mascota, lo que es muy práctico, ya que las recetas físicas suelen perderse y la información no siempre está disponible de manera constante.  
+
+### 2.2.3 Análisis de entrevistas  
+
+**Segmento: Veterinarias**  
+
+Atienden a todo tipo de razas, pero tienen un enfoque especial en los canes pequeños.  
+Cuentan con un médico veterinario especializado en cada una de sus sedes.  
+Utilizan bases de datos en el proceso de diagnóstico para verificar el origen de los problemas de salud.  
+No están preparados para atender emergencias graves y derivan a los pacientes a instalaciones adecuadas.  
+Realizan un chequeo minucioso en la mascota, evaluando su estado de piel, ojos y oídos.  
+Priorizan la satisfacción del cliente y la comodidad de las mascotas en futuras visitas.  
+Ofrecen atención para perros y gatos.  
+Atienden un promedio de alrededor de 25 mascotas en días de semana y aproximadamente 40 mascotas en los fines de semana.  
+Ambas veterinarias experimentan problemas relacionados con el software y hardware de las computadoras, lo que afecta la velocidad de funcionamiento de los equipos y genera frustración entre el personal.  
+Colaboran con doctores especializados en la atención de mascotas.  
+Mantienen un registro detallado de todas las atenciones médicas en una base de datos.  
+Se comunican con los clientes de forma virtual para recordarles los cuidados necesarios para sus mascotas.  
+No han implementado un software específico para gestionar citas y atienden a los clientes por orden de llegada.
+
+- Los entrevistados en este segmento expresan preocupación por los sistemas que se utilizan en las veterinarias, ya que consideran que son obsoletos y les preocupa los posibles problemas que puedan surgir en el futuro. Además, muestran interés en la posibilidad de contar con software que mejore la experiencia de trabajo para los empleados y la experiencia del usuario para los clientes.
+
+Atención a mascotas: El 100% de los entrevistados brinda atención a felinos y canes.
+
+Recepción de datos: El 100% de los entrevistados recopila sus datos en una base de datos que contiene información valiosa sobre la mascota.
+
+Problemas de software: El 100% de los entrevistados experimenta problemas con la gestión de aplicaciones en el trabajo debido a la falta de un buen mantenimiento.
+
+Falta de implementación de aplicaciones: El 100% de los entrevistados no cuenta con la implementación de una aplicación de citas.
+
+
+**Segmento: Dueños de mascotas**  
+
+Ronaldo:  
+__Número de Mascotas:__ Ronaldo tiene 2 mascotas, ambas adoptadas.  
+__Información sobre Cuidado:__ Utiliza Facebook y TikTok para obtener información sobre el cuidado de sus mascotas.  
+__Atención Veterinaria:__ En caso de emergencia, lleva a sus mascotas al veterinario más cercano y confía en la atención recibida.  
+__Consideración de Otras Clínicas:__ En situaciones de emergencia, considera visitar otras clínicas veterinarias cercanas.  
+__Aplicación de Citas:__ Considera que la opción de programar citas a través de una aplicación es una excelente idea y ve beneficios en tener acceso virtual al historial médico de sus mascotas.  
+__Compra de Productos:__ Está interesado en comprar productos relacionados con sus mascotas, como juguetes.
+
+Rodrigo:  
+__Tipo de Mascota:__ Rodrigo tiene un gato como mascota debido a su fuerte conexión con los gatos y su preferencia por animales más independientes que los perros.  
+__Búsqueda de Información:__ Investiga en Internet, consulta videos en YouTube y utiliza Instagram para obtener orientación y consejos sobre el cuidado de su gato.  
+__Atención Veterinaria:__ Lleva a su gato a un veterinario cercano a su casa y busca otras opciones de veterinarias a través de Instagram y recomendaciones en caso de dificultades.  
+__Dificultad para Obtener Citas:__ A menudo, enfrenta dificultades para obtener una cita en la clínica de su elección debido a la alta demanda.  
+__Opinión sobre la Aplicación:__ Considera que una aplicación para programar citas es una excelente idea, ya que ahorra tiempo y valora la posibilidad de acceder al historial médico de su mascota de manera virtual.  
+__Beneficios de la Aplicación:__ Ve como beneficios de la aplicación la eliminación de la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas y la disponibilidad del historial médico de su mascota de forma constante.
+
+
+- Los entrevistados en este segmento mostraron muchas similitudes en cuanto a la atención y cuidado de sus mascotas, como acudir a una veterinaria cercana, buscar consejos en redes sociales y a veces no poder encontrar citas en el establecimiento de su preferencia. También expresaron su satisfacción ante la propuesta de contar con una aplicación web que les facilite la programación de citas para sus mascotas y, al mismo tiempo, les permita adquirir una variedad de productos para sus mascotas.
+
+Información de cuidado: El 100% de los entrevistados opta por informarse sobre el cuidado de su mascota a través de las redes sociales.
+
+Atención Veterinaria: El 100% de los entrevistados prefiere llevar a su mascota al veterinario más cercano.
+
+Opinión acerca de la aplicación: El 100% de los entrevistados considera que es una buena idea la implementación de citas para evitar perder tiempo en realizar todo ese trámite.  
+
+## 2.3. Needfinding
+
+En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
+### 2.3.1. User Personas  
+
+En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
+
+**User Empathy Mapping: Veterinaria**  
+![UserPersona_Ariel](../assets/img/Chapter-II/UserPersona_Ariel.png)
+
+
+**User Empathy Mapping: Dueños de mascotas**   
+![UserPersonaPablo](../assets/img/Chapter-II/UserPersonaPablo.png)
+
+### 2.3.2. User Task Matrix  
+
+En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos e identificamos la importancia de cada una de estas tareas para cada segmento.
+
+
+**Segmento: Veterinaria**  
+|  User Task  | Veterinarias |  |
+|-------------|-------------|-------------|
+|   Task      | Frecuencia  | Importancia |
+| Ofrecer Software de Registro de Citas| Sometimes | MEDIUM |
+| Ofrecer Productos via servicio web| Always | HIGH |
+| Mantener registro de diagnósticos de mascotas atendidas| Sometimes | HIGH |
+| Manejar base de datos de Productos disponibles| Always | HIGH |
+| Manejar base de datos para el registro de mascotas nuevas y concurrentes | Often | MEDIUM |
+| Ofrecer tips para el cuidado de mascotas| Never | LOW |
+
+
+**Segmento: Dueños de mascotas**  
+|  User Task  | Dueños de Mascotas |  |
+|-------------|-------------|-------------|
+|   Task      | Frecuencia  | Importancia |
+|   Separar una cita para la mascota  |Always|HIGH|
+|   Seleccionar el tipo de atención para la mascota  |Always|HIGH|
+|   Buscar productos para la mascota  |Often|MEDIUM|
+|   Agregar los productos a la canasta  |Often|HIGH|
+|   Concretar la compra de los productos |Often|HIGH|
+|   Ver el historial médico de las mascotas  |Sometimes|MEDIUM|
+|   Buscar tips para el cuidado de la mascota  |Often|HIGH|
+|   Revisar el resumen de la compra |Always|HIGH|
+|   Editar datos de la mascota  |Never|LOW|
+|   Configurar notificaciones y alertas  |Hardly ever|LOW|
+
+
+A través del User Task Matrix podemos identificar las frecuencias e importancias entre las diferentes User Persona que presentamos y esta nos sirva de guía.
+#### Dueños de mascotas:  
+Para los dueños de mascotas las tareas que presentan mayor frecuencia son:  
+- Separar un cita para la mascota.
+- Seleccionar el tipo de atención para la mascota.
+- Revisar el resumen de la compra.  
+
+Los datos que se necesitan en la User Task Matrix son la frecuencia con la que el propietario realiza el proceso de atención en una veterinaria, como por ejemplo, programar una cita para su mascota, seleccionar el tipo de atención y, a su vez, revisar el resumen de la compra.
+
+Para los dueños de mascotas las tareas que presentan mayor importancia son:
+- Separar una cita para la mascota.
+- Seleccionar el tipo de atención para la mascota.
+- Agregar los productos a la canasta.
+- Concretar la compra de los productos.
+- Buscar tips para el cuidado de la mascota.
+- Revisar el resumen de la compra.
+
+Los datos describen las importancias que el dueño de la mascota le brinda a las actividades, como seleccionar citas para sus mascotas, seleccionar el tipo de atención, agregar productos a la canasta, concretas la compra de los productos, buscar tips para el cuidado de la mascota y revisar el resumen de la compra. Este proceso es importante para la implementación.  
+
+#### Veterinarios:
+Para los veterinarios las tareas que presentan mayor frecuencia son:  
+- Ofrecer productos via servicio web.  
+- Manejar base de datos de productos disponibles.  
+
+Los datos describen las actividades más frecuentes como la oferta de productos a través de un servicio web y la gestión de la base de datos de productos disponible. Esto es frecuente, ya que de ello depende la función del negocio.  
+
+Para los veterinarios las tareas que presentan mayor importancia son:  
+- Ofrecer productos via servicio web.
+- Mantener registro de diagnósticos de mascotas atendidas.
+- Manejar base de datos de productos disponible.
+
+Los datos describen las actividades más importantes para los veterinarios, como el registro de diagnósticos de las mascotas atendidas, la venta de productos a través de la web y la gestión de la base de datos del stock de productos. Todo esto es de suma importancia, ya que cubre las necesidades para atender correctamente a los clientes.  
+
+## 2.3.3. User Journey Mapping
+
+En esta sección, desarrollamos los User Journey Mapping para cada User Persona. El flujo comienza desde la primera atención que se lleva a cabo en la consulta veterinaria, que implica buscar el servicio, atender la cita y, en otros casos, utilizar la tienda virtual para comprar diversos productos para la mascota. Desde la perspectiva del veterinario, se utiliza para realizar un registro adecuado de la atención, que luego se almacena en una base de datos para futuras consultas, lo que facilita la fluidez en dichos procesos.  
+
+**User Journey Mapping: Dueño de mascotas**  
+![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapDuenio.png)
+
+**User Journey Mapping: Veterinario**  
+![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapVet.png)
+
+
+## 2.3.4 Empathy Mapping
+
+En esta sección, se presenta el Empathy Mapping realizado para ambos segmentos (dueño de mascotas y veterinarias). Esta herramienta resulta útil para crear perfiles detallados de los User Persona y desarrollar descripciones más profundas desde su perspectiva. Para cada User Persona, se incluyen elementos clave que son fundamentales para la implementación del artefacto, que incluyen lo que el usuario ve, escucha, dice, hace y siente. Además, se abordan las preocupaciones y los beneficios, analizados a partir de preguntas como: ¿Qué le preocupa? ¿Qué puede contribuir a resolver sus problemas? ¿Qué podría convencerlo de que somos la elección adecuada? ¿Qué comunica? Todo esto es de gran ayuda para crear un artefacto de fácil implementación y de vital importancia para el proceso de Needfinding.
+
+
+**Empathy Mapping: Veterinaria**
+
+![imagen_empathy_mapping](https://i.ibb.co/6bQSHNG/empathyVet.PNG)
+
+
+**Empathy Mapping: Dueños de mascotas**
+
+![imagen_empathy_mapping](https://i.ibb.co/6bQSHNG/image.png)
+
+## 2.3.5 As-Is Scenario Mapping
+
+
+**Segmento: Veterinaria**  
+| Fase | Necesito Registrar la atención de mascotas | Realizo el proceso de citas | Administro los productos que tengo en disposición para las mascotas |
+|-----|--------------|--------------|--------------|
+| Doing 	| Recibe a un cliente en busca de reservar una cita	| Adjunto en una libreta física el registro de la cita	| Ofrezco en un mostrador limitados productos para mis clientes	|
+| 			|Registra manualmente los datos de la mascota 	|Busca si tiene disponibilidad en próximas fechas	|	|
+| Thinking  | El cliente viene cuando no hay citas disponibles para hoy	|Tengo que cuadrar bien los horarios para que luego no se den inconvenientes por cruce	|El cliente debe adaptarse a los productos que tengo en mi local|
+| 			|El cliente debe recordar la fecha y hora de la cita para no perjudicarme	| Pierdo mucho tiempo registrando manualmente a los pacientes	|Busco alguna forma de ofrecer más productos	|
+| Feeling   |Siento que las formas de control son ineficientes	| Ojalá no se pierdan mis apuntes	|Desearía poder vender más artículos para obtener más ingresos	|
+
+
+**Segmento: Dueños de mascotas**  
+| Fase | Necesito atención para mi mascota | Agendo una cita con un veterinario | Compro insumos para mi mascota |
+|-----|--------------|--------------|--------------|
+| Doing 	|Busco tips en redes sociales	|Tengo que ir físicamente al local para consultar la posibilidad de una cita	|Busco Productos para mi mascota	 |
+| 			|Acudo al centro de atención para mi mascota	|Perdí el tiempo yendo hasta el local ya que no habían citas disponibles para estas fechas	|No encuentro gran variedad de productos para mi mascota	 |
+| Thinking  |Creo que no son tan confiables los tips que encuentro en redes sociales	|Pienso que debería existir una solución para facilitar el agendado de citas	|Creo que buscar medicinas en una farmacia física me quitará tiempo y dinero |
+| 			|Espero que la veterinaria pueda atender a mi mascota de forma rápida	|Pienso que esta situación me obliga a ir a otra veterinaria	|Buscar una tienda variada de insumos me queda lejos y puede que no sea la mejor opción	 |
+| Feeling   |Siento que puedo causar un daño a mi mascota si hago caso a cualquier consejo que encuentro en redes	|Siento incomodidad porque no puedo atender a mi mascota 	|Opino que sería mejor si pudiera comprar en línea los productos de la misma veterinaria |
+|			|Ojalá la veterinaria no este cerrada para atender a mi mascota	|Siento temor de llevar a mi mascota a otra veterinaria porque no sé como es la atención	|Me siento estresado porque no encuentro una tienda cercana a mi hogar	|
