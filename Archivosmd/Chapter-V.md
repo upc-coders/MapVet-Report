@@ -121,41 +121,156 @@ En el Sprint Planning 1 se planificó para la elaboración de la landing page de
 | Sprint 1 - Retrospective Summary |                           Un miembro del grupo consultó la posibilidad de ampliar la fecha de entrega de las tareas asignadas.                                                                                                            	                           |
 |  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                       |
 |          Sprint 1 Goal           |                                         Despliegue de la landing page en su totalidad, en un lapso de 3 días                                                                                                               	                                          |
-|        Sprint 1 Velocity         |                                                                                              *                                                                         	                                                                                              |
-|       Sum of Story Points        |                                                                                                         *                                                  	                                                                                                          |
+|        Sprint 1 Velocity         |                                                                                             30                                                                         	                                                                                              |
+|       Sum of Story Points        |                                                                                                         27                                                  	                                                                                                         |
 
 ### 5.2.1.2. Sprint Backlog 1
 El objetivo principal del Sprint 1 es lograr la implementación de la landing page del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
 
-|  Sprint #  | Sprint 1 |                     |        |             |            |             |        |
-|:----------:|:--------:|:-------------------:|:------:|:-----------:|:----------:|:-----------:|:------:|
-| User Story |    	     | 	Work-item / Task 	 |        |             |            |             |        |
-|     ID     |  Title	  |       	 	  ID       | Title  | Description | Estimation | Assigned To | Status | 
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
-|            |    	     |         	 	         |        |             |            |             |        |
+#### 5.2.1.2. Sprint Backlog 1.
+
+A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US21: Ver Preguntas Frecuentes (FAQ) </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir preguntas</td>
+    <td align="justify"> Se añadirán las preguntas frecuentes en cards</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US 19: Ver el perfil de la mascota</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se añadirá información de las mascotas </td>
+    <td align="center"> Dado que la mascota cuenta con su información registrada, se mostrará su perfil</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar estilos</td>
+    <td align="center"> Se usará css para mostrar la información en una tabla </td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US 17: Hacer una cita</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir campos de información</td>
+    <td align="center"> Se añaden los campos para que sean completados por el usuario y confirme con el boton "Nueva Cita" </td>
+    <td align="center"> 3</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seleccionar veterinaria</td>
+    <td align="center"> Se mostrará la información final de los detalles de la cita y un botón "Reservar" para confirmar la cita</td>
+    <td align="center"> 2</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Muestra de las citas registradas </td>
+    <td align="center"> Se muestran en cards las citas registradas con su respectiva información </td>
+    <td align="center"> 2</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US 16: Apartado de recomendaciones </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Muestra de veterinarias recomendadas </td>
+    <td align="center"> Se agrega una foto de la veterinaria recomendada en la cual se puede hacer click para mostrar más detalles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Opciones disponibles</td>
+    <td align="center"> Se muestran opciones de los servicios que ofrece la veterinaria para poder elegir</td>
+    <td align="center"> 3</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
 
-|                        Repository                         | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date)   |
-|:---------------------------------------------------------:|:------:|:---------:|:--------------:|:-------------------:|:---------------------:|
-|     https://github.com/upc-coders/MapVet-LandingPage      |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
-|                                                           |   	    |    	 	    |      	 	       |         	 	         |          	 	          |
+|                       Repository                       |                    Branch                     |                                                      Commit Id                                                       |                                    Commit Message                                    | Commit Message Body |    Committed on (Date)    |
+|:------------------------------------------------------:|:---------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-------------------:|:-------------------------:|
+| https://github.com/upc-coders/MapVet-LandingPage-Final |             feature/appoinment 	              |                                    cd2db005aec1211ae32c0a4e05a83b8c3836b895  	 	                                     |                     feat(appointment): added appointment    	 	                      |    ---      	 	     |   26/09/2023        	 	   |
+|                                                        |         feature/appoinment         	          |                           e376c303c755645279d5d020bded67dd117e2c88                     	 	                           |         feat(bookappointment): added bookappointment.                    	 	         |    ---       	 	    |  26/09/2023         	 	   |
+|                                                        |       feature/appoinment             	        |                           bcdfda415ef4d64ce709b4d6107042ccad986700                     	 	                           |         feat(newappointment): added bookappointment.                    	 	          |   ---        	 	    |  26/09/2023         	 	   |
+|                                                        |         feature/login               	         |                      6f099c2eb153ee29d25fcd0bde3514faf186095d                              	 	                       |              feat(login): add login                                	 	               | ---             	 	 |  26/09/2023         	 	   |
+|                                                        |          feature/login             	          |                      beef323fb9ee15c34760a63989c3f9beda3c4711                              	 	                       |        feat(userregister): add userregister                               	 	        |   ---        	 	    |  26/09/2023          	 	  |
+|                                                        |    feature/recommendations               	    |                     548637f9a0aa62b5c9066ba51e2e1bdc7b9f59d2                                 	 	                     | feat(reviews): added reviews                                                     	 	 |   ---         	 	   |  26/09/2023          	 	  |
+|                                                        | feature/recommendations                     	 |                    5ee4dcda633acce7419355da1d480097ce27da74                                   	 	                    |   feat(infoveterinary): added infoveterinary                                  	 	    |    ---       	 	    | 26/09/2023            	 	 |
+|                                                        |  feature/recommendations                   	  |                    971651832eee4a9ad313555898c78b6cfa58d9be                                  	 	                     |         feat(mainmenu): added mainmenu                                  	 	          |    ---      	 	     | 26/09/2023            	 	 |
+|                                                        |     feature/profile                     	     |                   0a9afe70ce7bb8c947c980752f0df3fece40372a                                    	 	                    |     feat(petprofile): add petprofile.                                        	 	     |   ---        	 	    | 25/09/2023           	 	  |
+|                                                        |      feature/profile                  	       |                   0ca9b85a2282572008b8c816cfae99ef7d375e33                                     	 	                   |     feat(vetprofile): add vetprofile.                                        	 	     |   ---        	 	    | 25/09/2023           	 	  |
+|                                                        |       feature/map                     	       |                   39b9980875f5c94c792bc60e84e498c8082ad129                                    	 	                    |            feat(map): add map.                                        	 	            |   ---        	 	    | 25/09/2023           	 	  |
+|                                                        |    feature/faq                          	     | 758f471366501fd48f0a9121b9d67e3c3d91384a                                                                         	 	 |            feat(faq): add faq.                                       	 	             |     ---     	 	     | 25/09/2023           	 	  |
+|                                                        |        developer                     	        |         dcc1aea730b29229cea9eb6fb13574f957a0b201                                                        	 	          |        feat(main): Initial Commit.                                        	 	        |     ---     	 	     | 25/09/2023           	 	  |
+
+
 
 ### 5.2.1.4. Execution Evidence for Sprint Review.
 En este Sprint 1 se logró la implementación de la landing page de MapVet, los miembros cumplieron con las tareas asignadas durante el sprint y gracias a esto se concretó con su implementación y despliegue. A continución, una vista de las principales pantallas de la landing page.
@@ -177,6 +292,15 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 ### 5.2.1.6. Team Collaboration Insights during Sprint.
 En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
 
+![commits-1](/assets/img/Chapter-V/gitflow-pulse.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+
+![commits-2](/assets/img/Chapter-V/gitflow-traffic.png)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network](/assets/img/Chapter-V/gitflow-network.png)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
