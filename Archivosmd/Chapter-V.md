@@ -326,7 +326,7 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
   </tr>
 
    <tr>
@@ -345,25 +345,84 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
-    <td rowspan="2" align="center"> US00 </td>
-    <td rowspan="2" align="center">  </td>
-    <td align="center">  </td>
-    <td align="center"> </td>
-    <td align="justify"> </td>
-    <td align="center">  </td>
-    <td align="center">   </td>
-    <td align="center"></td>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US21: Ver Preguntas Frecuentes (FAQ) </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir preguntas</td>
+    <td align="justify"> Se añadirán las preguntas frecuentes en cards</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
   </tr>
 
   <tr>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center">  </td>
-    <td align="center"></td>
+    <td align="center"> TA02 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
   </tr>
 
+ 
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US 17: Hacer una cita</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir campos de información</td>
+    <td align="center"> Se añaden los campos para que sean completados por el usuario y confirme con el boton "Nueva Cita" </td>
+    <td align="center"> 3</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seleccionar veterinaria</td>
+    <td align="center"> Se mostrará la información final de los detalles de la cita y un botón "Reservar" para confirmar la cita</td>
+    <td align="center"> 2</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Muestra de las citas registradas </td>
+    <td align="center"> Se muestran en cards las citas registradas con su respectiva información </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US 16: Apartado de recomendaciones </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Muestra de veterinarias recomendadas </td>
+    <td align="center"> Se agrega una foto de la veterinaria recomendada en la cual se puede hacer click para mostrar más detalles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Opciones disponibles</td>
+    <td align="center"> Se muestran opciones de los servicios que ofrece la veterinaria para poder elegir</td>
+    <td align="center"> 3</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
 
 </table>
 
