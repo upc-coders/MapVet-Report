@@ -167,7 +167,7 @@ Los Wireframes que se desarrollaron en esta sección son bocetos que tienen como
 
 En esta sección se desarrollo el Mockup del Landing Page en su versión final. [Link del Mockup](https://acortar.link/1ijiKf)
 
-![Mock-up](/assets/img/Chapter-IV/Wireframe.png)
+![Mock-up](/assets/img/Chapter-IV/mhome.png)
 
 ![Mock-up](/assets/img/Chapter-IV/maboutus.png)
 
@@ -250,6 +250,68 @@ Veterinarias
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver los productos que tenemos en venta.
 ![WireflowDiagram8](/assets/img/Chapter-IV/VerTienda.PNG)
+
+Usuarios
+
+- User Goal: Como usuario deseo registrarse dentro de la aplicación web.
+
+![Wireframe5](/assets/img/Chapter-IV/Register.png)
+
+El usuario comienza su interacción su interacción con la aplicación web brindando los datos para la creación de su cuenta: Nombre, Apellido, email, contraseña, confirmación de contraseña, fecha de nacimiento y sexo.
+
+- User Goal: Como usuario deseo iniciar mi sesión para acceder a la aplicación web
+
+![Wireframe5](/assets/img/Chapter-IV/login.png)
+
+El usuario rellena los datos que le solicita la aplicación web para poder ingresar a su cuenta los cuales son: Email y contraseña.
+
+- User Goal: Como usuario quiero poder ingresar a mi perfil y ver mis mascotas registradas y editar información.
+
+![Wireframe5](/assets/img/Chapter-IV/enterPerfil.png)
+
+El usuario ingreso a su cuenta, está en la página de inicio y quiere ingresar a su perfil para ver las mascotas y posterior mente editarlas en el símbolo del lápiz de cara apartado de la mascota.
+
+- User Goal: Como usuario quiero poder visualizar las veterinarias que me interesan en un mapa interactivo y ver las veterinarias.
+
+![Wireframe5](/assets/img/Chapter-IV/wfveterinaria.png)
+
+El dueño de mascota se dirige al MapVet, que se encuentra en el menú, para poder ver el mapa donde se dará información de las veterinarias mas cercanas a su ubicación.
+
+- User Goal: Como Dueño de mascota quiero poder registrar una reserva o cita para mi mascota.
+
+![Wireframe5](/assets/img/Chapter-IV/reservcitas.png)
+
+El dueño de mascota se dirige a mapa evalúa sus posibles veterinarias y elige la veterinaria de su preferencia, por otro lado, se dirige al botón reservar y dentro de citas podrá registrar los requisitos del sistema para aprobar la cita, por último, le da al botón de registrar.
+
+- User Goal: Como dueño de mascota quiero poder ver mis citas pendientes para mis mascotas.
+
+![Wireframe5](/assets/img/Chapter-IV/listcitas.png)
+
+El dueño de mascotas, estando en la pagina de inicio (Recomendaciones), se dirige a citas donde se mostrará la información de las citas pendientes que tiene.
+
+- User Goal: Como dueño de mascota quiero poder tener un apartado de preguntas frecuentas para informarme sobre el cuidado de mi mascota.
+
+![Wireframe5](/assets/img/Chapter-IV/pregfreq.png)
+
+El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a preguntas frecuentes donde se mostrará la información sobre el cuidado de las mascotas.
+
+- User Goal: Como dueño de mascota quiero poder tener un mapa interactivo donde se me enseñe las veterinarias cercanas a mi ubicación.
+
+![Wireframe5](/assets/img/Chapter-IV/mapa.png)
+
+El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Mapa para poder interactuar y se mostrara las veterinarias cerca de él.
+
+- User Goal: Como dueño de mascota quiero poder ver y dejar reseñas, de otros usuarios, de las veterinarias.
+
+![Wireframe5](/assets/img/Chapter-IV/reseña.png)
+
+El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Veterinarias donde podrá ver y dejar reseñas acerca de su servicio de la veterinaria.
+
+- User Goal: Como dueño de mascota quiero poder comprar artículos en una tienda online, sobre productos relacionados al cuidado de mi mascota.
+
+![Wireframe5](/assets/img/Chapter-IV/tienda.png)
+
+El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Mapa después elige su veterinaria favorita y le da al botón de tienda donde se mostrará los productos para el cuidado de su mascota y posteriormente poder comprarlas.
 
 ### 4.4.3. Web Applications Mock-ups
 
