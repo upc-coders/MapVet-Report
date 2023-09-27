@@ -231,25 +231,25 @@ Veterinarias
 ![WireflowDiagram1](/assets/img/Chapter-IV/Register.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder iniciar sesión para acceder a mi cuenta de la aplicación web
-![WireflowDiagram2](/assets/img/Chapter-IV/Login.png)
+![WireflowDiagram2](/assets/img/Chapter-IV/Login.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver el estado de mi perfil y sus características
-![WireflowDiagram3](/assets/img/Chapter-IV/VerPerfil.png)
+![WireflowDiagram3](/assets/img/Chapter-IV/VerPerfil.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder administrar mis veterinarias de las que estoy encargado y poder verificar la información necesaria
-![WireflowDiagram4](/assets/img/Chapter-IV/VerVeterinarias.png)
+![WireflowDiagram4](/assets/img/Chapter-IV/VerVeterinarias.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder administrar las citas que han sido agendadas.
-![WireflowDiagram5](/assets/img/Chapter-IV/VerCitasAgendadas.png)
+![WireflowDiagram5](/assets/img/Chapter-IV/VerCitasAgendadas.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder agendar nuevas citas.
-![WireflowDiagram6](/assets/img/Chapter-IV/NuevaCita.png)
+![WireflowDiagram6](/assets/img/Chapter-IV/NuevaCita.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver las reseñas que pusieron los usuario de las veterinarias a mi cargo.
-![WireflowDiagram7](/assets/img/Chapter-IV/VerResenia.png)
+![WireflowDiagram7](/assets/img/Chapter-IV/VerResenia.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver los productos que tenemos en venta.
-![WireflowDiagram8](/assets/img/Chapter-IV/VerTienda.png)
+![WireflowDiagram8](/assets/img/Chapter-IV/VerTienda.PNG)
 
 ### 4.4.3. Web Applications Mock-ups
 
