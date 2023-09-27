@@ -228,7 +228,7 @@ En el siguiente apartado se muestra el proceso en el cual aparecerán los difere
 Veterinarias
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder registrarme y asi tener una sesión creada en la aplicación web
-![WireflowDiagram1](/assets/img/Chapter-IV/Register.png)
+![WireflowDiagram1](/assets/img/Chapter-IV/Register.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder iniciar sesión para acceder a mi cuenta de la aplicación web
 ![WireflowDiagram2](/assets/img/Chapter-IV/Login.png)
