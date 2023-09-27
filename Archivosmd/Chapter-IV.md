@@ -223,7 +223,34 @@ El veterinario está en el apartado de Inicio e ingresa a la veterinaria que tra
 ![Wireframe5](/assets/img/Chapter-IV/veterinaria.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
- En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams
+En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams
+
+Veterinarias
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder registrarme y asi tener una sesión creada en la aplicación web
+![WireflowDiagram1](/assets/img/Chapter-IV/Register.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder iniciar sesión para acceder a mi cuenta de la aplicación web
+![WireflowDiagram2](/assets/img/Chapter-IV/Login.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder ver el estado de mi perfil y sus características
+![WireflowDiagram3](/assets/img/Chapter-IV/VerPerfil.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder administrar mis veterinarias de las que estoy encargado y poder verificar la información necesaria
+![WireflowDiagram4](/assets/img/Chapter-IV/VerVeterinarias.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder administrar las citas que han sido agendadas.
+![WireflowDiagram5](/assets/img/Chapter-IV/VerCitasAgendadas.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder agendar nuevas citas.
+![WireflowDiagram6](/assets/img/Chapter-IV/NuevaCita.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder ver las reseñas que pusieron los usuario de las veterinarias a mi cargo.
+![WireflowDiagram7](/assets/img/Chapter-IV/VerResenia.png)
+
+* User Goal: Como encargado administrativo de la veterinaria deseo poder ver los productos que tenemos en venta.
+![WireflowDiagram8](/assets/img/Chapter-IV/VerTienda.png)
+
 ### 4.4.3. Web Applications Mock-ups
 
 ![Mockup1](/assets/img/Chapter-IV/Mockup1.png)
