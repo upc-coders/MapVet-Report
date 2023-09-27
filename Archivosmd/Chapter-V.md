@@ -19,7 +19,9 @@ https://uxpressia.com/
 - Webstorm: 
 Es un entorno de desarrollo de JetBrains, una empresa especializada en software, orientado al desarrollo web en JavaScript. Esta herramienta proporciona facilidades para probar sitios web en navegadores como Google Chrome. En nuestro proyecto, utilizaremos webstorm para trabajar con lenguajes como HTML, CSS y JavaScript.
 https://www.jetbrains.com/webstorm/
-
+- Vue.js:
+Es un framework open source de JavaScript, el cual nos permite construir interfaces de usuarios de una forma muy sencilla. En nuestro proyecto, utilizaremos Vue para la construcción del frontend.
+https://es.vuejs.org/
 
 ### 5.1.2.	Source Code Management.
 En esta sección presentamos los medios que usaremos para el seguimiento del desarrollo del código, usaremos la herramienta Github como plataforma y sistema de control de versiones.
@@ -126,10 +128,6 @@ En el Sprint Planning 1 se planificó para la elaboración de la landing page de
 
 ### 5.2.1.2. Sprint Backlog 1
 El objetivo principal del Sprint 1 es lograr la implementación de la landing page del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
-
-#### 5.2.1.2. Sprint Backlog 1.
-
-A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
 
 <table>
   <tr>
@@ -302,6 +300,100 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ![network](/assets/img/Chapter-V/gitflow-network.png)
 
+### 5.2.2. Sprint 2
+En esta sección, se detalla el proceso completo de implementación y despliegue de la aplicación web desarrollada con el framework Vue. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.2.1. Sprint Planning 2
+En el Sprint Planning 2 se planificó para la elaboración de la aplicación web del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+|             Sprint #             |                                                                                                                                  Sprint 2                                                                                                                                   | 
+|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                             |
+|               Date               |                                                                                                                                 	2023-09-25                                                                                                                                 |
+|               Time               |                                                                                                                                  10:00 PM	                                                                                                                                  |
+|             Location             |                                                                                                                             	Virtual (Discord)                                                                                                                              |
+|           Prepared By            |                                                                                                                     	 Juan Calisaya, Sebastian Ramirez                                                                                                                      |
+|            Attendees             |                                                    Renato German Reyes Valenzuela / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Sebastian Andre Ramirez Mendez / Juliana Yauricasa Seguil              	                                                    |
+|    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración de la aplicación web. Se acordó que la fecha de culminación de los tasks será hasta el 26 de septiembre de 2023                                                                                     	 |
+| Sprint 2 - Retrospective Summary |                                    Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                                     |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                             |
+|          Sprint 2 Goal           |                                    Construcción y despliegue de la aplicación web en su totalidad, en un lapso de 3 días                                                                                                               	                                    |
+|        Sprint 2 Velocity         |                                                                                                30                                                                         	                                                                                                 |
+|       Sum of Story Points        |                                                                                                            29                                                  	                                                                                                            |
+
+### 5.2.2.2. Sprint Backlog 2
+El objetivo principal del Sprint 2 es lograr la implementación de la aplicación web del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US00 </td>
+    <td rowspan="2" align="center">  </td>
+    <td align="center">  </td>
+    <td align="center"> </td>
+    <td align="justify"> </td>
+    <td align="center">  </td>
+    <td align="center">   </td>
+    <td align="center"></td>
+  </tr>
+
+  <tr>
+    <td align="center"> </td>
+    <td align="center"> </td>
+    <td align="center"> </td>
+    <td align="center"> </td>
+    <td align="center">  </td>
+    <td align="center"></td>
+  </tr>
+
+
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+|                  Repository                   | Branch | Commit Id | Commit Message | Commit Message Body |  Committed on (Date)   |
+|:---------------------------------------------:|:------:|:---------:|:--------------:|:-------------------:|:----------------------:|
+| https://github.com/upc-coders/Frontend-MapVet |        |    	 	    |      	 	       |    ---      	 	     | 27/09/2023        	 	  |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 **Información personal:**
@@ -319,6 +411,8 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 -	¿Considera que la información brindada es puntual y sencilla?
 -	¿Siente que las tareas de reservar una cita y usar el mapa serian sencillas de realizar usando la interfaz?
 -	¿Pudo visualizar correctamente los perfiles de las mascotas y el mapa?
+
+
 
 ### 5.3.2. Registro de Entrevistas.
 
