@@ -48,99 +48,99 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## Capítulo I: Introducción
 
-1.1. Startup Profile 
+1.1. Startup Profile
 
-1.1.1. [Descripción de la Startup](Capitulo%201/Descripción%20de%20la%20Startup.md)
+1.1.1. [Descripción de la Startup](/Archivosmd/Chapter-I.md#111-descripción-de-la-startup)
 
-1.1.2. [Perfiles de integrantes del equipo](Capitulo%201/Perfiles%20de%20integrantes%20del%20equipo.md)
+1.1.2. [Perfiles de integrantes del equipo](/Archivosmd/Chapter-I.md#112-perfiles-de-integrantes-del-equipo)
 
-1.2. Solution Profile 
+1.2. Solution Profile
 
-1.2.1 [Antecedentes y problemática](Capitulo%201/Antecedentes%20y%20problemática.md)
+1.2.1 [Antecedentes y problemática](/Archivosmd/Chapter-I.md#121-antecedentes-y-problemática)
 
 1.2.2 Lean UX Process
 
-1.2.2.1. [Lean UX Problem Statements](Capitulo%201/Lean%20UX%20Problem%20Statements.md)
+1.2.2.1. [Lean UX Problem Statements](/Archivosmd/Chapter-I.md#1221-lean-ux-problem-statements)
 
-1.2.2.2. [Lean UX Assumptions](Capitulo%201/Lean%20UX%20Assumptions.md)
+1.2.2.2. [Lean UX Assumptions](/Archivosmd/Chapter-I.md#1222-lean-ux-assumptions)
 
-1.2.2.3. [Lean UX Hypothesis Statements](Capitulo%201/Lean%20UX%20Hypothesis%20Statements.md)
+1.2.2.3. [Lean UX Hypothesis Statements](/Archivosmd/Chapter-I.md#1223-lean-ux-hypothesis-statements)
 
-1.2.2.4. [Lean UX Canvas](Capitulo%201/Lean%20UX%20Canvas.md)
+1.2.2.4. [Lean UX Canvas](/Archivosmd/Chapter-I.md#1224-lean-ux-canvas)
 
-1.3. [Segmentos objetivo](Capitulo%201/Segmentos%20objetivo.md)
+1.3. [Segmentos objetivo](/Archivosmd/Chapter-I.md#13-segmentos-objetivo)
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
 2.1. Competidores.
- 
-2.1.1. [Análisis competitivo](Capitulo%202/Analisis_Competitivo.md)
 
-2.1.2. [Estrategias y tácticas frente a competidores](Capitulo%202/Estrategias_Tacticas.md)
+2.1.1. [Análisis competitivo](/Archivosmd/Chapter-II.md#211-análisis-competitivo)
+
+2.1.2. [Estrategias y tácticas frente a competidores](/Archivosmd/Chapter-II.md#212-estrategias-y-tácticas-frente-a-competidores)
 
 2.2. Entrevistas.
- 
-2.2.1. [Diseño de entrevistas](Capitulo%202/Diseño%20de%20entrevistas.md)
 
-2.2.2. [Registro de entrevistas](Capitulo%202/Registro%20de%20entrevistas.md)
+2.2.1. [Diseño de entrevistas](/Archivosmd/Chapter-II.md#221-diseño-de-entrevistas)
 
-2.2.3. [Análisis de entrevistas](Capitulo%202/Análisis%20de%20entrevistas.md)
+2.2.2. [Registro de entrevistas](/Archivosmd/Chapter-II.md#222-registro-de-entrevistas)
 
-2.3. Needfinding.
+2.2.3. [Análisis de entrevistas](/Archivosmd/Chapter-II.md#223-análisis-de-entrevistas)
 
-2.3.1. User Personas.
+2.3. [Needfinding](/Archivosmd/Chapter-II.md#23-needfinding)
 
-2.3.2. User Task Matrix.
+2.3.1. [User Personas](/Archivosmd/Chapter-II.md#231-user-personas)
 
-2.3.3. User Journey Mapping.
+2.3.2. [User Task Matrix](/Archivosmd/Chapter-II.md#232-user-task-matrix)
 
-2.3.4. [Empathy Mapping](Capitulo%202/Empathy_Mapping.md)
+2.3.3. [User Journey Mapping](/Archivosmd/Chapter-II.md#233-user-journey-mapping)
 
-2.3.5. [As-is Scenario Mapping](Capitulo%202/As_Is_Scenario_Mapping.md)
+2.3.4. [Empathy Mapping](/Archivosmd/Chapter-II.md#234-empathy-mapping)
+
+2.3.5. [As-is Scenario Mapping](/Archivosmd/Chapter-II.md#235-as-is-scenario-mapping)
 
 ## Capítulo III: Requirements Specification
 
-3.1. [To-Be Scenario Mapping](Capitulo%203/To_Be_Scenario_Mapping.md)
+3.1. [To-Be Scenario Mapping](/Archivosmd/Chapter-III.md#31-to-be-scenario-mapping)
 
-3.2. User Stories.
+3.2. [User Stories](/Archivosmd/Chapter-III.md#32-user-stories)
 
-3.3. Impact Mapping.
+3.3. [Impact Mapping](/Archivosmd/Chapter-III.md#33-impact-mapping)
 
-3.4. Product Backlog.
+3.4. [Product Backlog](/Archivosmd/Chapter-III.md#34-product-backlog)
 
 ## Capítulo IV: Product Design
 
-4.1. Style Guidelines.
+4.1. [Style Guidelines](/Archivosmd/Chapter-IV.md#41-style-guidelines)
 
-4.1.1. General Style Guidelines.
+4.1.1. [General Style Guidelines](/Archivosmd/Chapter-IV.md#411general-style-guidelines)
 
-4.1.2. Web Style Guidelines.
+4.1.2. [Web Style Guidelines](/Archivosmd/Chapter-IV.md#412web-style-guidelines)
 
-4.2. Information Architecture.
+4.2. [Information Architecture](/Archivosmd/Chapter-IV.md#42-information-architecture)
 
-4.2.1. Organization Systems.
+4.2.1. [Organization Systems](/Archivosmd/Chapter-IV.md#421organization-systems)
 
-4.2.2. Labeling Systems.
+4.2.2. [Labeling Systems](/Archivosmd/Chapter-IV.md#422-labeling-systems)
 
-4.2.3. SEO Tags and Meta Tags
+4.2.3. [SEO Tags and Meta Tags](/Archivosmd/Chapter-IV.md#423-seo-tags-and-meta-tags)
 
-4.2.4. Searching Systems.
+4.2.4. [Searching Systems](/Archivosmd/Chapter-IV.md#424-searching-systems)
 
-4.2.5. Navigation Systems.
+4.2.5. [Navigation Systems](/Archivosmd/Chapter-IV.md#425-navigation-systems)
 
-4.3. Landing Page UI Design.
+4.3. Landing Page UI Design
 
-4.3.1. Landing Page Wireframe.
+4.3.1. [Landing Page Wireframe](/Archivosmd/Chapter-IV.md#431-landing-page-wireframe)
 
-4.3.2. Landing Page Mock-up.
+4.3.2. [Landing Page Mock-up](/Archivosmd/Chapter-IV.md#432-landing-page-mock-up)
 
-4.4. Web Applications UX/UI Design.
+4.4. [Web Applications UX/UI Design](/Archivosmd/Chapter-IV.md#44-web-applications-uxui-design)
 
-4.4.1. Web Applications Wireframes.
+4.4.1. [Web Applications Wireframes](/Archivosmd/Chapter-IV.md#441-web-applications-wireframes)
 
-4.4.2. Web Applications Wireflow Diagrams.
+4.4.2. [Web Applications Wireflow Diagrams](/Archivosmd/Chapter-IV.md#442-web-applications-wireflow-diagrams)
 
-4.4.2. Web Applications Mock-ups.
+4.4.2. [Web Applications Mock-ups](/Archivosmd/Chapter-IV.md#443-web-applications-mock-ups)
 
 4.4.3. Web Applications User Flow Diagrams.
 
@@ -148,54 +148,67 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 4.6. Domain-Driven Software Architecture.
 
-4.6.1. Software Architecture Context Diagram.
+4.6.1. [Software Architecture Context Diagram](/Archivosmd/Chapter-IV.md#461-software-architecture-context-diagram)
 
-4.6.2. Software Architecture Container Diagrams.
+4.6.2. [Software Architecture Container Diagrams](/Archivosmd/Chapter-IV.md#462-software-architecture-container-diagram)
 
-4.6.3. Software Architecture Components Diagrams.
+4.6.3. [Software Architecture Components Diagrams](/Archivosmd/Chapter-IV.md#463-software-architecture-components-diagram)
 
 4.7. Software Object-Oriented Design.
 
-4.7.1. Class Diagrams.
+4.7.1. [Class Diagrams](/Archivosmd/Chapter-IV.md#471-class-diagrams)
 
-4.7.2. Class Dictionary.
+4.7.2. [Class Dictionary](/Archivosmd/Chapter-IV.md#472-class-dictionary)
 
-4.8. Database Design.
+4.8. [Database Design](/Archivosmd/Chapter-IV.md#48-database-design)
 
-4.8.1. Database Diagram.
+4.8.1. [Database Diagram](/Archivosmd/Chapter-IV.md#481-database-diagram)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
-5.1. Software Configuration Management.
+5.1. [Software Configuration Management](/Archivosmd/Chapter-V.md#51-software-configuration-management)
 
-5.1.1. Software Development Environment Configuration.
+5.1.1. [Software Development Environment Configuration](/Archivosmd/Chapter-V.md#511software-development-environment-configuration)
 
-5.1.2. Source Code Management.
+5.1.2. [Source Code Management](/Archivosmd/Chapter-V.md#512source-code-management)
 
-5.1.3. Source Code Style Guide & Conventions.
+5.1.3. [Source Code Style Guide & Conventions](/Archivosmd/Chapter-V.md#513source-code-style-guide--conventions)
 
-5.1.4. Software Deployment Configuration.
+5.1.4. [Software Deployment Configuration](/Archivosmd/Chapter-V.md#514software-deployment-configuration)
 
 5.2. Landing Page, Services & Applications Implementation.
 
-5.2.X. Sprint n
+5.2.1. [Sprint 1](/Archivosmd/Chapter-V.md#521-sprint-1)
 
-5.2.X.1. Sprint Planning n.
+5.2.1.1. [Sprint Planning 1](/Archivosmd/Chapter-V.md#5211-sprint-planning-1)
 
-5.2.X.2. Sprint Backlog n.
+5.2.1.2. [Sprint Backlog 1](/Archivosmd/Chapter-V.md#5212-sprint-backlog-1)
 
-5.2.X.3. Development Evidence for Sprint Review.
+5.2.1.3. [Development Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5213-development-evidence-for-sprint-review)
 
-5.2.X.4. Testing Suite Evidence for Sprint Review.
+5.2.1.4. [Testing Suite Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5214-execution-evidence-for-sprint-review)
 
-5.2.X.5. Execution Evidence for Sprint Review.
+5.2.1.5. [Execution Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5215--software-deployment-evidence-for-sprint-review)
 
-5.2.X.6. Services Documentation Evidence for Sprint Review.
+5.2.1.6. [Services Documentation Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5216-team-collaboration-insights-during-sprint)
 
+5.2.2 [Sprint 2](/Archivosmd/Chapter-V.md#522-sprint-2)
 
-5.2.X.7. Software Deployment Evidence for Sprint Review.
+5.2.2.1 [Sprint Planning 2](/Archivosmd/Chapter-V.md#5221-sprint-planning-2)
 
-5.2.X.8. Team Collaboration Insights during Sprint.
+5.2.2.1 [Sprint Backlog 2](/Archivosmd/Chapter-V.md#5222-sprint-backlog-2)
+
+5.2.1.3. [Development Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5223-development-evidence-for-sprint-review)
+
+5.2.1.4. [Testing Suite Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5214-execution-evidence-for-sprint-review)
+
+5.2.1.5. [Execution Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5225-execution-evidence-for-sprint-review)
+
+5.2.1.6. [Services Documentation Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5226-services-documentation-evidence-for-sprint-review)
+
+5.2.1.7. [Software Deployment Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5227--software-deployment-evidence-for-sprint-review)
+
+5.2.1.8. [Team Collaboration Insights during Sprint](/Archivosmd/Chapter-V.md#5228-team-collaboration-insights-during-sprint)
 
 5.3. Validation Interviews.
 
