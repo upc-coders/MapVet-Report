@@ -449,6 +449,16 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 
 En este segundo sprint, hemos completado con éxito la implementación de la página web de MapVet. Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del sitio web. A continuación, se muestran algunas de las pantallas clave de la página web.
 
+![Paginaweb-landing](/assets/img/Chapter-V/landingpage.jpeg)
+
+![Paginaweb-vets](/assets/img/Chapter-V/veterinarias.jpeg)
+
+![Paginaweb-vets2](/assets/img/Chapter-V/veterinarias2.jpeg)
+
+![Paginaweb-appoinments](/assets/img/Chapter-V/appoinments.jpeg)
+
+![Paginaweb-faq](/assets/img/Chapter-V/faq.jpeg)
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el segundo sprint, hemos logrado un progreso sustancial en la documentación de nuestros servicios web. Hemos documentado varios puntos de acceso (Endpoints) que son esenciales para el funcionamiento de nuestra aplicación. A continuación, proporcionamos detalles sobre los puntos de acceso documentados, ejemplos de interacción y enlaces a la documentación desplegada.
