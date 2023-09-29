@@ -445,12 +445,35 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En este segundo sprint, hemos completado con éxito la implementación de la página web de MapVet. Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del sitio web. A continuación, se muestran algunas de las pantallas clave de la página web.
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante el segundo sprint, hemos logrado un progreso sustancial en la documentación de nuestros servicios web. Hemos documentado varios puntos de acceso (Endpoints) que son esenciales para el funcionamiento de nuestra aplicación. A continuación, proporcionamos detalles sobre los puntos de acceso documentados, ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/upc-coders/Frontend-MapVet/tree/develop
+
+![Commmits](/assets/img/Chapter-V/commits.png)
 
 ### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
 
+Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Firebase fue la plataforma que utilizamos para el despliegue de la página web.
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En el segundo sprint, nuestro equipo se enfocó en la implementación del frontend y la revisión y mejora del informe. Utilizamos la metodología Gitflow y seguimos un formato Markdown para la colaboración, y los cinco miembros del equipo participaron de manera efectiva. Durante este período, se llevaron a cabo las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe y la página de inicio.
+
+Imagenes de los commits para el reporte
+
+![Commmits-report](/assets/img/Chapter-V/commits-report.png)
+
+Imagenes de los commits del frontend
+
+![Commmits](/assets/img/Chapter-V/commits.png)
+
+Imagenes de los commits del landing page
+
+![Commmits-Landing](/assets/img/Chapter-V/commits-landing.png)
 
 
 ## 5.3. Validation Interviews.
