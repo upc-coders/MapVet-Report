@@ -442,9 +442,6 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 |                                               |       develop              	        |   b0a89df13a4b8697c4674e7ff68a76449fafa048                          	 	   |             fix(home): home fixed                                      	 	             |    ---       	 	    | 29/09/2023          	 	 |
 
 
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review.
-
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
 En este segundo sprint, hemos completado con éxito la implementación de la página web de MapVet. Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del sitio web. A continuación, se muestran algunas de las pantallas clave de la página web.
@@ -467,9 +464,27 @@ Repositorio: https://github.com/upc-coders/Frontend-MapVet/tree/develop
 
 ![Commmits](/assets/img/Chapter-V/commits.png)
 
+**Endpoints Documentados**
+
+|  Endpoint	   | Verbo HTTP  | Parámetros | Ejemplo de Llamada |                              
+|:------------:|:-------------------:|:----------:|:------------------:|
+| /appoinment  |     GET      |  Ninguno   | GET<br/>/tutorials |
+|    /data     |     GET      |  Ninguno   |    GET<br/>/faq    |
+
+
 ### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
 
-Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Firebase fue la plataforma que utilizamos para el despliegue de la página web.
+Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Netlify fue la plataforma que utilizamos para el despliegue de la página web.
+
+Enlace de la pagina web: https://vetmap.netlify.app/
+
+![Paginaweb-landing-desplegado](/assets/img/Chapter-V/landing-despliegue.png)
+
+![Paginaweb-vets-desplegado](/assets/img/Chapter-V/vet-despliegue.png)
+
+![Paginaweb-appoinments-desplegado](/assets/img/Chapter-V/appoinment-despliegue.png)
+
+![Paginaweb-faq-desplegado](/assets/img/Chapter-V/faq-desplieque.png)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
