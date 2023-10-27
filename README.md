@@ -1,6 +1,13 @@
 # Universidad Peruana de Ciencias Aplicadas
 ## Ingeniería de Software
 ### Aplicaciones Web - Trabajo Final
+
+</center>
+
+<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
+
+<center>
+
 - **Sección:** SW51
 - **Docente:** Juan Carlos Tinoco Licas
 - **Ciclo:** 2023-02
@@ -39,7 +46,7 @@ Network graph
 
 Conventional Commits
 
-<a href="https://ibb.co/xzprWSX"><img src="https://i.ibb.co/zPytphQ/conventional.png" alt="conventional" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>whatsapp picture size</a><br />
+<a href="https://ibb.co/xzprWSX"><img src="https://i.ibb.co/zPytphQ/conventional.png" alt="conventional" border="0"></a>
 
 Colaboradores del proyecto
 

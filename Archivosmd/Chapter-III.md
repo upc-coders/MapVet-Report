@@ -55,7 +55,7 @@
 
 ## 3.3. Impact Mapping
 
-![Impact Mapping](/assets/img/Chapter-III/Impact-Map.png)
+![Impact Mapping](https://i.ibb.co/k0PBqRm/Impact-Map.png)
 
 ## 3.4. Product Backlog
 Al culminar las redacciones de los User Story,debemos priorizarlas. El product Backlog, genera un orden de priorizacion entre cada User Story. Además, para cada historia de usuario se generar un Story point, mediante una puntacion fibonacci el equipo le asigna el nivel de complejidad que se requiere para completar exitosemente ese user story.
@@ -85,9 +85,9 @@ Al culminar las redacciones de los User Story,debemos priorizarlas. El product B
 
 Imagen de Product Backlog en Pivotal Tracker:
 
-![Pivotal 1](/assets/img/Chapter-III/pivotal-1.png)
+![Pivotal 1](https://i.ibb.co/jgjg2Jg/pivotal-1.png)
 
-![Pivotal 2](/assets/img/Chapter-III/pivotal-2.png)
+![Pivotal 2](https://i.ibb.co/3NtcCd6/pivotal-2.png)
 
 Link del Pivotal Tracker:  https://www.pivotaltracker.com/projects/2677948 
 

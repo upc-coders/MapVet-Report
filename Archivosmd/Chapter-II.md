@@ -101,7 +101,7 @@ En resumen, en "VetCare" nuestra estrategia de diferenciación se centra en brin
 
 Nombre: Ariel Alberto Rivera Martinez, 30 años, Ate.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/QNj3KmG/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 </div>
@@ -122,7 +122,7 @@ En el proceso de diagnóstico, utilizamos ampliamente bases de datos, contrastan
 
 Nombre: Juan Pablo Coscomaro, 36 años, Jesús María.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/HPLtGDZ/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -144,7 +144,7 @@ Aunque no hemos implementado un software específico para gestionar citas, atend
 
 Nombre: Ronaldo Flores, 22 años, Pachacamac.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/SXpP5s6/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -164,7 +164,7 @@ En cuanto a la posibilidad de comprar productos relacionados con sus mascotas, R
 
 Nombre: Rodrigo Porles, 18 años, Surco.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/yNrnCjV/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -243,11 +243,11 @@ En este apartado se mostrarán los artefactos resultantes del proceso de recolec
 En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
 
 **User Empathy Mapping: Veterinaria**  
-![UserPersona_Ariel](../assets/img/Chapter-II/UserPersona_Ariel.png)
+![UserPersona_Ariel](https://i.ibb.co/86p1Gsg/User-Persona-Ariel.png)
 
 
 **User Empathy Mapping: Dueños de mascotas**   
-![UserPersonaPablo](../assets/img/Chapter-II/UserPersonaPablo.png)
+![UserPersonaPablo](https://i.ibb.co/zQ6h19s/User-Persona-Pablo.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -320,10 +320,10 @@ Los datos describen las actividades más importantes para los veterinarios, como
 En esta sección, desarrollamos los User Journey Mapping para cada User Persona. El flujo comienza desde la primera atención que se lleva a cabo en la consulta veterinaria, que implica buscar el servicio, atender la cita y, en otros casos, utilizar la tienda virtual para comprar diversos productos para la mascota. Desde la perspectiva del veterinario, se utiliza para realizar un registro adecuado de la atención, que luego se almacena en una base de datos para futuras consultas, lo que facilita la fluidez en dichos procesos.
 
 **User Journey Mapping: Dueño de mascotas**  
-![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapDuenio.png)
+![Journey Map Dueño Mascotas](https://i.ibb.co/d7wKgtF/Journey-Map-Duenio.png)
 
 **User Journey Mapping: Veterinario**  
-![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapVet.png)
+![Journey Map Dueño Mascotas](https://i.ibb.co/b5D08Zg/Journey-Map-Vet.png)
 
 
 ## 2.3.4 Empathy Mapping
