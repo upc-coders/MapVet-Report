@@ -101,7 +101,7 @@ En resumen, en "VetCare" nuestra estrategia de diferenciación se centra en brin
 
 Nombre: Ariel Alberto Rivera Martinez, 30 años, Ate.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/QNj3KmG/interview1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 </div>
@@ -122,7 +122,7 @@ En el proceso de diagnóstico, utilizamos ampliamente bases de datos, contrastan
 
 Nombre: Juan Pablo Coscomaro, 36 años, Jesús María.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/HPLtGDZ/interview2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -144,7 +144,7 @@ Aunque no hemos implementado un software específico para gestionar citas, atend
 
 Nombre: Ronaldo Flores, 22 años, Pachacamac.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/SXpP5s6/interview3.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -164,7 +164,7 @@ En cuanto a la posibilidad de comprar productos relacionados con sus mascotas, R
 
 Nombre: Rodrigo Porles, 18 años, Surco.
 
-[![Ver entrevista](../assets/img/Chapter-II/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/yNrnCjV/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EbX5sd78SVJIn4fvhQeeKAcBddc0eEvYKNusrLAqmz4CHA?e=gjyYbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
@@ -176,11 +176,11 @@ Rodrigo nos comenta que tiene un gato como mascota. La elección de tener una ma
 
 Por lo general, lleva a su gato a un veterinario cercano a su casa, no necesariamente por la confianza, sino debido a la proximidad de la clínica a su hogar. Cuando enfrenta dificultades o necesita una segunda opinión, busca otras opciones de veterinarias a través de Instagram y recomendaciones. A menudo, le resulta complicado obtener una cita debido a la alta demanda en la clínica de su elección.
 
-En relación a la aplicación, Rodrigo considera que es una idea excelente, ya que elimina la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas, lo que ahorra tiempo. Además, le resulta atractivo que la aplicación pueda proporcionar el historial médico de su mascota, lo que es muy práctico, ya que las recetas físicas suelen perderse y la información no siempre está disponible de manera constante.  
+En relación a la aplicación, Rodrigo considera que es una idea excelente, ya que elimina la necesidad de visitar la clínica en persona para verificar la disponibilidad de citas, lo que ahorra tiempo. Además, le resulta atractivo que la aplicación pueda proporcionar el historial médico de su mascota, lo que es muy práctico, ya que las recetas físicas suelen perderse y la información no siempre está disponible de manera constante.
 
-### 2.2.3 Análisis de entrevistas  
+### 2.2.3 Análisis de entrevistas
 
-**Segmento: Veterinarias**  
+**Segmento: Veterinarias**
 
 Atienden a todo tipo de razas, pero tienen un enfoque especial en los canes pequeños.  
 Cuentan con un médico veterinario especializado en cada una de sus sedes.  
@@ -207,7 +207,7 @@ Problemas de software: El 100% de los entrevistados experimenta problemas con la
 Falta de implementación de aplicaciones: El 100% de los entrevistados no cuenta con la implementación de una aplicación de citas.
 
 
-**Segmento: Dueños de mascotas**  
+**Segmento: Dueños de mascotas**
 
 Ronaldo:  
 __Número de Mascotas:__ Ronaldo tiene 2 mascotas, ambas adoptadas.  
@@ -232,24 +232,24 @@ Información de cuidado: El 100% de los entrevistados opta por informarse sobre 
 
 Atención Veterinaria: El 100% de los entrevistados prefiere llevar a su mascota al veterinario más cercano.
 
-Opinión acerca de la aplicación: El 100% de los entrevistados considera que es una buena idea la implementación de citas para evitar perder tiempo en realizar todo ese trámite.  
+Opinión acerca de la aplicación: El 100% de los entrevistados considera que es una buena idea la implementación de citas para evitar perder tiempo en realizar todo ese trámite.
 
 ## 2.3. Needfinding
 
 En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
-### 2.3.1. User Personas  
+### 2.3.1. User Personas
 
 En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
 
 **User Empathy Mapping: Veterinaria**  
-![UserPersona_Ariel](../assets/img/Chapter-II/UserPersona_Ariel.png)
+![UserPersona_Ariel](https://i.ibb.co/86p1Gsg/User-Persona-Ariel.png)
 
 
 **User Empathy Mapping: Dueños de mascotas**   
-![UserPersonaPablo](../assets/img/Chapter-II/UserPersonaPablo.png)
+![UserPersonaPablo](https://i.ibb.co/zQ6h19s/User-Persona-Pablo.png)
 
-### 2.3.2. User Task Matrix  
+### 2.3.2. User Task Matrix
 
 En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos e identificamos la importancia de cada una de estas tareas para cada segmento.
 
@@ -283,11 +283,11 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 
 
 A través del User Task Matrix podemos identificar las frecuencias e importancias entre las diferentes User Persona que presentamos y esta nos sirva de guía.
-#### Dueños de mascotas:  
-Para los dueños de mascotas las tareas que presentan mayor frecuencia son:  
+#### Dueños de mascotas:
+Para los dueños de mascotas las tareas que presentan mayor frecuencia son:
 - Separar un cita para la mascota.
 - Seleccionar el tipo de atención para la mascota.
-- Revisar el resumen de la compra.  
+- Revisar el resumen de la compra.
 
 Los datos que se necesitan en la User Task Matrix son la frecuencia con la que el propietario realiza el proceso de atención en una veterinaria, como por ejemplo, programar una cita para su mascota, seleccionar el tipo de atención y, a su vez, revisar el resumen de la compra.
 
@@ -299,31 +299,31 @@ Para los dueños de mascotas las tareas que presentan mayor importancia son:
 - Buscar tips para el cuidado de la mascota.
 - Revisar el resumen de la compra.
 
-Los datos describen las importancias que el dueño de la mascota le brinda a las actividades, como seleccionar citas para sus mascotas, seleccionar el tipo de atención, agregar productos a la canasta, concretas la compra de los productos, buscar tips para el cuidado de la mascota y revisar el resumen de la compra. Este proceso es importante para la implementación.  
+Los datos describen las importancias que el dueño de la mascota le brinda a las actividades, como seleccionar citas para sus mascotas, seleccionar el tipo de atención, agregar productos a la canasta, concretas la compra de los productos, buscar tips para el cuidado de la mascota y revisar el resumen de la compra. Este proceso es importante para la implementación.
 
 #### Veterinarios:
-Para los veterinarios las tareas que presentan mayor frecuencia son:  
-- Ofrecer productos via servicio web.  
-- Manejar base de datos de productos disponibles.  
+Para los veterinarios las tareas que presentan mayor frecuencia son:
+- Ofrecer productos via servicio web.
+- Manejar base de datos de productos disponibles.
 
-Los datos describen las actividades más frecuentes como la oferta de productos a través de un servicio web y la gestión de la base de datos de productos disponible. Esto es frecuente, ya que de ello depende la función del negocio.  
+Los datos describen las actividades más frecuentes como la oferta de productos a través de un servicio web y la gestión de la base de datos de productos disponible. Esto es frecuente, ya que de ello depende la función del negocio.
 
-Para los veterinarios las tareas que presentan mayor importancia son:  
+Para los veterinarios las tareas que presentan mayor importancia son:
 - Ofrecer productos via servicio web.
 - Mantener registro de diagnósticos de mascotas atendidas.
 - Manejar base de datos de productos disponible.
 
-Los datos describen las actividades más importantes para los veterinarios, como el registro de diagnósticos de las mascotas atendidas, la venta de productos a través de la web y la gestión de la base de datos del stock de productos. Todo esto es de suma importancia, ya que cubre las necesidades para atender correctamente a los clientes.  
+Los datos describen las actividades más importantes para los veterinarios, como el registro de diagnósticos de las mascotas atendidas, la venta de productos a través de la web y la gestión de la base de datos del stock de productos. Todo esto es de suma importancia, ya que cubre las necesidades para atender correctamente a los clientes.
 
 ## 2.3.3. User Journey Mapping
 
-En esta sección, desarrollamos los User Journey Mapping para cada User Persona. El flujo comienza desde la primera atención que se lleva a cabo en la consulta veterinaria, que implica buscar el servicio, atender la cita y, en otros casos, utilizar la tienda virtual para comprar diversos productos para la mascota. Desde la perspectiva del veterinario, se utiliza para realizar un registro adecuado de la atención, que luego se almacena en una base de datos para futuras consultas, lo que facilita la fluidez en dichos procesos.  
+En esta sección, desarrollamos los User Journey Mapping para cada User Persona. El flujo comienza desde la primera atención que se lleva a cabo en la consulta veterinaria, que implica buscar el servicio, atender la cita y, en otros casos, utilizar la tienda virtual para comprar diversos productos para la mascota. Desde la perspectiva del veterinario, se utiliza para realizar un registro adecuado de la atención, que luego se almacena en una base de datos para futuras consultas, lo que facilita la fluidez en dichos procesos.
 
 **User Journey Mapping: Dueño de mascotas**  
-![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapDuenio.png)
+![Journey Map Dueño Mascotas](https://i.ibb.co/d7wKgtF/Journey-Map-Duenio.png)
 
 **User Journey Mapping: Veterinario**  
-![Journey Map Dueño Mascotas](../assets/img/Chapter-II/JourneyMapVet.png)
+![Journey Map Dueño Mascotas](https://i.ibb.co/b5D08Zg/Journey-Map-Vet.png)
 
 
 ## 2.3.4 Empathy Mapping

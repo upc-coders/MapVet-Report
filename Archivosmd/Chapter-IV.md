@@ -4,7 +4,7 @@
 
 ## 4.1. Style Guidelines
 
-![Style-Guidelines](/assets/img/Chapter-IV/Style-guidelines.png)
+![Style-Guidelines](https://i.ibb.co/JRqDXRR/Style-guidelines.png)
 
 Con respecto a Style Guidelines, estamos utilizando la tipografía Inria Sans, Estilos de tipo Normal, Textos h1 encabezado de 36 px, h2 de 24 px, h3 de 20 px, colores claros y oscuros para hacer contraste en nuestra interfaz y de esta manera poder captar la atención del usuario, siendo estos también usados para la creación del logo de nuestro startup.
 *	Hemos seleccionado el color turquesa para brindar tranquilidad, relajación y calma.
@@ -17,25 +17,25 @@ En el general Style Guideline, utilizamos algunos elementos importantes como el 
 *	Typography:  
      Hemos aplicado distintas fuentes para la tipografía, entre ellas está el Ubuntu, Montserrat, Iria Sans, Chakras Petch y Open Sans Light
 
-![Typography](/assets/img/Chapter-IV/Typography.png)
+![Typography](https://i.ibb.co/hd1SNXk/Typography.png)
 
 *	 Color:
 
 El color primario de la aplicación es el color turquesa y su gama de degradados. Tanto para el tema claro como oscuros, este color será el que predomine nuestra aplicación. En colores de fondo tenemos el #FFFFFF(Blanco) y el #03211F (Turquesa muy oscuro). Entre los colores secundarios tenemos al #D10600 (Rojo), y sus degradados tanto en claros como en cafés, el uso de estos colores nos permitirá crear pestañas con una mayor variedad de tonalidades, lo que hará que la experiencia visual sea más atractiva y agradable.
 
-![Colors](/assets/img/Chapter-IV/Colors.png)
+![Colors](https://i.ibb.co/cYgKjB9/Colors.png)
 
 *	Branding:
 
 El diseño del logo de nuestra marca fue basado  en  los iconos de mundo, ubicación y mascotas, ya que nuestra aplicación consiste en encontrar la ubicación de centros veterinarios cercanos al lugar de  ubicación de nuestros clientes.
 
-![Logo](/assets/img/Chapter-IV/Logo.png)
+![Logo](https://i.ibb.co/RpcPphF/Logo.png)
 
 *	Spacing:
 
 El espacio usado entre las palabras, títulos o imágenes varía desde los 8 píxeles hasta los 40 píxeles.
 
-![Spacing](/assets/img/Chapter-IV/Spacing.png)
+![Spacing](https://i.ibb.co/J39fmSr/Spacing.png)
 
 ### 4.1.2.	Web Style Guidelines
 
@@ -43,38 +43,38 @@ El espacio usado entre las palabras, títulos o imágenes varía desde los 8 pí
 
 Los temas aplicados son los de modo claro y oscuro.
 
-![Mode-light](/assets/img/Chapter-IV/Mode-light.png)
+![Mode-light](https://i.ibb.co/vHJ06pK/Mode-light.png)
 
-![Dark-mode](/assets/img/Chapter-IV/Dark-mode.png)
+![Dark-mode](https://i.ibb.co/DzcVStq/Dark-mode.png)
 
 * Botones:
 
 Se muestran los botones seleccionados con los colores y sin seleccionar
 
-![Buttons](/assets/img/Chapter-IV/Buttons.png)
+![Buttons](https://i.ibb.co/y05cwpS/Buttons.png)
 
 * Índices:
 
 Los índices mostrados son del modo claro y oscuro.
 
-![Index](/assets/img/Chapter-IV/Index.png)
+![Index](https://i.ibb.co/5YrY4GV/Index.png)
 
 * Diseño:
 
 Diseño de un cuadro de texto compuesto de un título, texto y botón. El espaciado usado entre los componentes es de 24 píxeles.
 
-![Design](/assets/img/Chapter-IV/Desing.png)
+![Design](https://i.ibb.co/f1y1dLy/Desing.png)
 
 
 ## 4.2. Information Architecture
 
 ### 4.2.1.	Organization Systems
 
-![Dueno](/assets/img/Chapter-IV/Dueño.png)
+![Dueno](https://i.ibb.co/Q6VV8Qr/Due-o.png)
 
 El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información referencial de la página web. Luego el usuario elegirá la opción de paciente el cual le direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un doctor”,” analizar la sangre “o “cita para análisis de sangre”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes de los médicos y por último tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrará un link para llevarlo a nuestro chat de WhatsApp.
 
-![Veterinario](/assets/img/Chapter-IV/Veterinario.png)
+![Veterinario](https://i.ibb.co/GF6wh2h/Veterinario.png)
 
 El flujo inicia en la Landing Page, en donde el usuario podrá ver nuestra información referencial de la página web. Luego el usuario elegirá la opción de “médico” el cual le direccionará para que pueda iniciar sesión o registrarse en donde llenará sus datos. Luego de ello podrá iniciar sesión y le llevará a un apartado en donde mostrará todas las opciones que tiene para elegir. La opción de “Nuestros servicios” le hará ir a un apartado donde tendrá la opción de “cita con un paciente”, ”analizar la sangre“ o “comparaciones de resultados”. También tendrá la opción de “Nosotros” donde verá un pequeño resumen de la empresa y su objetivo, así mismo habrá la opción “Mi perfil” donde le llevará al apartado para ver su historial de análisis o descargar los reportes también tendrá la opción de “contáctanos” donde podrá mandarnos mensajes por correo electrónico o encontrara un link para llevarlo a nuestra chat de WhatsApp y por último tendrá la opciones “Historial de pacientes” donde podrá ver a todos los que atendió y ver sus resultados.
 
@@ -132,19 +132,19 @@ En resumen, estas etiquetas de SEO y metaetiquetas son esenciales para mejorar l
 
 Para nuestra página web, en las secciones de perfiles, citas y preguntas frecuentes, las cuales tendrá un diseño intuitivo sin saturación de botones para que el usuario al buscar una sección pueda hacerlo de manera sencilla, en el apartado de Mapa también brinda al usuario una vista general de su ubicación para poder visualizar las veterinarias.
 
-![Searching-systems](/assets/img/Chapter-IV/Searching-systems.png)
+![Searching-systems](https://i.ibb.co/VqP975N/Searching-systems.png)
 
 ### 4.2.5. Navigation Systems
 
 En esta sección explicaremos las técnicas que usaremos para guiar a nuestros usuarios, de esta manera lograr que puedan interactuar con nuestro producto eficientemente.
 
-![Landing](/assets/img/Chapter-IV/Landing.png)
+![Landing](https://i.ibb.co/Hnkp5gy/Landing.png)
 
 En la cabecera tendremos las distintas secciones tales como perfiles, Map Vet, citas y las preguntas frecuentes, este nos ayudará a agilizar la navegación de nuestro cliente, y podrán recorrer todo nuestro contenido.
 
 También haremos uso del patrón de diseño Jump To Section, ya que, en estas secciones habrá botones donde a nuestro usuario lo redireccionaremos a otras páginas como es en el caso de Log In.
 
-![Register](/assets/img/Chapter-IV/Registro.png)
+![Register](https://i.ibb.co/qCmrqMr/Registro.png)
 
 En esta página el usuario podrá poner sus credenciales para que pueda acceder a la plataforma, y en caso pulse en Register se le mandará a la sección de registro para que pueda crearse una cuenta. También haremos usos del inline form en las que podrá completar sus datos solicitados.
 
@@ -155,11 +155,11 @@ En esta página el usuario podrá poner sus credenciales para que pueda acceder 
 
 En esta parte se presentará la versión final de los Wireframes del Landing Page. [Link del Wireframe](https://acortar.link/1ijiKf)
 
-![Wireframe1](/assets/img/Chapter-IV/home.png)
+![Wireframe1](https://i.ibb.co/k9hKzLx/home.png)
 
-![Wireframe1](/assets/img/Chapter-IV/aboutus.png)
+![Wireframe1](https://i.ibb.co/vzkkzJW/aboutus.png)
 
-![Wireframe3](/assets/img/Chapter-IV/about.png)
+![Wireframe3](https://i.ibb.co/q7tdCCF/about.png)
 
 Los Wireframes que se desarrollaron en esta sección son bocetos que tienen como propósito esquematizar la estructura de nuestra landing page por lo general son de bajo nivel sin preocuparse tanto por los detalles de diseño gráfico, como colores o imágenes.
 
@@ -167,11 +167,11 @@ Los Wireframes que se desarrollaron en esta sección son bocetos que tienen como
 
 En esta sección se desarrollo el Mockup del Landing Page en su versión final. [Link del Mockup](https://acortar.link/1ijiKf)
 
-![Mock-up](/assets/img/Chapter-IV/mhome.png)
+![Mock-up](https://i.ibb.co/bFWsvMj/mhome.png)
 
-![Mock-up](/assets/img/Chapter-IV/maboutus.png)
+![Mock-up](https://i.ibb.co/s5g2nzL/maboutus.png)
 
-![Mock-up](/assets/img/Chapter-IV/mabout.png)
+![Mock-up](https://i.ibb.co/4M0dnr3/mabout.png)
 
 En esta sección se creó el mockup utilizando el color turquesa y su gama de degradados, la tipografía utilizamos Ubuntu, Montserrat, Iria Sans, Chakras Petch y Open Sans Light y se incorporaron las imágenes requeridas.
 
@@ -185,42 +185,42 @@ A continuación, se mostrará y detallará la propuesta visual y de interacción
 - Interfaz para los usuarios
 En estos Wireframes se visualiza la pantalla de carga, inicio de sesión y registro, los cuales fueron diseñados siguiendo la tipografía y tamaño especificados en la documentación.
 
-![Wireframe1](/assets/img/Chapter-IV/Wireframe1.png)
+![Wireframe1](https://i.ibb.co/Qv3Ztz3/Wireframe1.png)
 
 - Interfaz para los Dueños de mascotas
 A continuación, se presenta los Wireframes de las páginas de “Recomendaciones” página principal donde se visualizará las veterinarias recomendadas, “Veterinarias” perfil de la veterinaria y sus datos, “Perfiles” ver y editar los el perfil de las mascotas del usuario, “Mapa” interactivo donde tendrá recomendaciones de las veterinarias más cercanas y su calificación, “Citas” donde podrá ver las citas pendientes y crear una solicitud para algún chequeo de su mascota, “Tienda” donde podrá comprar artículos relacionados al cuidado de la mascota, “Pagos” para pagar de forma segura los artículos, “Reseña” donde podrá ver y dejar reseñas acerca de las veterinarias y calificarlas, “Preguntas Frecuentes” donde se tendrá información acerca del cuidado de mascota. Además, todo este contenido en un menú.
 
-![Wireframe2](/assets/img/Chapter-IV/Wireframe2.png)
+![Wireframe2](https://i.ibb.co/0Yv7zkT/Wireframe2.png)
 
-![Wireframe3](/assets/img/Chapter-IV/Wireframe3.png)
+![Wireframe3](https://i.ibb.co/gSDtPPz/Wireframe3.png)
 
-![Wireframe4](/assets/img/Chapter-IV/Wireframe4.png)
+![Wireframe4](https://i.ibb.co/k92yVsm/Wireframe4.png)
 
 - Reservar una cita
 En esta sección el dueño de mascota está en la página de recomendaciones o en mapa para elegir alguna veterinaria buena, que se ajuste a sus necesidades
 
-![Wireframe5](/assets/img/Chapter-IV/recomendaciones.png)
-![Wireframe5](/assets/img/Chapter-IV/mapa.png)
+![Wireframe5](https://i.ibb.co/qFVbKzF/recomendaciones.png)
+![Wireframe5](https://i.ibb.co/DkcVYNS/mapa.png)
 
 Al tener tomar la decisión de la veterinaria tendrá que darle al botón de “Nueva Cita” y se registrará rellenado los datos y presión al “botón” y se registrará como cita pendiente.
 
-![Wireframe5](/assets/img/Chapter-IV/veterinarias.png)
-![Wireframe5](/assets/img/Chapter-IV/citas-pendientes.png)
-![Wireframe5](/assets/img/Chapter-IV/reserva-de-citas.png)
+![Wireframe5](https://i.ibb.co/Snyb62d/veterinarias.png)
+![Wireframe5](https://i.ibb.co/w7FPkL6/citas-pendientes.png)
+![Wireframe5](https://i.ibb.co/fNkVPTq/reserva-de-citas.png)
 
 Interfaz del veterinario:
 - Interfaz del veterinario: 
 A continuación, se presenta los Wireframes de las páginas de “Inicio” donde se verán las veterinarias recomendadas, “Veterinaria” muestra los datos de la veterinaria con botones de tienda, reseña y reserva, “Perfil” donde se visualizar a los datos y poder editarlos, “Mapa” de las veterinarias cercanas, “Citas Agendadas” donde podrá visualizar y programar una cita para sus clientes, “Productos” se visualizará los productos disponibles para posteriormente comprarlos y Pago para pagar de manera segura. 
 
-![Wireframe5](/assets/img/Chapter-IV/w1v.png)
-![Wireframe5](/assets/img/Chapter-IV/w2v.png)
-![Wireframe5](/assets/img/Chapter-IV/w3v.png)
+![Wireframe5](https://i.ibb.co/8z0d2xM/w1v.png)
+![Wireframe5](https://i.ibb.co/N7Xzhmd/w2v.png)
+![Wireframe5](https://i.ibb.co/8bByRGK/w3v.png)
 
 - Programar cita
 El veterinario está en el apartado de Inicio e ingresa a la veterinaria que trabaja luego en el botón de *reservar* para posteriormente programar una cita mediante la proporción de información acerca de la cita y por último dar click en el botón de reservar.
 
-![Wireframe5](/assets/img/Chapter-IV/inicio.png)
-![Wireframe5](/assets/img/Chapter-IV/veterinaria.png)
+![Wireframe5](https://i.ibb.co/bsG572y/inicio.png)
+![Wireframe5](https://i.ibb.co/mGPvVpx/veterinaria.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams
@@ -228,34 +228,34 @@ En el siguiente apartado se muestra el proceso en el cual aparecerán los difere
 Veterinarias
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder registrarme y asi tener una sesión creada en la aplicación web
-![WireflowDiagram1](/assets/img/Chapter-IV/Register.PNG)
+![WireflowDiagram1](https://i.ibb.co/JBpry61/Register.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder iniciar sesión para acceder a mi cuenta de la aplicación web
 ![WireflowDiagram2](/assets/img/Chapter-IV/Login.PNG)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver el estado de mi perfil y sus características
-![WireflowDiagram3](/assets/img/Chapter-IV/VerPerfil.PNG)
+![WireflowDiagram3](https://i.ibb.co/Fg6ZkmG/Ver-Perfil.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder administrar mis veterinarias de las que estoy encargado y poder verificar la información necesaria
-![WireflowDiagram4](/assets/img/Chapter-IV/VerVeterinarias.PNG)
+![WireflowDiagram4](https://i.ibb.co/JcfL6f0/Ver-Veterinarias.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder administrar las citas que han sido agendadas.
-![WireflowDiagram5](/assets/img/Chapter-IV/VerCitasAgendadas.PNG)
+![WireflowDiagram5](https://i.ibb.co/6yL14p5/Ver-Citas-Agendadas.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder agendar nuevas citas.
-![WireflowDiagram6](/assets/img/Chapter-IV/NuevaCita.PNG)
+![WireflowDiagram6](https://i.ibb.co/2kFR8Nv/Nueva-Cita.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver las reseñas que pusieron los usuario de las veterinarias a mi cargo.
-![WireflowDiagram7](/assets/img/Chapter-IV/VerResenia.PNG)
+![WireflowDiagram7](https://i.ibb.co/Wtz1zMk/Ver-Resenia.png)
 
 * User Goal: Como encargado administrativo de la veterinaria deseo poder ver los productos que tenemos en venta.
-![WireflowDiagram8](/assets/img/Chapter-IV/VerTienda.PNG)
+![WireflowDiagram8](https://i.ibb.co/tKyXQjD/Ver-Tienda.png)
 
 Usuarios
 
 - User Goal: Como usuario deseo registrarse dentro de la aplicación web.
 
-![Wireframe5](/assets/img/Chapter-IV/Register.png)
+![Wireframe5](https://i.ibb.co/JBpry61/Register.png)
 
 El usuario comienza su interacción su interacción con la aplicación web brindando los datos para la creación de su cuenta: Nombre, Apellido, email, contraseña, confirmación de contraseña, fecha de nacimiento y sexo.
 
@@ -267,63 +267,63 @@ El usuario rellena los datos que le solicita la aplicación web para poder ingre
 
 - User Goal: Como usuario quiero poder ingresar a mi perfil y ver mis mascotas registradas y editar información.
 
-![Wireframe5](/assets/img/Chapter-IV/enterPerfil.png)
+![Wireframe5](https://i.ibb.co/LrzLsH4/enter-Perfil.png)
 
 El usuario ingreso a su cuenta, está en la página de inicio y quiere ingresar a su perfil para ver las mascotas y posterior mente editarlas en el símbolo del lápiz de cara apartado de la mascota.
 
 - User Goal: Como usuario quiero poder visualizar las veterinarias que me interesan en un mapa interactivo y ver las veterinarias.
 
-![Wireframe5](/assets/img/Chapter-IV/wfveterinaria.png)
+![Wireframe5](https://i.ibb.co/HNmJPpJ/wfveterinaria.png)
 
 El dueño de mascota se dirige al MapVet, que se encuentra en el menú, para poder ver el mapa donde se dará información de las veterinarias mas cercanas a su ubicación.
 
 - User Goal: Como Dueño de mascota quiero poder registrar una reserva o cita para mi mascota.
 
-![Wireframe5](/assets/img/Chapter-IV/reservcitas.png)
+![Wireframe5](https://i.ibb.co/sb11htW/reservcitas.png)
 
 El dueño de mascota se dirige a mapa evalúa sus posibles veterinarias y elige la veterinaria de su preferencia, por otro lado, se dirige al botón reservar y dentro de citas podrá registrar los requisitos del sistema para aprobar la cita, por último, le da al botón de registrar.
 
 - User Goal: Como dueño de mascota quiero poder ver mis citas pendientes para mis mascotas.
 
-![Wireframe5](/assets/img/Chapter-IV/listcitas.png)
+![Wireframe5](https://i.ibb.co/wpWrzGM/listcitas.png)
 
 El dueño de mascotas, estando en la pagina de inicio (Recomendaciones), se dirige a citas donde se mostrará la información de las citas pendientes que tiene.
 
 - User Goal: Como dueño de mascota quiero poder tener un apartado de preguntas frecuentas para informarme sobre el cuidado de mi mascota.
 
-![Wireframe5](/assets/img/Chapter-IV/pregfreq.png)
+![Wireframe5](https://i.ibb.co/LtYNpG7/pregfreq.png)
 
 El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a preguntas frecuentes donde se mostrará la información sobre el cuidado de las mascotas.
 
 - User Goal: Como dueño de mascota quiero poder tener un mapa interactivo donde se me enseñe las veterinarias cercanas a mi ubicación.
 
-![Wireframe5](/assets/img/Chapter-IV/mapa.png)
+![Wireframe5](https://i.ibb.co/DkcVYNS/mapa.png)
 
 El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Mapa para poder interactuar y se mostrara las veterinarias cerca de él.
 
 - User Goal: Como dueño de mascota quiero poder ver y dejar reseñas, de otros usuarios, de las veterinarias.
 
-![Wireframe5](/assets/img/Chapter-IV/reseña.png)
+![Wireframe5](https://i.ibb.co/dbrTT9x/rese-a.png)
 
 El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Veterinarias donde podrá ver y dejar reseñas acerca de su servicio de la veterinaria.
 
 - User Goal: Como dueño de mascota quiero poder comprar artículos en una tienda online, sobre productos relacionados al cuidado de mi mascota.
 
-![Wireframe5](/assets/img/Chapter-IV/tienda.png)
+![Wireframe5](https://i.ibb.co/HFKnLWR/tienda.png)
 
 El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dirige a Mapa después elige su veterinaria favorita y le da al botón de tienda donde se mostrará los productos para el cuidado de su mascota y posteriormente poder comprarlas.
 
 ### 4.4.3. Web Applications Mock-ups
 
-![Mockup1](/assets/img/Chapter-IV/Mockup1.png)
+![Mockup1](https://i.ibb.co/nfFZ36Z/Mockup1.png)
 
-![Mockup2](/assets/img/Chapter-IV/Mockup2.png)
+![Mockup2](https://i.ibb.co/zQQnJx5/Mockup2.png)
 
-![Mockup3](/assets/img/Chapter-IV/Mockup3.png)
+![Mockup3](https://i.ibb.co/P4x2YX9/Mockup3.png)
 
-![Mockup4](/assets/img/Chapter-IV/Mockup4.png)
+![Mockup4](https://i.ibb.co/SXDMFPY/Mockup4.png)
 
-![Mockup5](/assets/img/Chapter-IV/Mockup5.png)
+![Mockup5](https://i.ibb.co/dGzPTZt/Mockup5.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
@@ -335,26 +335,26 @@ El dueño de mascotas, estando en la página de inicio (Recomendaciones), se dir
 
 En el siguiente diagrama se detalla como interactúan los usuarios con el sistema de VetCare y con sistemas externos como E-mail y plataformas de pago.
 
-![Context](/assets/img/Chapter-IV/Diagraman-SystemContext.png)
+![Context](https://i.ibb.co/0YvgH52/Diagraman-System-Context.png)
 
 ### 4.6.2. Software Architecture Container Diagram
 
 En el siguiente diagrama se muestra los contenedores del sistema. Se presenta una vision mas amplia de la arquitectura de software.
 
-![Container](/assets/img/Chapter-IV/Diagraman-Container.png)
+![Container](https://i.ibb.co/J3qZ4XY/Diagraman-Container.png)
 
 ### 4.6.3. Software Architecture Components Diagram
 
 En el siguiente diagrama se presenta los detalles de tecnología e implementación de los contenedores.
 
-![Component](/assets/img/Chapter-IV/Diagraman-Component.png)
+![Component](https://i.ibb.co/4YPdR7M/Diagraman-Component.png)
 
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-![Class-Diagram](/assets/img/Chapter-IV/Class-Diagram.png)
+![Class-Diagram](https://i.ibb.co/Y8mQvVH/Class-Diagram.png)
 
 
 ### 4.7.2. Class Dictionary
@@ -580,7 +580,7 @@ ALTER TABLE registro_citas
 
 ### 4.8.1. Database Diagram.
 
-![Database-diagram](/assets/img/Chapter-IV/Database-Diagram.JPG)
+![Database-diagram](https://i.ibb.co/m6RmdrN/Database-Diagram.jpg)
 
 
 

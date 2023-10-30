@@ -89,19 +89,19 @@ Para el desarrollo del Landing Page se usarán las siguientes nomenclaturas.
 ### 5.1.4.	Software Deployment Configuration.
 Para el despliegue de nuestra landing page usamos GitHub donde primero realizamos la creación de nuestro repositorio donde se desarrollará el código de nuestra landing page
 
-![Repository Created](/assets/img/Chapter-V/Repository-Landing.png)
+![Repository Created](https://i.ibb.co/dfcRwbQ/Repository-Landing.png)
 
 Una vez creado nuestro repositorio, nos repartimos las distintas user stories para el desarrollo de nuestra landing page y creamos las ramas necesarias para que cada integrante pueda trabajar sin complicaciones.
 
-![Branches](/assets/img/Chapter-V/Branches.png)
+![Branches](https://i.ibb.co/7RrX5KC/Branches.png)
 
 En el apartado de build and deployment selecciónamos la rama que queremos que se despliegue, en nuestro caso sería la rama develop, en la cual se realizan todos los cambios.
 
-![Github pages used](/assets/img/Chapter-V/Github-Pages-Config.png)
+![Github pages used](https://i.ibb.co/V9jWbBp/Github-Pages-Config.png)
 
 Le damos a guardar y empezaría el despliegue de nuestro landing en Github Pages, nos generará un link con el cual podemos acceder a nuestro landing page.
 
-![Landing Page image](/assets/img/Chapter-V/Landing-Page.png)
+![Landing Page image](https://i.ibb.co/tZhpqC7/Landing-Page.png)
 
 Link de la landing page: https://upc-coders.github.io/MapVet-LandingPage/
 
@@ -273,15 +273,15 @@ El objetivo principal del Sprint 1 es lograr la implementación de la landing pa
 ### 5.2.1.4. Execution Evidence for Sprint Review.
 En este Sprint 1 se logró la implementación de la landing page de MapVet, los miembros cumplieron con las tareas asignadas durante el sprint y gracias a esto se concretó con su implementación y despliegue. A continución, una vista de las principales pantallas de la landing page.
 
-![Landing 1](/assets/img/Chapter-V/Landing-Page.png)
+![Landing 1](https://i.ibb.co/tZhpqC7/Landing-Page.png)
 
-![Landing 2](/assets/img/Chapter-V/Landing-Page-About.png)
+![Landing 2](https://i.ibb.co/vXqFkx4/Landing-Page-About.png)
 
-![Landing 3](/assets/img/Chapter-V/Landing-Page-Recommendation.png)
+![Landing 3](https://i.ibb.co/0cyVJtY/Landing-Page-Recommendation.png)
 
-![Landing 4](/assets/img/Chapter-V/Landing-Page-Faq.png)
+![Landing 4](https://i.ibb.co/mv6tpT7/Landing-Page-Faq.png)
 
-![Landing 5](/assets/img/Chapter-V/Landing-Page-Pet.png)
+![Landing 5](https://i.ibb.co/XzvX1Sk/Landing-Page-Pet.png)
 
 ### 5.2.1.5.  Software Deployment Evidence for Sprint Review.
 Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama develop.
@@ -290,15 +290,15 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 ### 5.2.1.6. Team Collaboration Insights during Sprint.
 En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
 
-![commits-1](/assets/img/Chapter-V/gitflow-pulse.png)
+![commits-1](https://i.ibb.co/C13NXhn/gitflow-pulse.png)
 
 En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
 
-![commits-2](/assets/img/Chapter-V/gitflow-traffic.png)
+![commits-2](https://i.ibb.co/KGKscYG/gitflow-traffic.png)
 
 Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
-![network](/assets/img/Chapter-V/gitflow-network.png)
+![network](https://i.ibb.co/ZMKsc09/gitflow-network.png)
 
 ### 5.2.2. Sprint 2
 En esta sección, se detalla el proceso completo de implementación y despliegue de la aplicación web desarrollada con el framework Vue. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
@@ -442,12 +442,19 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 |                                               |       develop              	        |   b0a89df13a4b8697c4674e7ff68a76449fafa048                          	 	   |             fix(home): home fixed                                      	 	             |    ---       	 	    | 29/09/2023          	 	 |
 
 
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review.
-
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
 En este segundo sprint, hemos completado con éxito la implementación de la página web de MapVet. Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del sitio web. A continuación, se muestran algunas de las pantallas clave de la página web.
+
+![Paginaweb-landing](https://i.ibb.co/Fsk0dkP/landingpage.jpg)
+
+![Paginaweb-vets](https://i.ibb.co/g3y0mSM/veterinarias.jpg)
+
+![Paginaweb-vets2](https://i.ibb.co/GVSGX7H/veterinarias2.jpg)
+
+![Paginaweb-appoinments](https://i.ibb.co/7yWsCFt/appoinments.jpg)
+
+![Paginaweb-faq](https://i.ibb.co/s5yYQ1N/faq.jpg)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -455,11 +462,29 @@ Durante el segundo sprint, hemos logrado un progreso sustancial en la documentac
 
 Repositorio: https://github.com/upc-coders/Frontend-MapVet/tree/develop
 
-![Commmits](/assets/img/Chapter-V/commits.png)
+![Commmits](https://i.ibb.co/TczqBKC/commits.png)
+
+**Endpoints Documentados**
+
+|  Endpoint	   | Verbo HTTP  | Parámetros | Ejemplo de Llamada |                              
+|:------------:|:-------------------:|:----------:|:------------------:|
+| /appoinment  |     GET      |  Ninguno   | GET<br/>/tutorials |
+|    /data     |     GET      |  Ninguno   |    GET<br/>/faq    |
+
 
 ### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
 
-Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Firebase fue la plataforma que utilizamos para el despliegue de la página web.
+Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Netlify fue la plataforma que utilizamos para el despliegue de la página web.
+
+Enlace de la pagina web: https://vetmap.netlify.app/
+
+![Paginaweb-landing-desplegado](https://i.ibb.co/kgjFqmT/landing-despliegue.png)
+
+![Paginaweb-vets-desplegado](https://i.ibb.co/yyjpgd3/vet-despliegue.png)
+
+![Paginaweb-appoinments-desplegado](https://i.ibb.co/tZ85SJ0/appoinment-despliegue.png)
+
+![Paginaweb-faq-desplegado](https://i.ibb.co/DRwyFSJ/faq-desplieque.png)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -467,15 +492,15 @@ En el segundo sprint, nuestro equipo se enfocó en la implementación del fronte
 
 Imagenes de los commits para el reporte
 
-![Commmits-report](/assets/img/Chapter-V/commits-report.png)
+![Commmits-report](https://i.ibb.co/bPxbbMJ/commits-report.png)
 
-Imagenes de los commits del frontend
+Imagenes de los commits del FrontEnd
 
-![Commmits](/assets/img/Chapter-V/commits.png)
+![Commmits](https://i.ibb.co/TczqBKC/commits.png)
 
 Imagenes de los commits del landing page
 
-![Commmits-Landing](/assets/img/Chapter-V/commits-landing.png)
+![Commmits-Landing](https://i.ibb.co/djvshSf/commits-landing.png)
 
 
 ## 5.3. Validation Interviews.
