@@ -502,6 +502,149 @@ Imagenes de los commits del landing page
 
 ![Commmits-Landing](https://i.ibb.co/djvshSf/commits-landing.png)
 
+### 5.2.3. Sprint 3
+En esta sección, se detalla el proceso completo de implementación en fase inicial del backend desarrollado en ASP.NET. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.3.1. Sprint Planning 3
+En el Sprint Planning 3 se planificó para la elaboración del backend del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+|             Sprint #             |                                                                                                                             Sprint 3                                                                                                                             | 
+|:--------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                  |
+|               Date               |                                                                                                                           	2023-10-29                                                                                                                            |
+|               Time               |                                                                                                                             6:00 PM	                                                                                                                             |
+|             Location             |                                                                                                                        	Virtual (Discord)                                                                                                                        |
+|           Prepared By            |                                                                                                               	 Daniel Valverde, Sebastian Ramirez                                                                                                               |
+|            Attendees             |                                                               Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Sebastian Andre Ramirez Mendez / Juliana Yauricasa Seguil              	                                                               |
+|    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración del backend. Se acordó que la fecha de culminación de los tasks será hasta el 1 de noviembre de 2023                                                                                     	 |
+| Sprint 2 - Retrospective Summary |                               Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                               |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                  |
+|          Sprint 2 Goal           |                                        Construcción y del backend en fase inicial, en un lapso de 3 días                                                                                                               	                                         |
+|        Sprint 2 Velocity         |                                                                                           25                                                                         	                                                                                           |
+|       Sum of Story Points        |                                                                                                      28                                                  	                                                                                                       |
+
+### 5.2.2.2. Sprint Backlog 3
+El objetivo principal del Sprint 3 es lograr la implementación en fase incial del backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> US22 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Citas  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Citas</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US23 </td>
+    <td rowspan="3" align="center"> Acceder a Endpoint Productos</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de la Tienda</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+</table>
+
+### 5.2.3.3. Development Evidence for Sprint Review.
+
+|                  Repository                   |              Branch              |                                     Commit Id                                      |                                       Commit Message                                        | Commit Message Body |   Committed on (Date)   |
+|:---------------------------------------------:|:--------------------------------:|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------------:|:-----------------------:|
+| https://github.com/upc-coders/Backend-VetCare |             develop              |                   e8076f091e96348a925246b587c68085d751f52f   	 	                   |                                   initial commit     	 	                                    |    ---      	 	     |  29/10/2023        	 	  |
+|                                               |            develop  	            |          fb8799b6e1692151ba59aa7987cce76140638433                    	 	           |               feat(develop): domain of shared implemmented               	 	                |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |             develop	             |           513384b37a0f6f3179e9342082b90c001c1a42dd                   	 	           |          feat(develop): extensions of shared added.                            	 	          |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |           develop   	            |     f9cbfdcb67859c3d8076efc663214c811e0e0c54                              	 	      |      feat(develop): persistence of shared added.                                   	 	      |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |       feature/store     	        |     e17d207af8eb64763798ecf57bbd9636fd6ac12c                              	 	      |          feat(store): added store domain                                      	 	           |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |     feature/store          	     |   6ecccf172c0d5b1a731fc8f929b9a7b31dac801c                                   	 	   |        feat(store): added product resource                                       	 	        |    ---       	 	    | 30/10/2023          	 	 |
+|                                               |    feature/store            	    |  f0d3b4a2008990a5ddf38481a5dad3b4d329acc3                                    	 	   |        feat(store): added product service                                       	 	         |    ---       	 	    | 30/10/2023          	 	 |
+|                                               |    feature/store            	    |   0873fbbf3180af5b3c4378a0824afb2572c134ee                                   	 	   |        feat(store): added product mapping                                       	 	         |    ---       	 	    | 30/10/2023          	 	 |
+|                                               |    feature/store           	     |   c6855a6ab4ecb426158db6dae3498052decc8261                                   	 	   |      feat(store): added product persistence                                       	 	       |    ---       	 	    | 30/10/2023          	 	 |
+|                                               |    feature/store           	     |   3b0be1656521469a79ceba0a2b6136bc91c665e6                                   	 	   |       feat(store): added product controller                                       	 	       |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | f275f2fb78c6312a66db5c75d4301fa5598f3009                                      	 	  |        fix(appointment): structure fixed.                                        	 	        |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | e55586f608c88ce836260858b5ea04150f872cfe                                       	 	 |       feat(appointment): IPetService added.                                       	 	       |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | db4c0d67ba00b179f84cd8be005e9d2d221eb4df                                       	 	 |  feat(appointment): IPrescriptionService added.                                       	 	   |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | ec522b1c8a8135adfd7640c68d22b3e688693a8e                                      	 	  |       feat(appointment): PetResponse added.                                       	 	       |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 031d929ed614d69924bf841b9e68e28fe6f06793                                      	 	  |  feat(appointment): PrescriptionResponse added.                                       	 	   |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 |  f0bdf912d2cc56734160b12301479cd9a13bb904                                     	 	  | feat(appointment): ModelToResourceProfile added.                                       	 	  |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 21589a9ab62831fc364e8adc2b02c2e3ca0ed61b                                      	 	  | feat(appointment): ResourceToModelProfile added.                                       	 	  |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | a1f6a4e7d53056f9b443a636240584834dfa5556                                      	 	  |      feat(appointment): PetRepository added.                                       	 	      |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | f8d8c3ef9e4d8f4de01399649edcf8631af9a08a                                      	 	  | feat(appointment): PrescriptionRepository added.                                       	 	  |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 2df63e52552957ddf6ddb7b61ae40a808e9d4360                                      	 	  |       feat(appointment): PetResource added.                                      	 	        |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 46cc1ed1892e7c9069e64963d9b83e419680f791                                      	 	  |  feat(appointment): PrescriptionResource added.                                       	 	   |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 1e2619b9a49ef4498e7ea9e514ed7782d13c86ef                                      	 	  |     feat(appointment): SavePetResource added.                                       	 	     |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 |  afafa06abbaf536652ff0728fd7391b296974ed2                                     	 	  | feat(appointment): SavePrescriptionResource added.                                      	 	 |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 141d242f63eb49690525f0365e518f159aa97168                                       	 	 |       feat(appointment): PetService added.                                       	 	        |    ---       	 	    | 30/10/2023          	 	 |
+|                                               | feature/appointment            	 | 602fcd035353ae9dc21ef776aca6ab626a29ce55                                      	 	  |   feat(appointment): PrescriptionService added.                                       	 	   |    ---       	 	    | 30/10/2023          	 	 |
+
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review.
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
