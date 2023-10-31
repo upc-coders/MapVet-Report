@@ -476,7 +476,7 @@ Repositorio: https://github.com/upc-coders/Frontend-MapVet/tree/develop
 
 Para la implementación de nuestra página, optamos por utilizar GitHub para el control de versiones y colaboración en equipo. En este proceso, creamos un repositorio donde a partir de ramas colaboramos cada integrante del equipo, al finalizar pasamos todo a la rama develop. Netlify fue la plataforma que utilizamos para el despliegue de la página web.
 
-Enlace de la pagina web: https://vetmap.netlify.app/
+Enlace de la pagina web: https://frontend-map-vet.vercel.app/
 
 ![Paginaweb-landing-desplegado](https://i.ibb.co/kgjFqmT/landing-despliegue.png)
 
