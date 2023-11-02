@@ -645,6 +645,26 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
+hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
+vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo 
+Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
+
+A continuación el gráfico de barras de la cantidad de commits por integrante
+
+![commits](https://i.ibb.co/2PjShKC/commits-sprint3.png)
+
+Registro de commits en las ramas creadas para el desarrollo del backend
+
+![commits2](https://i.ibb.co/dPpkrwy/commits-list.png)
+
+Lista de dependencias usadas en el proyecto backend
+
+![dependecys]("https://i.ibb.co/PGhKyPc/dependencias.png)
+
+Cronología de los commits y la integración a la rama principal 'Develop'
+
+![network](https://i.ibb.co/mqBvHsK/network-sprint3.png)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
