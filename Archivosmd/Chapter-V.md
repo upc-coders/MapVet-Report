@@ -842,7 +842,8 @@ Seleccionamos la instancia de App Service que configuramos previamente en Azure.
 
 ![Select group of App Service implemmented on Azure](https://i.ibb.co/NScFp0V/Screenshot-13.jpg)
 
-Saltamos este paso.
+Saltamos este paso.  
+
 ![Skip sthep](https://i.ibb.co/FsDK7Fy/Screenshot-14.jpg)
 
 Finalmente se creó el perfil para la publicación.
