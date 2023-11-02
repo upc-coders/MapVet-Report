@@ -659,6 +659,7 @@ Se implementó el Endpoint para la gestión de la tienda.
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado. Tales como los enlaces que se están utilizando para los Endpoints.
 
+Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
 
 <table>
  
