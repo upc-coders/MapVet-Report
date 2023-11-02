@@ -640,11 +640,269 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En este apartado se presentan las capturas de las vistas que se realizaron en este Sprint.  
+En este Sprint se trabajó en la implementación del Backend empleando Endpoints.
+
+Se implementó el Endpoint para la gestión del perfil de la mascota.   
+![PetProfile](https://i.ibb.co/YpgdC0m/Screenshot-1.jpg)  
+
+
+Se implementó el Endpoint para la gestión de las citas.  
+![Appointments](https://i.ibb.co/YTzmQp2/Screenshot-2.jpg)  
+
+
+Se implementó el Endpoint para la gestión de la tienda.  
+![Store](https://i.ibb.co/MVBRpsc/Screenshot-3.jpg)  
+
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado. Tales como los enlaces que se están utilizando para los Endpoints.
+
+Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
+
+<table>
+ 
+
+   <tr>
+    <td align="center" colspan="4"> <strong>Services</strong></td>
+    
+  </tr>
+  <tr>
+    <td align="center"> <strong>Endpoint</strong> </td>
+    <td align="center"> <strong>Acciones implementadas</strong></td>
+    <td align="center"> <strong>Enlaces</strong> </td>
+    <td align="center"> <strong>Acciones soportadas</strong></td>
+    
+   </td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> Pets </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /pets, correspondiente al CRUD de un perfil de mascota.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Prescriptions </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /prescriptions, correspondiente al CRUD de una prescripción médica.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Products </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /products, correspondiente al CRUD de una tienda.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> DELETE </td>
+  </tr>
+</table>
+
+------------------------  
+<br>
+* Método GET en el Endpoint /pets  
+
+![GET](https://i.ibb.co/mhX1CYF/Screenshot-1.jpg) 
+
+* Método POST en el Endpoint /pets
+
+![POST](https://i.ibb.co/ynHdKC5/Screenshot-2.jpg) 
+
+* Método PUT en el Endpoint /pets  
+
+![PUT](https://i.ibb.co/TTvy77V/Screenshot-3.jpg) 
+
+* Método DELETE en el Endpoint /pets 
+
+![DELETE](https://i.ibb.co/SPZ6dMV/Screenshot-4.jpg) 
+
+* Método GET en el Endpoint /prescriptions
+
+![GET](https://i.ibb.co/RPHNbnC/Screenshot-5.jpg) 
+
+* Método POST en el Endpoint /prescriptions
+
+![POST](https://i.ibb.co/0jX1mXZ/Screenshot-6.jpg)
+
+* Método PUT en el Endpoint /prescriptions  
+
+![PUT](https://i.ibb.co/DkQtX4q/Screenshot-7.jpg)
+
+* Método DELETE en el Endpoint /prescriptions  
+
+![DELETE](https://i.ibb.co/GPGmCVH/Screenshot-8.jpg)
+
+* Método GET en el Endpoint /products 
+
+![GET](https://i.ibb.co/PWNXMYw/Screenshot-9.jpg)
+
+* Método POST en el Endpoint /products
+
+![POST](https://i.ibb.co/qNNZ6nK/Screenshot-10.jpg)
+
+* Método PUT en el Endpoint /products 
+
+![PUT](https://i.ibb.co/9NfVDzZ/Screenshot-11.jpg)
+
+* Método DELETE en el Endpoint /products
+
+![DELETE](https://i.ibb.co/3BLCJYF/Screenshot-12.jpg)
+
+
+
+
 
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
 
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint.   
+Llevamos a cabo la implementación en dos plataformas altamente confiables. Utilizamos Azure para configurar el entorno del Web Application, aprovechando sus capacidades y recursos, mientras que optamos por SmarterASP.NET para la implementación de la base de datos MySQL, garantizando así una solución sólida y eficiente para nuestro despliegue.  
+<br>
+En este paso realizamos la creación de nuestra cuenta en Azure para poder administrar la subscripción que tenemos en esta plataforma.  
+
+![Create Azure Portal](https://i.ibb.co/ZNq1YSK/Screenshot-1.jpg)  
+
+Para incorporar recursos relacionados a la solución de Azure, es necesario crear un grupo de recursos que permita el uso de un contenedor adecuado. Debemos de colocarle un nombre a nuestro grupo de recursos y asegurarnos de que este no haya sido usado antes.
+
+![Create resource group](https://i.ibb.co/pdzvq2y/Screenshot-2.jpg)
+
+Una vez que hayamos validado nuestro grupo de recursos, procedemos a crear este contenedor, el cual nos permitirá incluir los recursos que serán utilizados en la solución.
+
+![Successful creation resource group](https://i.ibb.co/vj4VVh1/Screenshot-3.jpg)
+
+Luego, debemos crear el espacio para el API que se ejecutará dentro de la aplicación, donde se especifican los requisitos que se utilizarán en la solución.
+
+![Create Web Application](https://i.ibb.co/0s1pB9S/Screenshot-4.jpg)
+
+Debemos de seleccionar la pila de ejecución para la solución, es importante este paso ya que si no seleccionamos el correcto, nuestro API no será compatible. Seleccionamos .NET7 (STS).
+
+![Select .NET 7 SLS](https://i.ibb.co/q5Zh80D/Screenshot-5.jpg)
+
+En este apartado también seleccionamos el plan que deseamos utilizar para la solución.
+
+![Select plan](https://i.ibb.co/PF3wT7g/Screenshot-6.jpg)
+
+Esta página nos ayuda muchísimo para la creación de la base de datos, ya que nos proporciona un enlace que utilizaremos en la solución de nuestro proyecto.
+
+![Create account on SmarterASP](https://i.ibb.co/6RmF33K/Screenshot-7.jpg)  
+
+En esta parte realizamos la gestión de nuestra cuenta para el hosting de nuestra base de datos (MySQL).
+
+![Create Hosting account](https://i.ibb.co/Mp01cjK/Screenshot-8.jpg)
+
+Una vez dentro de nuestra cuenta, nos dirigimos a la pestaña de Databases, y seleccionamos la base de datos que deseamos utilizar.
+
+![Create database on MySQL](https://i.ibb.co/9YyYbRK/Screenshot-9.jpg)
+
+Nos proporcionará la cadena de conexión para la base de datos.
+
+![Connection String Examples](https://i.ibb.co/yXchPyt/Screenshot-10.jpg)
+
+Luego de haber realizado los pasos previos, abrimos nuestra solución con Visual Studio 2022 y la seleccionamos y seleccionamos la opción de Publicación en Azure.
+
+![Select Azure](https://i.ibb.co/dcFtsvw/Screenshot-11.jpg)
+
+Es importante seleccionar Azure App Service (Windows), ya que es esa la que hemos configurado en la plataforma.
+
+![Select Azure App Service for Windows](https://i.ibb.co/VVrwgJX/Screenshot-12.jpg)
+
+Seleccionamos la instancia de App Service que configuramos previamente en Azure.
+
+![Select group of App Service implemmented on Azure](https://i.ibb.co/NScFp0V/Screenshot-13.jpg)
+
+Saltamos este paso.  
+
+![Skip sthep](https://i.ibb.co/FsDK7Fy/Screenshot-14.jpg)
+
+Finalmente se creó el perfil para la publicación.
+
+![Finish creating profile publish process](https://i.ibb.co/gTs0X0g/Screenshot-15.jpg)
+
+Aquí simplemente le damos click a publicar y tendremos que esperar el proceso.
+
+![Click on publish](https://i.ibb.co/SNZz72C/Screenshot-16.jpg)
+
+Veremos en la consola la publicación de nuestra API y los posibles errores, en este caso, no se generó ninguno y podemos 
+
+![Show console of API publish](https://i.ibb.co/YRfhXs2/Screenshot-17.jpg)
+
+Utilizando el enlace generado en la consola, podemos ingresar al Swagger y tener interacción con nuestra API.
+
+![Successful upload API](https://i.ibb.co/xXRsZrM/Screenshot-18.jpg)
+
+
+
+
+
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
+hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
+vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo 
+Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.  
+
+A continuación el gráfico de barras de la cantidad de commits por integrante  
+
+![commits](https://i.ibb.co/2PjShKC/commits-sprint3.png)  
+
+Registro de commits en las ramas creadas para el desarrollo del backend  
+
+![commits2](https://i.ibb.co/dPpkrwy/commits-list.png)  
+
+Lista de dependencias usadas en el proyecto backend  
+
+![dependecys](https://i.ibb.co/PGhKyPc/dependencias.png)  
+
+Cronología de los commits y la integración a la rama principal 'Develop'  
+
+![network](https://i.ibb.co/mqBvHsK/network-sprint3.png)  
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -698,6 +956,8 @@ Resumen:
 Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante
 
 ---
+
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.

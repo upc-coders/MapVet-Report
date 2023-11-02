@@ -219,11 +219,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 5.2.1.6. [Services Documentation Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5216-team-collaboration-insights-during-sprint)
 
-5.2.2 [Sprint 2](/Archivosmd/Chapter-V.md#522-sprint-2)
+5.2.2. [Sprint 2](/Archivosmd/Chapter-V.md#522-sprint-2)
 
-5.2.2.1 [Sprint Planning 2](/Archivosmd/Chapter-V.md#5221-sprint-planning-2)
+5.2.2.1. [Sprint Planning 2](/Archivosmd/Chapter-V.md#5221-sprint-planning-2)
 
-5.2.2.1 [Sprint Backlog 2](/Archivosmd/Chapter-V.md#5222-sprint-backlog-2)
+5.2.2.1. [Sprint Backlog 2](/Archivosmd/Chapter-V.md#5222-sprint-backlog-2)
 
 5.2.1.3. [Development Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5223-development-evidence-for-sprint-review)
 
@@ -236,6 +236,25 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 5.2.1.7. [Software Deployment Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5227--software-deployment-evidence-for-sprint-review)
 
 5.2.1.8. [Team Collaboration Insights during Sprint](/Archivosmd/Chapter-V.md#5228-team-collaboration-insights-during-sprint)
+
+5.2.3. Sprint 3  
+
+5.2.3.1. Sprint Planning 3  
+
+5.2.3.2. Sprint Backlog 3  
+
+5.2.3.3. Development Evidence for Sprint Review.  
+
+5.2.3.4. Testing Suite Evidence for Sprint Review.  
+
+5.2.3.5. Execution Evidence for Sprint Review.  
+
+5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+5.2.1.8. Team Collaboration Insights during Sprint  
+
 
 5.3. Validation Interviews.
 
