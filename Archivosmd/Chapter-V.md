@@ -909,27 +909,57 @@ Cronología de los commits y la integración a la rama principal 'Develop'
 **Información personal:**
 -	¿Cuál es tu nombre?
 -	¿Cuál es tu edad?
--	¿Cuál es tu estado social?
 -	¿Cuál es tu ocupación profesional?
--	¿Te encuentras trabajando en la actualidad?
 
 **Preguntas de interacción con la Landing Page y Web Application:**
--	¿Como se sintió al interactuar con el landing page?
--	¿Y en el apartado de la aplicación web, como sintió al interactuar con esta?
--	¿Cómo fue su experiencia con el menú y botones tanto en el landing page como con la aplicación web?
--	¿Logra identificar fácilmente las secciones importantes, como títulos y botones en las distintas vistas de la aplicación y en el Landing Page?
--	¿Considera que la información brindada es puntual y sencilla?
--	¿Siente que las tareas de reservar una cita y usar el mapa serian sencillas de realizar usando la interfaz?
--	¿Pudo visualizar correctamente los perfiles de las mascotas y el mapa?
-
-
+- ¿Como se sintió al interactuar con el landing page?
+- ¿Cómo se sintió al interactuar con la aplicación web y landing page?
+- ¿Qué impresión tuvo al utilizar el apartado de citas de la aplicación web?
+- ¿Cómo fue su experiencia al utilizar el menú y los botones?
+- ¿Fue fácil para usted identificar las secciones importantes, como títulos y botones, en las diferentes vistas?
+- ¿Considera que la información proporcionada es clara y precisa?
+- ¿Cree que reservar una cita sería sencilla de llevar a cabo utilizando la interfaz?
+- ¿Pudo navegar correctamente por los perfiles de las mascotas y agregar la suya?
+- ¿Pudo navegar correctamente por la tienda y el carrito?
 
 ### 5.3.2. Registro de Entrevistas.
+
+**Segmento: Dueños de mascotas**
+
+| Entrevista |      Nombre y Apellido      |  Edad   |  Distrito  |           Timing inicial            |            Timing final             |
+|:----------:|:---------------------------:|:-------:|:----------:|:-----------------------------------:|:-----------------------------------:|
+|     1      | Fernando, Cardenas          | 18 años | San Miguel | [0:00](https://acortar.link/WiEbIE) | [8:42](https://acortar.link/zenRdQ) |
+
+[![entrevista 1](https://i.ibb.co/8dNCLvk/1er-entrevista-due-os-de-mascotas.png)](https://acortar.link/WiEbIE)
+
+Resumen:
+
+---
+
+| Entrevista | Nombre y Apellido |  Edad   |      Distrito       |           Timing inicial            |             Timing final             |
+|:----------:|:-----------------:|:-------:|:-------------------:|:-----------------------------------:|:------------------------------------:|
+|     2      | Rentería, Marcelo | 19 años | San Marin de Porres | [8:42](https://acortar.link/zenRdQ) | [18:50](https://acortar.link/Bbi1lN) |
+
+[![entrevista 2](https://i.ibb.co/vLcvkrH/3era-entrevista-due-o-de-mascota.png)](https://acortar.link/zenRdQ)
+
+Resumen:
+
+---
+
+| Entrevista | Nombre y Apellido |  Edad   |     Distrito      |           Timing inicial            |             Timing final             |
+|:----------:|:-----------------:|:-------:|:-----------------:|:-----------------------------------:|:------------------------------------:|
+|     3      | Gabriel Perkovic  | 19 años | Santiago de Surco | [18:50](https://acortar.link/Bbi1lN) | [27:24](https://acortar.link/OjAAtl) |
+
+[![entrevista 3](https://i.ibb.co/WyJmdLQ/2da-entrevista-due-o-de-mascota.png)](https://acortar.link/Bbi1lN)
+
+Resumen:
+Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante
+
+---
+
 
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
-
-
 
 ## 5.4. Video About-the-Product.
