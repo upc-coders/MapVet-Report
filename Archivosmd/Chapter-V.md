@@ -640,9 +640,54 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+
+
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
+
+![Create Azure Portal](https://i.ibb.co/ZNq1YSK/Screenshot-1.jpg)
+
+![Create resource group](https://i.ibb.co/pdzvq2y/Screenshot-2.jpg)
+
+![Successful creation resource group](https://i.ibb.co/vj4VVh1/Screenshot-3.jpg)
+
+![Create Web Application](https://i.ibb.co/0s1pB9S/Screenshot-4.jpg)
+
+![Select .NET 7 SLS](https://i.ibb.co/q5Zh80D/Screenshot-5.jpg)
+
+![Select plan](https://i.ibb.co/PF3wT7g/Screenshot-6.jpg)
+
+![Create account on SmarterASP](https://i.ibb.co/6RmF33K/Screenshot-7.jpg)
+
+![Create Hosting account](https://i.ibb.co/Mp01cjK/Screenshot-8.jpg)
+
+![Create database on MySQL](https://i.ibb.co/9YyYbRK/Screenshot-9.jpg)
+
+![Connection String Examples](https://i.ibb.co/yXchPyt/Screenshot-10.jpg)
+
+![Select Azure](https://i.ibb.co/dcFtsvw/Screenshot-11.jpg)
+
+![Select Azure App Service for Windows](https://i.ibb.co/VVrwgJX/Screenshot-12.jpg)
+
+![Select group of App Service implemmented on Azure](https://i.ibb.co/NScFp0V/Screenshot-13.jpg)
+
+![Skip sthep](https://i.ibb.co/FsDK7Fy/Screenshot-14.jpg)
+
+![Finish creating profile publish process](https://i.ibb.co/gTs0X0g/Screenshot-15.jpg)
+
+![Click on publish](https://i.ibb.co/SNZz72C/Screenshot-16.jpg)
+
+![Show console of API publish](https://i.ibb.co/YRfhXs2/Screenshot-17.jpg)
+
+![Successful upload API](https://i.ibb.co/xXRsZrM/Screenshot-18.jpg)
+
+
+
+
+
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
