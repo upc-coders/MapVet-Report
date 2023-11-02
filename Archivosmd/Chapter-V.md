@@ -705,7 +705,7 @@ Registro de commits en las ramas creadas para el desarrollo del backend
 
 Lista de dependencias usadas en el proyecto backend
 
-![dependecys]("https://i.ibb.co/PGhKyPc/dependencias.png)
+![dependecys]("https://i.ibb.co/PGhKyPc/dependencias.png")
 
 Cronología de los commits y la integración a la rama principal 'Develop'
 
