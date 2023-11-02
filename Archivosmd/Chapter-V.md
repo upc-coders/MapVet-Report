@@ -643,16 +643,16 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 En este apartado se presentan las capturas de las vistas que se realizaron en este Sprint.  
 En este Sprint se trabajó en la implementación del Backend empleando Endpoints.
 
-Se implementó el Endpoint para la gestión del perfil de la mascota.  
-![PetProfile](https://i.ibb.co/YpgdC0m/Screenshot-1.jpg)
+Se implementó el Endpoint para la gestión del perfil de la mascota.   
+![PetProfile](https://i.ibb.co/YpgdC0m/Screenshot-1.jpg)  
 
 
-Se implementó el Endpoint para la gestión de las citas.
-![Appointments](https://i.ibb.co/YTzmQp2/Screenshot-2.jpg)
+Se implementó el Endpoint para la gestión de las citas.  
+![Appointments](https://i.ibb.co/YTzmQp2/Screenshot-2.jpg)  
 
 
-Se implementó el Endpoint para la gestión de la tienda.
-![Store](https://i.ibb.co/MVBRpsc/Screenshot-3.jpg)
+Se implementó el Endpoint para la gestión de la tienda.  
+![Store](https://i.ibb.co/MVBRpsc/Screenshot-3.jpg)  
 
 
 
@@ -886,23 +886,23 @@ Utilizando el enlace generado en la consola, podemos ingresar al Swagger y tener
 En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
 hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
 vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo 
-Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
+Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.  
 
-A continuación el gráfico de barras de la cantidad de commits por integrante
+A continuación el gráfico de barras de la cantidad de commits por integrante  
 
-![commits](https://i.ibb.co/2PjShKC/commits-sprint3.png)
+![commits](https://i.ibb.co/2PjShKC/commits-sprint3.png)  
 
-Registro de commits en las ramas creadas para el desarrollo del backend
+Registro de commits en las ramas creadas para el desarrollo del backend  
 
-![commits2](https://i.ibb.co/dPpkrwy/commits-list.png)
+![commits2](https://i.ibb.co/dPpkrwy/commits-list.png)  
 
-Lista de dependencias usadas en el proyecto backend
+Lista de dependencias usadas en el proyecto backend  
 
-![dependecys](https://i.ibb.co/PGhKyPc/dependencias.png)
+![dependecys](https://i.ibb.co/PGhKyPc/dependencias.png)  
 
-Cronología de los commits y la integración a la rama principal 'Develop'
+Cronología de los commits y la integración a la rama principal 'Develop'  
 
-![network](https://i.ibb.co/mqBvHsK/network-sprint3.png)
+![network](https://i.ibb.co/mqBvHsK/network-sprint3.png)  
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -926,6 +926,10 @@ Cronología de los commits y la integración a la rama principal 'Develop'
 
 ### 5.3.2. Registro de Entrevistas.
 
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
+
 
 ## 5.4. Video About-the-Product.
