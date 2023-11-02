@@ -643,6 +643,144 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado. Tales como los enlaces que se están utilizando para los Endpoints.
+
+
+<table>
+ 
+
+   <tr>
+    <td align="center" colspan="4"> <strong>Services</strong></td>
+    
+  </tr>
+  <tr>
+    <td align="center"> <strong>Endpoint</strong> </td>
+    <td align="center"> <strong>Acciones implementadas</strong></td>
+    <td align="center"> <strong>Enlaces</strong> </td>
+    <td align="center"> <strong>Acciones soportadas</strong></td>
+    
+   </td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> Pets </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /pets, correspondiente al CRUD de un perfil de mascota.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/pets </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Prescriptions </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /prescriptions, correspondiente al CRUD de una prescripción médica.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/prescriptions </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Products </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /products, correspondiente al CRUD de una tienda.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/products </td>
+    <td align="center"> DELETE </td>
+  </tr>
+</table>
+
+------------------------  
+<br>
+* Método GET en el Endpoint /pets  
+
+![Create Azure Portal](https://i.ibb.co/mhX1CYF/Screenshot-1.jpg) 
+
+* Método POST en el Endpoint /pets
+
+![Create Azure Portal](https://i.ibb.co/ynHdKC5/Screenshot-2.jpg) 
+
+* Método PUT en el Endpoint /pets  
+
+![Create Azure Portal](https://i.ibb.co/TTvy77V/Screenshot-3.jpg) 
+
+* Método DELETE en el Endpoint /pets 
+
+![Create Azure Portal](https://i.ibb.co/SPZ6dMV/Screenshot-4.jpg) 
+
+* Método GET en el Endpoint /prescriptions
+
+![Create Azure Portal](https://i.ibb.co/RPHNbnC/Screenshot-5.jpg) 
+
+* Método POST en el Endpoint /prescriptions
+
+![Create Azure Portal](https://i.ibb.co/0jX1mXZ/Screenshot-6.jpg)
+
+* Método PUT en el Endpoint /prescriptions  
+
+![Create Azure Portal](https://i.ibb.co/DkQtX4q/Screenshot-7.jpg)
+
+* Método DELETE en el Endpoint /prescriptions  
+
+![Create Azure Portal](https://i.ibb.co/GPGmCVH/Screenshot-8.jpg)
+
+* Método GET en el Endpoint /products 
+
+![Create Azure Portal](https://i.ibb.co/PWNXMYw/Screenshot-9.jpg)
+
+* Método POST en el Endpoint /products
+
+![Create Azure Portal](https://i.ibb.co/qNNZ6nK/Screenshot-10.jpg)
+
+* Método PUT en el Endpoint /products 
+
+![Create Azure Portal](https://i.ibb.co/9NfVDzZ/Screenshot-11.jpg)
+
+* Método DELETE en el Endpoint /products
+
+![Create Azure Portal](https://i.ibb.co/3BLCJYF/Screenshot-12.jpg)
+
+
 
 
 
