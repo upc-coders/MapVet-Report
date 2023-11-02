@@ -648,39 +648,78 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
 
-![Create Azure Portal](https://i.ibb.co/ZNq1YSK/Screenshot-1.jpg)
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint.   
+Llevamos a cabo la implementación en dos plataformas altamente confiables. Utilizamos Azure para configurar el entorno del Web Application, aprovechando sus capacidades y recursos, mientras que optamos por SmarterASP.NET para la implementación de la base de datos MySQL, garantizando así una solución sólida y eficiente para nuestro despliegue.  
+<br>
+En este paso realizamos la creación de nuestra cuenta en Azure para poder administrar la subscripción que tenemos en esta plataforma.  
+
+![Create Azure Portal](https://i.ibb.co/ZNq1YSK/Screenshot-1.jpg)  
+
+Para incorporar recursos relacionados a la solución de Azure, es necesario crear un grupo de recursos que permita el uso de un contenedor adecuado. Debemos de colocarle un nombre a nuestro grupo de recursos y asegurarnos de que este no haya sido usado antes.
 
 ![Create resource group](https://i.ibb.co/pdzvq2y/Screenshot-2.jpg)
 
+Una vez que hayamos validado nuestro grupo de recursos, procedemos a crear este contenedor, el cual nos permitirá incluir los recursos que serán utilizados en la solución.
+
 ![Successful creation resource group](https://i.ibb.co/vj4VVh1/Screenshot-3.jpg)
+
+Luego, debemos crear el espacio para el API que se ejecutará dentro de la aplicación, donde se especifican los requisitos que se utilizarán en la solución.
 
 ![Create Web Application](https://i.ibb.co/0s1pB9S/Screenshot-4.jpg)
 
+Debemos de seleccionar la pila de ejecución para la solución, es importante este paso ya que si no seleccionamos el correcto, nuestro API no será compatible. Seleccionamos .NET7 (STS).
+
 ![Select .NET 7 SLS](https://i.ibb.co/q5Zh80D/Screenshot-5.jpg)
+
+En este apartado también seleccionamos el plan que deseamos utilizar para la solución.
 
 ![Select plan](https://i.ibb.co/PF3wT7g/Screenshot-6.jpg)
 
-![Create account on SmarterASP](https://i.ibb.co/6RmF33K/Screenshot-7.jpg)
+Esta página nos ayuda muchísimo para la creación de la base de datos, ya que nos proporciona un enlace que utilizaremos en la solución de nuestro proyecto.
+
+![Create account on SmarterASP](https://i.ibb.co/6RmF33K/Screenshot-7.jpg)  
+
+En esta parte realizamos la gestión de nuestra cuenta para el hosting de nuestra base de datos (MySQL).
 
 ![Create Hosting account](https://i.ibb.co/Mp01cjK/Screenshot-8.jpg)
 
+Una vez dentro de nuestra cuenta, nos dirigimos a la pestaña de Databases, y seleccionamos la base de datos que deseamos utilizar.
+
 ![Create database on MySQL](https://i.ibb.co/9YyYbRK/Screenshot-9.jpg)
+
+Nos proporcionará la cadena de conexión para la base de datos.
 
 ![Connection String Examples](https://i.ibb.co/yXchPyt/Screenshot-10.jpg)
 
+Luego de haber realizado los pasos previos, abrimos nuestra solución con Visual Studio 2022 y la seleccionamos y seleccionamos la opción de Publicación en Azure.
+
 ![Select Azure](https://i.ibb.co/dcFtsvw/Screenshot-11.jpg)
+
+Es importante seleccionar Azure App Service (Windows), ya que es esa la que hemos configurado en la plataforma.
 
 ![Select Azure App Service for Windows](https://i.ibb.co/VVrwgJX/Screenshot-12.jpg)
 
+Seleccionamos la instancia de App Service que configuramos previamente en Azure.
+
 ![Select group of App Service implemmented on Azure](https://i.ibb.co/NScFp0V/Screenshot-13.jpg)
 
+Saltamos este paso.
 ![Skip sthep](https://i.ibb.co/FsDK7Fy/Screenshot-14.jpg)
+
+Finalmente se creó el perfil para la publicación.
 
 ![Finish creating profile publish process](https://i.ibb.co/gTs0X0g/Screenshot-15.jpg)
 
+Aquí simplemente le damos click a publicar y tendremos que esperar el proceso.
+
 ![Click on publish](https://i.ibb.co/SNZz72C/Screenshot-16.jpg)
 
+Veremos en la consola la publicación de nuestra API y los posibles errores, en este caso, no se generó ninguno y podemos 
+
 ![Show console of API publish](https://i.ibb.co/YRfhXs2/Screenshot-17.jpg)
+
+Utilizando el enlace generado en la consola, podemos ingresar al Swagger y tener interacción con nuestra API.
 
 ![Successful upload API](https://i.ibb.co/xXRsZrM/Screenshot-18.jpg)
 
