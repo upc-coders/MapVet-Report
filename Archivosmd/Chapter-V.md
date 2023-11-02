@@ -640,6 +640,20 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En este apartado se presentan las capturas de las vistas que se realizaron en este Sprint.  
+En este Sprint se trabajó en la implementación del Backend empleando Endpoints.
+
+Se implementó el Endpoint para la gestión del perfil de la mascota.  
+![PetProfile](https://i.ibb.co/YpgdC0m/Screenshot-1.jpg)
+
+
+Se implementó el Endpoint para la gestión de las citas.
+![Appointments](https://i.ibb.co/YTzmQp2/Screenshot-2.jpg)
+
+
+Se implementó el Endpoint para la gestión de la tienda.
+![Store](https://i.ibb.co/MVBRpsc/Screenshot-3.jpg)
+
 
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -734,51 +748,51 @@ En esta sección se presentan los endspoints realizados en el sprint y se realiz
 <br>
 * Método GET en el Endpoint /pets  
 
-![Create Azure Portal](https://i.ibb.co/mhX1CYF/Screenshot-1.jpg) 
+![GET](https://i.ibb.co/mhX1CYF/Screenshot-1.jpg) 
 
 * Método POST en el Endpoint /pets
 
-![Create Azure Portal](https://i.ibb.co/ynHdKC5/Screenshot-2.jpg) 
+![POST](https://i.ibb.co/ynHdKC5/Screenshot-2.jpg) 
 
 * Método PUT en el Endpoint /pets  
 
-![Create Azure Portal](https://i.ibb.co/TTvy77V/Screenshot-3.jpg) 
+![PUT](https://i.ibb.co/TTvy77V/Screenshot-3.jpg) 
 
 * Método DELETE en el Endpoint /pets 
 
-![Create Azure Portal](https://i.ibb.co/SPZ6dMV/Screenshot-4.jpg) 
+![DELETE](https://i.ibb.co/SPZ6dMV/Screenshot-4.jpg) 
 
 * Método GET en el Endpoint /prescriptions
 
-![Create Azure Portal](https://i.ibb.co/RPHNbnC/Screenshot-5.jpg) 
+![GET](https://i.ibb.co/RPHNbnC/Screenshot-5.jpg) 
 
 * Método POST en el Endpoint /prescriptions
 
-![Create Azure Portal](https://i.ibb.co/0jX1mXZ/Screenshot-6.jpg)
+![POST](https://i.ibb.co/0jX1mXZ/Screenshot-6.jpg)
 
 * Método PUT en el Endpoint /prescriptions  
 
-![Create Azure Portal](https://i.ibb.co/DkQtX4q/Screenshot-7.jpg)
+![PUT](https://i.ibb.co/DkQtX4q/Screenshot-7.jpg)
 
 * Método DELETE en el Endpoint /prescriptions  
 
-![Create Azure Portal](https://i.ibb.co/GPGmCVH/Screenshot-8.jpg)
+![DELETE](https://i.ibb.co/GPGmCVH/Screenshot-8.jpg)
 
 * Método GET en el Endpoint /products 
 
-![Create Azure Portal](https://i.ibb.co/PWNXMYw/Screenshot-9.jpg)
+![GET](https://i.ibb.co/PWNXMYw/Screenshot-9.jpg)
 
 * Método POST en el Endpoint /products
 
-![Create Azure Portal](https://i.ibb.co/qNNZ6nK/Screenshot-10.jpg)
+![POST](https://i.ibb.co/qNNZ6nK/Screenshot-10.jpg)
 
 * Método PUT en el Endpoint /products 
 
-![Create Azure Portal](https://i.ibb.co/9NfVDzZ/Screenshot-11.jpg)
+![PUT](https://i.ibb.co/9NfVDzZ/Screenshot-11.jpg)
 
 * Método DELETE en el Endpoint /products
 
-![Create Azure Portal](https://i.ibb.co/3BLCJYF/Screenshot-12.jpg)
+![DELETE](https://i.ibb.co/3BLCJYF/Screenshot-12.jpg)
 
 
 
