@@ -957,7 +957,9 @@ A continuación, se le entrevisto a Marcelo Rentería de 19 años y reside en Sa
 [![entrevista 3](https://i.ibb.co/WyJmdLQ/2da-entrevista-due-o-de-mascota.png)](https://acortar.link/Bbi1lN)
 
 Resumen:
+
 Nuestro entrevistado Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante, nos comenta que tubo una experiencia positiva para interactuar con la landing page y aplicación web, le pareció fácil de usar, los elementos están bien organizados y la información es clara, por otro lado, en el apartado de citas fue muy útil y fue sencillo usarla, además, nos menciona que el menú y los botones fueron muy intuitivos y no tuvo ningún problema por estar claramente etiquetados y botones fácil de identificar por tener un tamaño adecuado, así mismo el considera que la información es clara y concisa, porque todos los datos están bien organizado y es fácil de entender. Ahora bien, nos comenta que reservar las citas con la aplicación web seria muy sencillo ya que no requiere ningún conocimiento previo, de igual manera, el pudo agregar correctamente el perfil de su mascota, el proceso fue sencillo y no tuvo ningún problema, igualmente, el pudo navegar sin complicaciones en la tienda por los botones claros y el carrito le ayudo hacer un seguimiento de los artículos que ha agregado.
+
 ---
 
 
