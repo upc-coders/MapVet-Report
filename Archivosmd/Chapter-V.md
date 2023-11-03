@@ -668,13 +668,15 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 **Segmento: Dueños de mascotas**
 
-| Entrevista |      Nombre y Apellido      |  Edad   |  Distrito  |           Timing inicial            |            Timing final             |
-|:----------:|:---------------------------:|:-------:|:----------:|:-----------------------------------:|:-----------------------------------:|
-|     1      | Fernando, Cardenas          | 18 años | San Miguel | [0:00](https://acortar.link/WiEbIE) | [8:42](https://acortar.link/zenRdQ) |
+| Entrevista | Nombre y Apellido |  Edad   |  Distrito  |           Timing inicial            |            Timing final             |
+|:----------:|:-----------------:|:-------:|:----------:|:-----------------------------------:|:-----------------------------------:|
+|     1      | Fernando, Lizano  | 18 años | San Miguel | [0:00](https://acortar.link/WiEbIE) | [8:42](https://acortar.link/zenRdQ) |
 
 [![entrevista 1](https://i.ibb.co/8dNCLvk/1er-entrevista-due-os-de-mascotas.png)](https://acortar.link/WiEbIE)
 
 Resumen:
+
+En esta oportunidad se entrevistó a Fernando, Lizano de 18 años y reside en San Miguel, y, actualmente es estudiante, él nos comenta que fue fácil de navegar y se sintió muy cómodo con la landing page y aplicación web, además, la creación de citas fue práctico e intuitivo porque se puede ver donde en que veterinaria puede reservar una cita, por otro lado, utilizar el menú tanto los botones le parecieron sencillo se ve bien organizados y fáciles de encontrar y le gusto la paleta de colores, del mismo modo, el considera que la información estuvo clara y precisa. Por otro lado, le pareció muy buna idea agregar los perfiles a las mascotas, algo innovador, y pudo agregar correctamente el perfil de su mascota sin dificultad, asimismo, nos comenta que la tienda y el carrito de compras está bien hecha, nos menciona que le hubiese gustado tener una opción de eliminar un producto de su carrito, pero la navegación fue muy fluida y sin complicaciones.
 
 ---
 
@@ -686,6 +688,8 @@ Resumen:
 
 Resumen:
 
+A continuación, se le entrevisto a Marcelo Rentería de 19 años y reside en San Martin de Porres y, actualmente es estudiante. Nos comenta que le gustó la idea porque se puede usar bien, se ve completa y se puede usar bien algunas funciones, así mismo, le pareció bien y nos recomienda de poner la fecha de la cita como una sección más, además, al utilizar los botones del menú no comenta que es intuitivo y simple, del mismo modo, nos comentó que el botón de agregar mascota debería reubicarse donde se pueda acceder fácilmente ya que según vaya aumentando las mascotas el usuario tendrá que ir hasta debajo de la página para agrega otra, y, el considera que la información es clara y concisa. Por otro lado, el cree que si se le añade una vinculación con las veterinarias para hacer una cista más rápida y en el titulo poner un despliegue de la veterinarias recomendadas, sería más fácil y rápido la reserva de la cita, también, nos menciona que si pudo navegar correctamente en los perfiles de las mascotas, pero le gustaría que el botón esta más accesible por la cantidad de mascotas que pueda tener un usuario, de igual manera, el pudo navegar correctamente por la tienda y el carrito, lo vio completa.
+
 ---
 
 | Entrevista | Nombre y Apellido |  Edad   |     Distrito      |           Timing inicial            |             Timing final             |
@@ -695,8 +699,7 @@ Resumen:
 [![entrevista 3](https://i.ibb.co/WyJmdLQ/2da-entrevista-due-o-de-mascota.png)](https://acortar.link/Bbi1lN)
 
 Resumen:
-Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante
-
+Nuestro entrevistado Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante, nos comenta que tubo una experiencia positiva para interactuar con la landing page y aplicación web, le pareció fácil de usar, los elementos están bien organizados y la información es clara, por otro lado, en el apartado de citas fue muy útil y fue sencillo usarla, además, nos menciona que el menú y los botones fueron muy intuitivos y no tuvo ningún problema por estar claramente etiquetados y botones fácil de identificar por tener un tamaño adecuado, así mismo el considera que la información es clara y concisa, porque todos los datos están bien organizado y es fácil de entender. Ahora bien, nos comenta que reservar las citas con la aplicación web seria muy sencillo ya que no requiere ningún conocimiento previo, de igual manera, el pudo agregar correctamente el perfil de su mascota, el proceso fue sencillo y no tuvo ningún problema, igualmente, el pudo navegar sin complicaciones en la tienda por los botones claros y el carrito le ayudo hacer un seguimiento de los artículos que ha agregado.
 ---
 
 
