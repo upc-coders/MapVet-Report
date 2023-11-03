@@ -237,34 +237,33 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 5.2.1.8. [Team Collaboration Insights during Sprint](/Archivosmd/Chapter-V.md#5228-team-collaboration-insights-during-sprint)
 
-5.2.3. Sprint 3  
+5.2.3. [Sprint 3](/Archivosmd/Chapter-V.md#523-sprint-3)  
 
-5.2.3.1. Sprint Planning 3  
+5.2.3.1. [Sprint Planning 3](/Archivosmd/Chapter-V.md#5231-sprint-planning-3) 
 
-5.2.3.2. Sprint Backlog 3  
+5.2.3.2. [Sprint Backlog 3](/Archivosmd/Chapter-V.md#5222-sprint-backlog-3)
 
-5.2.3.3. Development Evidence for Sprint Review.  
+5.2.3.3. [Development Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5233-development-evidence-for-sprint-review)  
 
-5.2.3.4. Testing Suite Evidence for Sprint Review.  
+5.2.3.4. [Testing Suite Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5234-testing-suit-evidence-for-sprint-review)  
 
-5.2.3.5. Execution Evidence for Sprint Review.  
+5.2.3.5. [Execution Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5235-execution-evidence-for-sprint-review)
 
-5.2.1.6. Services Documentation Evidence for Sprint Review  
+5.2.1.6. [Services Documentation Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5216-services-documentation-evidence-for-sprint-review)
 
-5.2.1.7. Software Deployment Evidence for Sprint Review  
+5.2.1.7. [Software Deployment Evidence for Sprint Review](/Archivosmd/Chapter-V.md#5217-software-deployment-evidence-for-sprint-review)
 
-5.2.1.8. Team Collaboration Insights during Sprint  
+5.2.1.8. [Team Collaboration Insights during Sprint](/Archivosmd/Chapter-V.md#5218-team-collaboration-insights-during-sprint)
 
+5.3. [Validation Interviews](/Archivosmd/Chapter-V.md#53-validation-interviews)
 
-5.3. Validation Interviews.
+5.3.1. [Diseño de Entrevistas](/Archivosmd/Chapter-V.md#531-diseño-de-entrevistas)
 
-5.3.1. Diseño de Entrevistas.
+5.3.2. [Registro de Entrevistas](/Archivosmd/Chapter-V.md#532-registro-de-entrevistas)
 
-5.3.2. Registro de Entrevistas.
+5.3.3. [Evaluaciones según heurísticas](/Archivosmd/Chapter-V.md#533-evaluaciones-según-heurísticas)
 
-5.3.3. Evaluaciones según heurísticas.
-
-5.4. Video About-the-Product.
+5.4. [Video About-the-Product](/Archivosmd/Chapter-V.md#54-video-about-the-product)
 
 
 
