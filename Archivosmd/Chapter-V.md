@@ -989,4 +989,30 @@ Nuestro entrevistado Gabriel Perkovic es un joven de 19 años, vive en Lima-Sant
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+#### ESCALA DE SEVERIDAD:
+Los problemas serán evaluados utilizando la escala de gravedad que se describe a continuación:}
+
+| Nivel |                                                                                                   	Descripción                                                                                                     |
+|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   1   |                       Se refiere a problemas superficiales que rara vez ocurren o que los usuarios pueden superar fácilmente. No es necesario abordarlos a menos que haya tiempo disponible.                       |
+|   2   | Hace referencia a problemas menores que ocurren con más frecuencia o que pueden ser un poco más complicados de superar para los usuarios. Se les debe dar una baja prioridad y abordarlos en la siguiente versión. |
+|   3   |                       Significa problemas importantes que ocurren con frecuencia y que los usuarios no pueden resolver por sí mismos. Es crucial abordarlos y asignarles una alta prioridad.                       |
+|   4   |                  Corresponde a problemas muy graves que tienen un gran impacto y que impiden a los usuarios seguir utilizando la herramienta. Es imperativo solucionarlos antes del lanzamiento.                   |
+
+#### TABLA RESUMEN:
+
+| # |                                                  Problema                                                   | Escala de severidad	 |            Heurística/Principio violada(o)            |  
+|:-:|:-----------------------------------------------------------------------------------------------------------:|:--------------------:|:-----------------------------------------------------:|
+| 1 | El usuario no encuentra la tecla "/" para poder escribir la fecha de nacimiento en la pantalla de registro. |          2           |        Match between system and the real world        |
+| 2 |           Ausencia de un indicador para señalar que el campo se debe completar obligatoriamente.            |          2           | Visibility of system status/Consistency and standards 
+| 3 |      Falta de visibilidad de los márgenes en la sección para escribir los datos del register y log in.      |          1           |              Visibility of system status              |
+| 4 |      Ausencia del botón para las personas que no se identifican con los géneros mostrados en register.      |          2           |                Help and documentation                 |
+| 5 |       Ambigüedad en la pantalla del register que se debe poner los dos nombres y/o los dos apellidos.       |          2           |        Match between system and the real world        |
+| 6 |                       Ausencia de la funcionalidad del botón “forgot your password?”.                       |          3           |               User control and freedom                |
+| 7 |                           Visibilidad de la contraseña en la pantalla de log in.                            |          3           |              Visibility of system status              |             
+| 8 |                    Ausencia de la funcionalidad de los botones en la pantalla de log in.                    |          3           |               User control and freedom                |
+| 9 |          El FAQ carece de un diseño atractivo y utiliza una tipografía y colores poco atractivos.           |          2           |              Aesthetic and minimalist design          |
+
+
+
 ## 5.4. Video About-the-Product.
