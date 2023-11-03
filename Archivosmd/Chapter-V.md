@@ -1013,6 +1013,148 @@ Los problemas serán evaluados utilizando la escala de gravedad que se describe 
 | 8 |                    Ausencia de la funcionalidad de los botones en la pantalla de log in.                    |          3           |               User control and freedom                |
 | 9 |          El FAQ carece de un diseño atractivo y utiliza una tipografía y colores poco atractivos.           |          2           |              Aesthetic and minimalist design          |
 
+**Problema #1:** El usuario no encuentra la tecla "/" para poder escribir la fecha de nacimiento en la pantalla de registro.
 
+**Escala de Severidad:** Nivel 2 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #2: Match between system and the real world
+La interfaz debe utilizar elementos familiares).
+
+**Descripción del problema:** Los usuarios no pueden encontrar la tecla "/" para ingresar su fecha de nacimiento, lo que puede ser confuso y dificultar la entrada de datos.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgvLR9B/Screenshot-2023-11-03-163848.png" alt="Screenshot-2023-11-03-163848" border="0"></a>
+
+**Recomendación:** Colocar la tecla "/" de manera más visible y/o proporcionar una indicación clara de cómo ingresar la fecha de nacimiento.
+
+
+**Problema #2:** Ausencia de un indicador para señalar que el campo se debe completar obligatoriamente.
+
+**Escala de Severidad:** Nivel 2 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #1: Visibility of system status
+(Los campos obligatorios deben indicarse claramente).
+Heurística #4: Consistency and standards
+(El uso de indicadores de campos obligatorios es una práctica común).
+
+**Descripción del problema:** Los usuarios no pueden identificar fácilmente qué campos son obligatorios y cuáles no, lo que puede llevar a errores en la entrada de datos.
+
+<a href="https://ibb.co/tDDttBS"><img src="https://i.ibb.co/cQQHHJP/Screenshot-2023-11-03-163946.png" alt="Screenshot-2023-11-03-163946" border="0"></a>
+
+**Recomendación:** Agregar indicadores claros, como asteriscos o mensajes de ayuda, para indicar campos obligatorios.
+
+
+**Problema #3:** Falta de visibilidad de los márgenes en la sección para escribir los datos del registro y log in.
+
+**Escala de Severidad:** Nivel 1 (Problema superficial).
+
+**Heurística relacionada:**
+
+Heurística #1: Visibility of system status
+(La falta de visibilidad de los márgenes puede ser un problema superficial).
+
+**Descripción del problema:** La falta de visibilidad de los márgenes puede no ser un problema crítico, pero puede afectar la estética y la claridad de la interfaz.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wryGt6m/Screenshot-2023-11-03-164059.png" alt="Screenshot-2023-11-03-164059" border="0"></a>
+
+**Recomendación:** Mejorar la visibilidad de los márgenes o bordes en la interfaz para una apariencia más ordenada y clara.
+
+**Problema #4:** Ausencia del botón para las personas que no se identifican con los géneros mostrados en register.
+
+**Escala de Severidad:** Nivel 2 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #10: Help and documentation
+(La inclusión de opciones para diferentes identidades es importante).
+
+**Descripción del problema:** La falta de opciones para personas LGBTQ puede ser excluyente y no reconoce la diversidad de los usuarios.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/n0rYJnm/Screenshot-2023-11-03-163451.png" alt="Screenshot-2023-11-03-163451" border="0"></a>
+
+**Recomendación:** Incluir una opción que permita a las personas identificarse como LGBTQ.
+
+
+**Problema #5:** Ambigüedad en la pantalla del registro sobre si se deben poner los dos nombres y/o los dos apellidos.
+
+**Escala de Severidad:** Nivel 2 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #2: Match between system and the real world
+(La claridad en la entrada de datos es importante).
+
+**Descripción del problema:** La ambigüedad en la entrada de nombres y apellidos puede llevar a errores en el registro.
+
+<a href="https://ibb.co/wzR6C7Y"><img src="https://i.ibb.co/71XyVQb/Screenshot-2023-11-03-163355.png" alt="Screenshot-2023-11-03-163355" border="0"></a>
+
+**Recomendación:** Proporcionar instrucciones claras sobre cómo completar los campos de nombres y apellidos.
+
+
+**Problema #6:** Ausencia de la funcionalidad del botón "forgot your password?".
+
+**Escala de Severidad:** Nivel 3 (Problema mayor).
+
+**Heurística relacionada:**
+
+Heurística #3: User control and freedom
+(Los usuarios deben poder recuperar sus contraseñas).
+
+**Descripción del problema:** La falta de una función para restablecer contraseñas puede dejar a los usuarios sin opciones si olvidan su contraseña.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cbYPkZn/Screenshot-2023-11-03-163235.png" alt="Screenshot-2023-11-03-163235" border="0"></a>
+
+**Recomendación:** Agregar la funcionalidad del botón "Forgot your password?" para permitir a los usuarios restablecer sus contraseñas.
+
+
+**Problema #7:** Visibilidad de la contraseña en la pantalla de log in.
+
+**Escala de Severidad:** Nivel 3 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #1: Visibility of system status
+(La visibilidad de la contraseña puede ser un problema menor).
+
+**Descripción del problema:** La visibilidad de la contraseña puede no ser crítica, pero podría afectar la privacidad y seguridad de la información.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/2hT8rth/image.png" alt="image" border="0" /></a>
+
+**Recomendación:** Proporcionar una opción para ocultar/mostrar la contraseña según la preferencia del usuario.
+
+
+**Problema #8:** Ausencia de la funcionalidad de los botones en la pantalla de log in.
+
+**Escala de Severidad:** Nivel 3 (Problema mayor).
+
+**Heurística relacionada:**
+
+Heurística #3: User control and freedom
+(Los botones deben funcionar correctamente).
+
+**Descripción del problema:** La falta de funcionalidad de los botones en la pantalla de inicio de sesión impide a los usuarios acceder a la plataforma.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dB7nVSL/Screenshot-2023-11-03-163019.png" alt="Screenshot-2023-11-03-163019" border="0"></a>
+
+**Recomendación:** Asegurarse de que los botones funcionen correctamente y permitan a los usuarios iniciar sesión de manera efectiva.
+
+
+**Problema #9:** El FAQ carece de un diseño atractivo y utiliza una tipografía y colores poco atractivos.
+
+**Escala de Severidad:** Nivel 2 (Problema menor).
+
+**Heurística relacionada:**
+
+Heurística #8: Aesthetic and minimalist design
+(El diseño debe ser atractivo y presentar información de manera clara).
+
+**Descripción del problema:** La apariencia del FAQ es poco atractiva debido a la elección de colores, tipografía y diseño general.
+
+<a href="https://ibb.co/cryNQGb"><img src="https://i.ibb.co/rwQZHCb/Screenshot-2023-11-03-162900.png" alt="Screenshot-2023-11-03-162900" border="0"></a>
+
+**Recomendación:** Rediseñar el FAQ para que tenga una apariencia más atractiva y utilice una tipografía y colores que sean más agradables a la vista.
 
 ## 5.4. Video About-the-Product.
