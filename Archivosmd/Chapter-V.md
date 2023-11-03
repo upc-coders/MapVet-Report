@@ -636,6 +636,28 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 |                                               | feature/appointment            	 | 141d242f63eb49690525f0365e518f159aa97168                                       	 	 |       feat(appointment): PetService added.                                       	 	        |    ---       	 	    | 30/10/2023          	 	 |
 |                                               | feature/appointment            	 | 602fcd035353ae9dc21ef776aca6ab626a29ce55                                      	 	  |   feat(appointment): PrescriptionService added.                                       	 	   |    ---       	 	    | 30/10/2023          	 	 |
 
+### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se detalla las pruebas que se han llevado a cabo en el backend de la aplicación web VetCare utilizando el plugin SpecFlow for Rider. Estas pruebas se han centrado en validar las funcionalidad de creación en la aplicación. A continuación, se presentan los aspectos clave de nuestro proceso de pruebas:
+
+**Definición de Escenarios de Prueba:**
+Hemos empleado la notación Gherkin para definir escenarios de prueba en archivos de características (.feature). Cada escenario describe pasos, datos de entrada y resultados esperados relacionados con la creación de productos.
+
+<a href="https://ibb.co/9ZwjMDt"><img src="https://i.ibb.co/TWK5CfL/product.png" alt="product" border="0"></a>
+
+<a href="https://ibb.co/z2WZ2vZ"><img src="https://i.ibb.co/2M0dM4d/pet.png" alt="pet" border="0"></a>
+
+**Implementación de Pasos:**
+Los pasos definidos en los archivos de características se han implementado en código C#. Estos pasos contienen la lógica necesaria para interactuar con la aplicación web y llevar a cabo la creación de productos.
+
+<a href="https://ibb.co/BrkvZbq"><img src="https://i.ibb.co/wwt8WVM/implementacion.png" alt="implementacion" border="0"></a>
+
+**Ejecución de Pruebas:**
+Hemos utilizado el plugin SpecFlow for Rider para ejecutar los escenarios de prueba. Durante estas pruebas, hemos verificado que el proceso de creación de productos se realiza de acuerdo con nuestros requisitos y expectativas.
+
+<a href="https://ibb.co/XD45DyR"><img src="https://i.ibb.co/jz5wzVX/testsp.png" alt="testsp" border="0"></a>
+
+El objetivo de este proceso de pruebas es garantizar la calidad de nuestra aplicación web y proporcionar una experiencia confiable a nuestros usuarios. Estamos seguros de que las pruebas realizadas han contribuido significativamente a este objetivo.
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
