@@ -734,6 +734,17 @@ Hemos utilizado el plugin SpecFlow for Rider para ejecutar los escenarios de pru
 
 El objetivo de este proceso de pruebas es garantizar la calidad de nuestra aplicación web y proporcionar una experiencia confiable a nuestros usuarios. Estamos seguros de que las pruebas realizadas han contribuido significativamente a este objetivo.
 
+#### VetCare.API-Test
+
+|                  Repository                    |      Branch   |   Commit Id                              |                         Commit Message                         | Commit Message Body |  Committed on (Date)  |
+|:----------------------------------------------:|:-------------:|:----------------------------------------:|:--------------------------------------------------------------:|:-------------------:|:---------------------:|
+| https://github.com/upc-coders/VetCare.API-Test |     develop   | 47402700d5fc08a76181b0410c8424dc68b2d738 |             chore: Roll back the project to net 6.             |         ---         |  04/11/2023        	  |
+|                                                |    develop    | 066afd4e38a9d4da042c8db8c4d5ee5b0ca6ffb1 |           feat: Added new project VetCare.API.Test.            |    ---        	     | 04/11/2023          	 |
+|                                                |    develop    | e67f8e2715bff6d50f6359c7ced5ee5ee00c59a8 |                chore: Installed new dependency.                |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | 77fb754f047bf94fa326d97761ca853cca9c8504 |         test: Added feature test and step definitions.         |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | 5afdc46c6845b13f10354e3317b21cb82af5b96b | test: Implemented products tests feature and step definitions. |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | eb95ba1ed411a270fac1d09e620b69ae21335673 |            test: Modify Program.cs and change port.            |     ---       	     |    04/11/2023   	     |
+
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
