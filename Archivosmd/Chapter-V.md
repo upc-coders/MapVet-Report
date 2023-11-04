@@ -604,6 +604,35 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
     <td align="center">Done</td>
   </tr>
 
+ <tr>
+    <td rowspan="3" align="center"> US24 </td>
+    <td rowspan="3" align="center"> Acceder a Endpoint Identification</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context Identification</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Juliana Yauricasa </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Juliana Yauricasa </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center">Done</td>
+  </tr>
+
 </table>
 
 ### 5.2.3.3. Development Evidence for Sprint Review.
