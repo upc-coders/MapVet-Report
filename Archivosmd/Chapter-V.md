@@ -637,6 +637,34 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 
 ### 5.2.3.3. Development Evidence for Sprint Review.
 
+#### Frontend-MapVet
+
+|                  Repository                   |      Branch      |                Commit Id                 |                         Commit Message                          | Commit Message Body | Committed on (Date) |
+|:---------------------------------------------:|:----------------:|:----------------------------------------:|:---------------------------------------------------------------:|:-------------------:|:-------------------:|
+| https://github.com/upc-coders/Frontend-MapVet |  feature/store   | 61dda1e7b98fb582b25e035b3770586af2e6ad8b |               feat(store): added store component                |      ---     	      |     24/10/2023      |
+|                                               |  feature/store   | 05d36106fe135d7e9ba5331001e3de14ccc4e39b |                feat(store): added store service                 |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | fd04d3c08e59af78d950da6f0427ec855614a522 |          feat(store): added store route configuration           |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | acf31f67d18a877c8e1552d531a7547766dcd598 |       feat(store): added store api service configuration        |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | affd049ae89c72d2b7aaa81b35114d489b2f2c60 |           feat(store): added toolbar store component            |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | fc89b51d54270603a8315180752bac423a880749 |            feat(store): added cards store component             |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | fd2763131da32ca7175357244fbddef53a692b1f |           feat(store): added sidebar store component            |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/store   | 6f15cd2007da5ac5096cd55a2dc295dcd7e6fa4d |            feat(store): added style store component             |    ---       	 	    |    24/10/2023  	    |
+|                                               | feature/register | acb20b2b89013384f87db6645c3b37847c73ed2e |            feat(register): added register component.            |    ---       	 	    |    24/10/2023  	    |
+|                                               | feature/register | 320fd982c7cb9d29819e2220dcbbb65c3bf12acb |    feat(register): set the path for the registry component.     |    ---       	 	    |    24/10/2023  	    |
+|                                               | feature/register | 2bc4eff12c303293c703033074da17ca42604721 |         feat(register): added style register component.         |    ---       	 	    |    24/10/2023  	    |
+|                                               | feature/register | 716fab25dd8dbddabb0e7b0e7d880252e1747f6e |   feat(register): create user service for register component.   |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/login   | 12ca29c34f7540cbc055391263da55531ad2353f |         feat(login): created and added login component.         |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/login   | a0b607c9f61eb1e9a029831d1837986581ca7e91 |       feat(login): set the path for the login component.        |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/login   | 3b1c219746e4d97e39397f16bbf8818de4a7131a |            feat(login): added style login component.            |    ---       	 	    |    24/10/2023  	    |
+|                                               |  feature/login   | cb55785100a8dcc8a4aaafbe7c300ce06ba245b5 | feat(login): create method in user service for login component. |    ---       	 	    |    24/10/2023  	    |
+|                                               |     develop      | a05fb198766be3d4fb9f554390299def8fdff101 |                   feat(develop): faq updated.                   |    ---       	 	    |    27/10/2023  	    |
+|                                               |     develop      | 2f1db8da07cd4bde6f409f278759e759f6413650 |                 feat(develop): profile updated.                 |    ---       	 	    |    28/10/2023  	    |
+|                                               |     develop      | f122d91d8ca0d6b266bee6b375f9ef67e40de929 |                 feat(develop): profile updated.                 |    ---       	 	    |    28/10/2023  	    |
+|                                               |     develop      | f519899c643e02ece5abf9d8b38bd3550ea2c3e2 |                 feat(develop): endpoints added.                 |    ---       	 	    |    30/10/2023  	    |
+|                                               |     develop      | 8c7acb79d60124e8312d220f9231aafa8107321d |                     fix(develop): home fixed                    |    ---       	 	    |    31/10/2023  	    |
+
+#### Backend-VetCare
+
 |                  Repository                   |              Branch              |                                     Commit Id                                      |                                              Commit Message                                              | Commit Message Body |   Committed on (Date)   |
 |:---------------------------------------------:|:--------------------------------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:-------------------:|:-----------------------:|
 | https://github.com/upc-coders/Backend-VetCare |             develop              |                   e8076f091e96348a925246b587c68085d751f52f   	 	                   |                                          initial commit     	 	                                          |    ---      	 	     |  29/10/2023        	 	  |
