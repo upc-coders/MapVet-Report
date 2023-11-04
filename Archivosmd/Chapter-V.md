@@ -751,7 +751,10 @@ Se implementó el Endpoint para la gestión de las citas.
 Se implementó el Endpoint para la gestión de la tienda.  
 ![Store](https://i.ibb.co/MVBRpsc/Screenshot-3.jpg)  
 
+Se implementó el Endpoint para la autenticación del usuario.
 
+<a href="https://ibb.co/4TD6Q4K"><img src="https://i.ibb.co/yyMw3gd/login.png" alt="login" border="0"></a>
+<a href="https://ibb.co/JFztKTD"><img src="https://i.ibb.co/XkzLbPc/registro.png" alt="registro" border="0"></a>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado. Tales como los enlaces que se están utilizando para los Endpoints.
