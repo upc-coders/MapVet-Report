@@ -580,7 +580,7 @@ ALTER TABLE registro_citas
 
 ### 4.8.1. Database Diagram.
 
-![Database-diagram](https://i.ibb.co/m6RmdrN/Database-Diagram.jpg)
+[diagrama.png](https://postimg.cc/qt7vwL4Z)
 
 
 
