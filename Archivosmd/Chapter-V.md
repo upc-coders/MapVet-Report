@@ -1011,7 +1011,7 @@ Cronología de los commits y la integración a la rama principal 'Develop'
 
 ### 5.2.4. Sprint 4
 En esta sección, se detalla el proceso completo de implementación en fase final del backend desarrollado en ASP.NET. y la culminación de vistas del frontend. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
-### 5.2.4.1. Sprint Planning 3
+### 5.2.4.1. Sprint Planning 4
 En el Sprint Planning 4 se planificó para la elaboración del backend del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
 
 |             Sprint #             |                                                                                                     Sprint 4                                                                                                      | 
@@ -1135,11 +1135,61 @@ El objetivo principal del Sprint 4 es lograr la implementación en fase final de
      <td align="center"> TA03 </td>
     <td align="center"> Configuración de archivos compartidos </td>
     <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
-    <td align="center"> 1</td>
+    <td align="center"> 1 </td>
     <td align="center"> Juliana Yauricasa</td>
     <td align="center">Done</td>
   </tr>
 
+
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center"> Ver el Perfil de la Mascota </td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Mejorar el diseño de los perfiles </td>
+    <td align="justify"> Se mejorara el diseño con caracteristicas minimalistas al boton de agregar mascota, etc. </td>
+    <td align="center"> 2  </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center"> Done </td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementar ventana para agregar la mascota </td>
+    <td align="center"> Agregar dentro de perfil de mascota un ventana agregar la mascota con mejor diseño </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US20 </td>
+    <td rowspan="2" align="center">Ver la Veterinaria más Cercana</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Implementar la feature map </td>
+    <td align="justify"> Se implementara la caracteristica de mapa interactivo en el frontend de los stakeholders </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Juan Calisaya </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA02 </td>
+    <td align="center"> Consumir la FAKE API </td>
+    <td align="center"> Se consumira la FAKE API de json server para implementarlo en el backend </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US16 </td>
+    <td rowspan="1" align="center"> Apartado de recomendaciones </td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Consumir la FAKE API </td>
+    <td align="justify"> Se consumira la FAKE API de json server para implementarlo en el backend </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
 </table>
 
 ### 5.2.4.3. Development Evidence for Sprint Review.
