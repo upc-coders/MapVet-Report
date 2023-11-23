@@ -518,8 +518,8 @@ En el Sprint Planning 3 se planificó para la elaboración del backend del proye
 |    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración del backend. Se acordó que la fecha de culminación de los tasks será hasta el 1 de noviembre de 2023                                                                                     	 |
 | Sprint 2 - Retrospective Summary |                               Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                               |
 |  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                  |
-|          Sprint 2 Goal           |                                        Construcción y del backend en fase inicial, en un lapso de 3 días                                                                                                               	                                         |
-|        Sprint 2 Velocity         |                                                                                           25                                                                         	                                                                                           |
+|          Sprint 3 Goal           |                                        Construcción y del backend en fase inicial, en un lapso de 3 días                                                                                                               	                                         |
+|        Sprint 3 Velocity         |                                                                                           25                                                                         	                                                                                           |
 |       Sum of Story Points        |                                                                                                      28                                                  	                                                                                                       |
 
 ### 5.2.2.2. Sprint Backlog 3
@@ -1146,22 +1146,70 @@ El objetivo principal del Sprint 4 es lograr la implementación en fase final de
 
 #### Frontend-MapVet
 
-|                  Repository                   |                  Branch                  |                Commit Id                 |                Commit Message                | Commit Message Body | Committed on (Date) |
-|:---------------------------------------------:|:----------------------------------------:|:----------------------------------------:|:--------------------------------------------:|:-------------------:|:-------------------:|
-| https://github.com/upc-coders/Frontend-MapVet |              feature/store               | 61dda1e7b98fb582b25e035b3770586af2e6ad8b |      feat(store): added store component      |      ---     	      |     24/10/2023      |
-|                                               |              feature/store               | 05d36106fe135d7e9ba5331001e3de14ccc4e39b |       feat(store): added store service       |    ---       	 	    |    24/10/2023  	    |
-|                                               |              feature/store               | fd04d3c08e59af78d950da6f0427ec855614a522 | feat(store): added store route configuration |    ---       	 	    |    24/10/2023  	    |
-|                                           |                    develop                    | 8c7acb79d60124e8312d220f9231aafa8107321d |         fix(develop): home fixed         |                ---       	 	                 |    31/10/2023  	    |
+|                  Repository                   |         Branch         |                Commit Id                 |                          Commit Message                           | Commit Message Body |  Committed on (Date)  |
+|:---------------------------------------------:|:----------------------:|:----------------------------------------:|:-----------------------------------------------------------------:|:-------------------:|:---------------------:|
+| https://github.com/upc-coders/Frontend-MapVet |    feature/profile     | d0a4594bb308b6c60c84ca5e6cca4c567fd2dab7 |        feat(profile): created and added profile component         |      ---     	      |      15/11/2023       |
+|                                               |    feature/profile     | 65629a9b2800258b6611f3f843280942f6e052f5 |      feat(profile): set the path for the profile component.       |    ---       	 	    |   15/11/2023      	   |
+|                                               |    feature/profile     | 4f4856a2091ee92806c6791a2feb1134ae23781b |           feat(profile): added style profile component.           |    ---       	 	    |  15/11/2023       	   |
+|                                               |    feature/profile     | bcc815e113c95511aae84703b1d34dbcfb65ecd3 |          feat(profile): added script profile component.           |    ---       	 	    |  15/11/2023       	   |
+|                                               |    feature/profile     | bc695e209e6117bd81a0b2e62a5695f5c9158f54 |                  chore: installed swiper v11.0.4                  |    ---       	 	    |  15/11/2023       	   |
+|                                               |        develop         | cd58aa624c683345c075160f05021c7de2aec8bb |      Merge pull request #11 from upc-coders/feature/profile       |    ---       	 	    |  15/11/2023       	   |
+|                                               | feature/recommendation | 6c0cfcaaa9a63ff29b5463cae0abfaf7de2d490b |      feat(recommendation): update recommendation component.       |    ---       	 	    |  15/11/2023       	   |
+|                                               | feature/recommendation | acde07666a2f742a97ac740b2bf5a0427b79b081 |     feat(recommendation): import swiper and added navigation.     |    ---       	 	    |  15/11/2023       	   |        	          |
+|                                               | feature/recommendation | bd4ad0faebcf3d0334bcc907859b6c9ba2f225a8 |                feat(recommendation): added styles.                |    ---       	 	    |  15/11/2023       	   |          	          |
+|                                               |        develop         | 1815c1545246dc1521348e483ff25ff53cf1bf1c |   Merge pull request #12 from upc-coders/feature/recommendation   |    ---       	 	    |  15/11/2023       	   |         	          |
+|                                               |  feature/appointment   | b7a180fdb2c67ed584f5080592d97380375c4f0e |          chore(appointment): manage appointment updated.          |    ---       	 	    | 15/11/2023          	 |
+|                                               |      feature/map       | 03b22c311d3ab583ae31bbbd99516c1b604ef4e1 |                        added map component                        |    ---       	 	    | 17/11/2023          	 |
+|                                               |        develop         | efa196ce636082464fe2ecb423a5d9874d5bdafa |        Merge pull request #13 from upc-coders/feature/map         |    ---       	 	    | 17/11/2023          	 |
+|                                               |      feature/map       | ad0d2fa7ed5f58b49d5bf83c9e3e64cd1765e6f4 |                           updated image                           |    ---       	 	    | 17/11/2023          	 |
+|                                               |        develop         | 63e8861c1523fa76717a0ca297d8999ed9d9117b |              Merge branch 'feature/map' into develop              |    ---       	 	    | 17/11/2023          	 |
+|                                               |     feature/routes     | 9f98ff0f7f2f9689df5873e29d1557c9a2765c24 |                 feat(routes): routes implemented.                 |    ---       	 	    | 21/11/2023         	  |
+|                                               |      feature/maps      | 15b83aa1a4ffddcf8425ea07f6b7b9df5321f1f6 |                   feat(maps): added map service                   |    ---       	 	    | 22/11/2023          	 |
+|                                               |      feature/maps      | 5e48b3d68f5b0577aa523e7db21a5b1830ae884c |            feat(recommendations): added cards service             |    ---       	 	    | 22/11/2023          	 |
+|                                               |        develop         | f5c34007c7709393a5b7613858fe77789d3aad06 |        Merge pull request #14 from upc-coders/feature/map         |    ---       	 	    | 22/11/2023          	 |
+|                                               |  feature/appointment   | ef1c597f4aadb4980b20af32c72b39d836136dd4 |       feat(appointment): added path and created component.        |    ---       	 	    | 22/11/2023          	 |
+|                                               |  feature/appointment   | 5b469ef7ec9ce61e390dab64f57253071d2ffe01 | feat(appointment): added create-appointment component and styles. |    ---       	 	    | 22/11/2023          	 |
+|                                               |        develop         | 849febec40b63c0a72a1f21f4b220c05bf8279ad |    Merge pull request #15 from upc-coders/feature/appointmentt    |    ---       	 	    | 22/11/2023          	 |
+|                                               |  feature/appointment   | 696adfc7af96b4411301a48a1b34851883fd7b07 |  feat(petprofile): added create-petprofile component and styles.  |    ---       	 	    | 22/11/2023          	 |
+|                                               |        develop         | af64c173efae6aaeedb79f40e956bef1050cd5ef |                       feat(update): updated                       |    ---       	 	    | 22/11/2023          	 |
+|                                               |     feature/shared     | 6d1449b325d80eebb0167c4eb5abd8eec53f78d1 |          chore(dependencies): added prime-vue components          |    ---       	 	    | 23/11/2023          	 |
+|                                               |     feature/shared     | 18a87978c48c2ecafc329346a60a205ff0af03f4 |                   feat(shared): base url fixed                    |    ---       	 	    | 23/11/2023          	 |
+|                                               |  feature/pet-profile   | e12a1b378d740f2220e5b8dc76008ef748f33121 |       feat(pet-profile): added pet profile CRUD operations        |    ---       	 	    | 23/11/2023          	 |
+|                                               |     feature/shared     | be645916d94ef5e59567ade8b4a735f49ffea75f |                    feat(routes): fixed routes                     |    ---       	 	    | 23/11/2023          	 |
+
 
 #### Backend-VetCare
 
-|                  Repository                   |         Branch         |                                 Commit Id                                 |                                  Commit Message                                   | Commit Message Body |   Committed on (Date)   |
-|:---------------------------------------------:|:----------------------:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------------:|:-----------------------:|
-| https://github.com/upc-coders/Backend-VetCare |        develop         |              e8076f091e96348a925246b587c68085d751f52f   	 	               |                              initial commit     	 	                               |    ---      	 	     |  29/10/2023        	 	  |
-|                                               |       develop  	       |      fb8799b6e1692151ba59aa7987cce76140638433                    	 	      |          feat(develop): domain of shared implemmented               	 	           |    ---       	 	    | 29/10/2023          	 	 |
-|                                               |        develop	        |      513384b37a0f6f3179e9342082b90c001c1a42dd                   	 	       |     feat(develop): extensions of shared added.                            	 	     |    ---       	 	    | 29/10/2023          	 	 |
-|                                               |      develop   	       | f9cbfdcb67859c3d8076efc663214c811e0e0c54                              	 	 | feat(develop): persistence of shared added.                                   	 	 |    ---       	 	    | 29/10/2023          	 	 |
-|                                               | feature/identification |                 359325d0f9571a6ff786ba2d48fb6d0428ec7bab                  |             feat(identification): Update generate and validate token.             |         ---         |       02/11/2023        |   
+|                  Repository                   |        Branch        |                                     Commit Id                                     |                                                      Commit Message                                                      | Commit Message Body | Committed on (Date)  |
+|:---------------------------------------------:|:--------------------:|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:--------------------:|
+| https://github.com/upc-coders/Backend-VetCare |     feature/faq      |                  346ac3286125a9379b7bc2aac68d5bfef4767572   	 	                   |                                         feature(faq): project updated.      	 	                                          |    ---      	 	     | 13/11/2023       	 	 |
+|                                               |       develop        |                  c30c083213b56363dc201da256fe0682b76f7afc   	 	                   |                                Merge pull request #5 from upc-coders/feature/faq      	 	                                |    ---      	 	     | 13/11/2023       	 	 |
+|                                               | feature/prescription |                  5d99c08ae4ece2aec8e896093dcdf07bda176c2d   	 	                   |                                      chore(prescription): feature updated.     	 	                                       |    ---      	 	     | 15/11/2023       	 	 |
+|                                               |     feature/vet      |                  c3a22185486bd3ab319a9b187b0b9fbc6efacf7a   	 	                   |                                             feat(vet): models added     	 	                                              |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |                  1a4e504c81c9c44578f06be8fa8531c239651bdb   	 	                   |                                            feat(vet): services added      	 	                                            |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |                  3f04d4e64e0148f473a71a651fc7f36ca35bd7c2   	 	                   |                                    feat(vet): services of communication added     	 	                                    |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |                  89faee484cee3221ea386520ab3786a016069f28    	 	                  |                                           feat(vet): repositories added    	 	                                           |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |                  ba576605c34eb6be6bc846fb44ef0b8e1ac438ee    	 	                  |                                          feat(vet): mapping implemented    	 	                                           |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |        a2c1769fbe0fbcf08a85a53953e3bf796e190cd0                       	 	         |                              feat(vet): resources implemented                           	 	                              |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |        0f795ee1be7ef8d2cf5c4cbf5034d86fdbf14b65                       	 	         |                     feat(vet): repositories of persistence implemented                          	 	                      |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |         385f7d9fb7e5f394b05944eecddc94b396ee5ea6                      	 	         |                             feat(vet): controller implemented                           	 	                              |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |        fca4a90107c2eb1cbf35a2f8576ef6f9ecab625a                       	 	         |                               feat(vet): services implemented                          	 	                               |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |         9b531d98a86feb68c94d9318e754fefa5fced604                      	 	         |                               feat(vet): context implemented                           	 	                               |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |     feature/vet      |         3b68f50ab6fc931b921d1594718da267e893e81c                      	 	         |                                     feat(vet): updated                          	 	                                      |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |       develop        |    a173d7e95fd1cafb15d5a99e0254df569c44cc94                               	 	     |               Merge pull request #6 from upc-coders/feature/vet                                       	 	                |    ---      	 	     | 20/11/2023       	 	 |
+|                                               |   feature/profile    |  497c79436ccba8c7f8e4fb991499ab5d51bf603b                                    	 	  |                   feat(profile): added pet owner model.                                            	 	                   |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  0025afd337c112a20e9834ab9d625a1771aab2d8                                   	 	   |                  feat(profile): added pet owner response.                                           	 	                  |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  22f0c9c2264ce208431358b58ebcfd382c85f18d                                   	 	   |    feat(profile): added pet owner resource and implemented interface.                                            	 	     |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  49b6866eb98a529718b82ba04e293f52c82f9c99                                   	 	   |               feat(profile): added save pet owner resource.                                            	 	               |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  43efc39ba239fb77ecb0e3bebc24ad09150bf07c                                   	 	   |              feat(profiles): added mapping and rename files                                            	 	               |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  e78765d2a90340486d947e0abbb7f8162be2672c                                   	 	   |                feat(profiles): added pet owner controller.                                            	 	                |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  4cb6ec18b32da67d783fd7cbefaa645a2f8743e1                                   	 	   |     feat(profiles): added pet owner repository interface.                                                       	 	      |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  4e99311e7ef856f21bddedaf4f77cf0c0c952997                                   	 	   |              feat(profiles): update appdbcontext.                                                       	 	              |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  d2aa52ceb73ddd7d62b7c99451eb1e8fe3ed6214                                   	 	   |   feat(profiles): added and implemented pet owner repository.                                                      	 	   |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |   feature/profile    |  e2f8eb3aac5783d88013622d711edffff6693c20                                   	 	   | feat(profiles): added pet owner service and update controller.                                                       	 	 |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |       develop        | 8bb57303703512af7d28182d413ec880f1c81777                                      	 	 |    Merge pull request #7 from upc-coders/feature/profile                                                         	 	     |    ---      	 	     | 21/11/2023       	 	 |
+|                                               |       develop        | 3bbd6c7c43cbd870cf17e3150b5a4b4a69f20bd4                                      	 	 |                    feat(develop): update                                                         	 	                     |    ---      	 	     | 22/11/2023       	 	 |
+
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
@@ -1200,17 +1248,43 @@ El objetivo de este proceso de pruebas es garantizar la calidad de nuestra aplic
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
+En este apartado se presentan las capturas de las vistas que se realizaron en este Sprint.  
+En este Sprint se trabajó en la implementación final de las vistas del Frontend consumiendo los servicios del Backend
+
+
+Apartado de citas del establecimiento
+[![appnt.png](https://i.postimg.cc/655LdqF8/appnt.png)](https://postimg.cc/V5pCwffw)
+
+Creación de una nueva cita
+[![create-appnt.png](https://i.postimg.cc/mrFStnJV/create-appnt.png)](https://postimg.cc/kVqSHTnt)
+
+Perfil de las mascotas
+[![profile-vet.png](https://i.postimg.cc/MGRyWQfF/profile-vet.png)](https://postimg.cc/DWvW6mgr)
+
+Edición del perfil de una mascota
+[![edit-profile-vet.png](https://i.postimg.cc/Gm6FwQtD/edit-profile-vet.png)](https://postimg.cc/MnbM11yZ)
+
+Creación de un nuevo perfil
+[![create-appnt.png](https://i.postimg.cc/mrFStnJV/create-appnt.png)](https://postimg.cc/kVqSHTnt)
+
+Apartado de recomendaciones para el usuario
+[![recommendations.png](https://i.postimg.cc/rwD1PbVc/recommendations.png)](https://postimg.cc/HrC8J68P)
+
+Apartado del mapa con las recomendaciones para el usuario
+[![maps.png](https://i.postimg.cc/HxgbjkQs/maps.png)](https://postimg.cc/CZcRQYPW)
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado en este sprint. Tales como los enlaces que se están utilizando para los Endpoints.
 
-Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
+Link de los endpoints:
+- https://vetcareapi.azurewebsites.net/api/v1/pets
+- https://vetcareapi.azurewebsites.net/api/v1/questions
+- https://vetcareapi.azurewebsites.net/api/v1/veterinary
+- https://vetcareapi.azurewebsites.net/api/v1/prescriptions
 
 <table>
-
-
    <tr>
     <td align="center" colspan="4"> <strong>Services</strong></td>
-
   </tr>
   <tr>
     <td align="center"> <strong>Endpoint</strong> </td>
@@ -1247,21 +1321,21 @@ Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
 <tr>
     <td rowspan="4" align="center"> Veterinary </td>
     <td rowspan="4" align="center"> Implementar el Endpoint /veterinary, correspondiente al CRUD de la información de un médico veterinario.  </td>
-    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinary </td>
     <td align="center"> GET</td>
   </tr>
 
   <tr>
-    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinary </td>
     <td align="center"> POST </td>
   </tr>
 
   <tr>
-     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinary </td>
     <td align="center"> PUT </td>
   </tr>
   <tr>
-     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinary </td>
     <td align="center"> DELETE </td>
   </tr>
 
@@ -1293,15 +1367,23 @@ Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
-En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
-hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
-vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+En esta entrega, nuestra meta principal fue la implementación en final inicial del frontend y backend del proyecto.
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
 Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
 
 A continuación el gráfico de barras de la cantidad de commits por integrante
 
+-  Collaboration Insights del Repositorio Frontend
 
+[![front-vetcare.png](https://i.postimg.cc/RFmdnRct/front-vetcare.png)](https://postimg.cc/06tDT7X5)
 
+[![network-front.png](https://i.postimg.cc/26xwdZwK/network-front.png)](https://postimg.cc/0MbDPrhY)
+
+-  Collaboration Insights del Repositorio Backend
+
+[![back-vetcare.png](https://i.postimg.cc/bvkLJM28/back-vetcare.png)](https://postimg.cc/rdy5ZfJY)
+
+[![network-backend.png](https://i.postimg.cc/x1k6rqfX/network-backend.png)](https://postimg.cc/G4CFGLsR)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
