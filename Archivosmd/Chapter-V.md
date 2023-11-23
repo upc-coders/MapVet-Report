@@ -1674,3 +1674,9 @@ Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/E
 En la siguiente sección se presentará el video que se desarrolló en About-The-Team acerca del desarrollo completo de la aplicación y sus detalles dentro de los documentos. Así como también, los objetivos aprendidos de cada uno de los integrantes.  
 ![video](https://i.ibb.co/tpD2m55/Screenshot-2.jpg)  
 Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EQJvDVP3d2xMv0OVfRtL7NUBpyi0DDpb0dJzv1qrrP371g?e=NqWqXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EQJvDVP3d2xMv0OVfRtL7NUBpyi0DDpb0dJzv1qrrP371g?e=NqWqXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+
+## Conclusiones:  
+* En conclusión, el proyecto ha logrado con éxito alcanzar su objetivo inicial de beneficiar tanto a las mascotas que requieren cuidado como a los veterinarios que buscan pacientes, a través de la implementación de un sistema de software integral. La elección de Vue.js para el desarrollo del frontend y .NET Core para el backend ha demostrado ser una combinación eficaz para crear una aplicación web robusta y funcional.  
+En el ámbito del cuidado de mascotas, el proyecto proporciona una plataforma intuitiva y amigable para los dueños de mascotas, permitiéndoles acceder fácilmente a servicios veterinarios, realizar citas, gestionar la información de sus mascotas. Esto contribuye a mejorar la calidad de vida de las mascotas al facilitar el acceso oportuno a la atención médica.  
+
