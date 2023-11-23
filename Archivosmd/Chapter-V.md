@@ -1667,7 +1667,9 @@ Heurística #8: Aesthetic and minimalist design
 **Recomendación:** Rediseñar el FAQ para que tenga una apariencia más atractiva y utilice una tipografía y colores que sean más agradables a la vista.
 
 ## 5.4. Video About-the-Product.  
-
+En la siguiente sección se presentará el video de About The Product promocionando el producto para el beneficio de los usuarios.   
+![video](https://i.ibb.co/0Fg8NR4/Screenshot-3.jpg)      
+Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/ET9JKX1zQylOiC_S-RlmA4gBKcpE_dEDlhgYrxtTuhKEdQ?e=RJbt19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/ET9JKX1zQylOiC_S-RlmA4gBKcpE_dEDlhgYrxtTuhKEdQ?e=RJbt19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)    
 ## Video About-The-Team  
 En la siguiente sección se presentará el video que se desarrolló en About-The-Team acerca del desarrollo completo de la aplicación y sus detalles dentro de los documentos. Así como también, los objetivos aprendidos de cada uno de los integrantes.  
 ![video](https://i.ibb.co/tpD2m55/Screenshot-2.jpg)  
