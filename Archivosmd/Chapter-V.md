@@ -692,24 +692,24 @@ El objetivo principal del Sprint 3 es lograr la implementación en fase incial d
 |                                               | feature/appointment            	 |  afafa06abbaf536652ff0728fd7391b296974ed2                                     	 	  |       feat(appointment): SavePrescriptionResource added.                                      	 	        |    ---       	 	    | 30/10/2023          	 	 |
 |                                               | feature/appointment            	 | 141d242f63eb49690525f0365e518f159aa97168                                       	 	 |              feat(appointment): PetService added.                                       	 	              |    ---       	 	    | 30/10/2023          	 	 |
 |                                               | feature/appointment            	 | 602fcd035353ae9dc21ef776aca6ab626a29ce55                                      	 	  |         feat(appointment): PrescriptionService added.                                       	 	          |    ---       	 	    | 30/10/2023          	 	 |
-|                                               |      feature/identification      |                      df1156c646c6a9f4ad3e4cf18674193fdd4601ff                      |                                 feat(identification): Added User model.                                  |       ---           | 02/11/2023|     
-|                                               |      feature/identification      |                      2a12340a945a07f67d209e0766591c0ad22640de                      |                      feat(identification): Added authenticate request and response.                      |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      2e0115085b69baa86f6fe40498ba9697f080c738                      |                      feat(identification): Added register and update communication.                      |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      862d47d4b5776fd5d5803c43952bafcb14edd99c                      |        feat(identification): Added mapping between register request and update request with user.        |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      18348d8cd171533df0e9cf9bcd650e42d3343070                      |                          feat(identification): Added interface user repository.                          |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      99dccc9716f38baebd41b190b578437a2e53ef36                      |                           feat(identification): Added interface user service.                            |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      a8d3353784832dc87f0c792e12686116360559a2                      |                              feat(identification): Implemented user table.                               |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      5fbf6e62c322b3eeecc50448073daa6d203f1c6e                      |                      feat(identification): created and implemented user repository.                      |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      72a9ba49ad165ec6623c04e873edea909dc4461e                      |                                        chore: added dependencies.                                        |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      24125a8548269a374f20209816bf85fd6ad3a558                      |                         feat(identification): Implemented user service methods.                          |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      ea4cbfa6bce8e98ca0ce8df67adecfe4b183af33                      |                      feat(identification): Added users controller and set program.                       |         ---         | 02/11/2023|      
-|                                               |      feature/identification      |                      df1156c646c6a9f4ad3e4cf18674193fdd4601ff                      |                                 feat(identification): Added User model.                                  |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      d51f69e79492f18ad860f85d159bcff8d2a308fc                      |              feat(identification): Added attribute allow anonymous and attribute authorize.              |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      a49ab068fa89e39519919c5d50492ad1faf4112a                      |                feat(identification): Created and implemented generate and validate token.                |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      d49dd08ba7b2eb757957f5997abd5636c6f1a41c                      |              feat(identification): Implemented request delegate, settings and set program.               |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      85f0874c431af0490580348148e7a89ff6ea898c                      | feat(identification): Modified user service, corrected references in user controller and placed a token. |         ---         | 02/11/2023|     
-|                                               |      feature/identification      |                      226833e520beb278037c2807bdcb0c406f37b683                      |                       chore(identification): Update Swagger to allow token usage.                        |         ---         | 02/11/2023| 
-|                                               |      feature/identification      |                      359325d0f9571a6ff786ba2d48fb6d0428ec7bab                      |                        feat(identification): Update generate and validate token.                         |         ---         | 02/11/2023|   
+|                                               |      feature/identification      |                      df1156c646c6a9f4ad3e4cf18674193fdd4601ff                      |                                 feat(identification): Added User model.                                  |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      2a12340a945a07f67d209e0766591c0ad22640de                      |                      feat(identification): Added authenticate request and response.                      |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      2e0115085b69baa86f6fe40498ba9697f080c738                      |                      feat(identification): Added register and update communication.                      |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      862d47d4b5776fd5d5803c43952bafcb14edd99c                      |        feat(identification): Added mapping between register request and update request with user.        |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      18348d8cd171533df0e9cf9bcd650e42d3343070                      |                          feat(identification): Added interface user repository.                          |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      99dccc9716f38baebd41b190b578437a2e53ef36                      |                           feat(identification): Added interface user service.                            |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      a8d3353784832dc87f0c792e12686116360559a2                      |                              feat(identification): Implemented user table.                               |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      5fbf6e62c322b3eeecc50448073daa6d203f1c6e                      |                      feat(identification): created and implemented user repository.                      |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      72a9ba49ad165ec6623c04e873edea909dc4461e                      |                                        chore: added dependencies.                                        |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      24125a8548269a374f20209816bf85fd6ad3a558                      |                         feat(identification): Implemented user service methods.                          |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      ea4cbfa6bce8e98ca0ce8df67adecfe4b183af33                      |                      feat(identification): Added users controller and set program.                       |         ---         |       02/11/2023        |      
+|                                               |      feature/identification      |                      df1156c646c6a9f4ad3e4cf18674193fdd4601ff                      |                                 feat(identification): Added User model.                                  |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      d51f69e79492f18ad860f85d159bcff8d2a308fc                      |              feat(identification): Added attribute allow anonymous and attribute authorize.              |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      a49ab068fa89e39519919c5d50492ad1faf4112a                      |                feat(identification): Created and implemented generate and validate token.                |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      d49dd08ba7b2eb757957f5997abd5636c6f1a41c                      |              feat(identification): Implemented request delegate, settings and set program.               |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      85f0874c431af0490580348148e7a89ff6ea898c                      | feat(identification): Modified user service, corrected references in user controller and placed a token. |         ---         |       02/11/2023        |     
+|                                               |      feature/identification      |                      226833e520beb278037c2807bdcb0c406f37b683                      |                       chore(identification): Update Swagger to allow token usage.                        |         ---         |       02/11/2023        | 
+|                                               |      feature/identification      |                      359325d0f9571a6ff786ba2d48fb6d0428ec7bab                      |                        feat(identification): Update generate and validate token.                         |         ---         |       02/11/2023        |   
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -908,8 +908,6 @@ Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
 
 
 
-
-
 ### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
 
 En esta sección se resume los procesos realizados en relación con Deployment
@@ -989,10 +987,6 @@ Utilizando el enlace generado en la consola, podemos ingresar al Swagger y tener
 ![Successful upload API](https://i.ibb.co/xXRsZrM/Screenshot-18.jpg)
 
 
-
-
-
-
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
 hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
@@ -1014,6 +1008,300 @@ Lista de dependencias usadas en el proyecto backend
 Cronología de los commits y la integración a la rama principal 'Develop'  
 
 ![network](https://i.ibb.co/mqBvHsK/network-sprint3.png)  
+
+### 5.2.4. Sprint 4
+En esta sección, se detalla el proceso completo de implementación en fase final del backend desarrollado en ASP.NET. y la culminación de vistas del frontend. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.4.1. Sprint Planning 3
+En el Sprint Planning 4 se planificó para la elaboración del backend del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+|             Sprint #             |                                                                                                     Sprint 4                                                                                                      | 
+|:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                   |
+|               Date               |                                                                                                    	2023-11-20                                                                                                    |
+|               Time               |                                                                                                     6:00 PM	                                                                                                      |
+|             Location             |                                                                                                	Virtual (Discord)                                                                                                 |
+|           Prepared By            |                                                                                       	 Daniel Valverde, Sebastian Ramirez                                                                                        |
+|            Attendees             |                                       Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Sebastian Andre Ramirez Mendez / Juliana Yauricasa Seguil              	                                        |
+|    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la correción y adiciónde los útlimos elementos del frontend y backend.                                                                                   	 |
+| Sprint 2 - Retrospective Summary |       Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	        |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                   |
+|          Sprint 4 Goal           |                                Culminación del backend y frontend                                                                                                               	                                 |
+|        Sprint 4 Velocity         |                                                                   30                                                                         	                                                                    |
+|       Sum of Story Points        |                                                                               32                                                  	                                                                               |
+
+### 5.2.4.2. Sprint Backlog 4
+El objetivo principal del Sprint 4 es lograr la implementación en fase final del frontend y backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> US22 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Citas  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Citas</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US23 </td>
+    <td rowspan="3" align="center"> Acceder a Endpoint Productos</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de la Tienda</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td rowspan="3" align="center"> US24 </td>
+    <td rowspan="3" align="center"> Acceder a Endpoint Identification</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context Identification</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Juliana Yauricasa </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Juliana Yauricasa </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el 'dbContext' para el modelo creado</td>
+    <td align="center"> 1</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center">Done</td>
+  </tr>
+
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+#### Frontend-MapVet
+
+|                  Repository                   |                  Branch                  |                Commit Id                 |                Commit Message                | Commit Message Body | Committed on (Date) |
+|:---------------------------------------------:|:----------------------------------------:|:----------------------------------------:|:--------------------------------------------:|:-------------------:|:-------------------:|
+| https://github.com/upc-coders/Frontend-MapVet |              feature/store               | 61dda1e7b98fb582b25e035b3770586af2e6ad8b |      feat(store): added store component      |      ---     	      |     24/10/2023      |
+|                                               |              feature/store               | 05d36106fe135d7e9ba5331001e3de14ccc4e39b |       feat(store): added store service       |    ---       	 	    |    24/10/2023  	    |
+|                                               |              feature/store               | fd04d3c08e59af78d950da6f0427ec855614a522 | feat(store): added store route configuration |    ---       	 	    |    24/10/2023  	    |
+|                                           |                    develop                    | 8c7acb79d60124e8312d220f9231aafa8107321d |         fix(develop): home fixed         |                ---       	 	                 |    31/10/2023  	    |
+
+#### Backend-VetCare
+
+|                  Repository                   |         Branch         |                                 Commit Id                                 |                                  Commit Message                                   | Commit Message Body |   Committed on (Date)   |
+|:---------------------------------------------:|:----------------------:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------------:|:-----------------------:|
+| https://github.com/upc-coders/Backend-VetCare |        develop         |              e8076f091e96348a925246b587c68085d751f52f   	 	               |                              initial commit     	 	                               |    ---      	 	     |  29/10/2023        	 	  |
+|                                               |       develop  	       |      fb8799b6e1692151ba59aa7987cce76140638433                    	 	      |          feat(develop): domain of shared implemmented               	 	           |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |        develop	        |      513384b37a0f6f3179e9342082b90c001c1a42dd                   	 	       |     feat(develop): extensions of shared added.                            	 	     |    ---       	 	    | 29/10/2023          	 	 |
+|                                               |      develop   	       | f9cbfdcb67859c3d8076efc663214c811e0e0c54                              	 	 | feat(develop): persistence of shared added.                                   	 	 |    ---       	 	    | 29/10/2023          	 	 |
+|                                               | feature/identification |                 359325d0f9571a6ff786ba2d48fb6d0428ec7bab                  |             feat(identification): Update generate and validate token.             |         ---         |       02/11/2023        |   
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se detalla las pruebas que se han llevado a cabo en el backend de la aplicación web VetCare utilizando el plugin SpecFlow for Rider. Estas pruebas se han centrado en validar las funcionalidad de creación en la aplicación. A continuación, se presentan los aspectos clave de nuestro proceso de pruebas:
+
+**Definición de Escenarios de Prueba:**
+Hemos empleado la notación Gherkin para definir escenarios de prueba en archivos de características (.feature). Cada escenario describe pasos, datos de entrada y resultados esperados relacionados con la creación de productos.
+
+<a href="https://ibb.co/9ZwjMDt"><img src="https://i.ibb.co/TWK5CfL/product.png" alt="product" border="0"></a>
+
+<a href="https://ibb.co/z2WZ2vZ"><img src="https://i.ibb.co/2M0dM4d/pet.png" alt="pet" border="0"></a>
+
+**Implementación de Pasos:**
+Los pasos definidos en los archivos de características se han implementado en código C#. Estos pasos contienen la lógica necesaria para interactuar con la aplicación web y llevar a cabo la creación de productos.
+
+<a href="https://ibb.co/BrkvZbq"><img src="https://i.ibb.co/wwt8WVM/implementacion.png" alt="implementacion" border="0"></a>
+
+**Ejecución de Pruebas:**
+Hemos utilizado el plugin SpecFlow for Rider para ejecutar los escenarios de prueba. Durante estas pruebas, hemos verificado que el proceso de creación de productos se realiza de acuerdo con nuestros requisitos y expectativas.
+
+<a href="https://ibb.co/XD45DyR"><img src="https://i.ibb.co/jz5wzVX/testsp.png" alt="testsp" border="0"></a>
+
+El objetivo de este proceso de pruebas es garantizar la calidad de nuestra aplicación web y proporcionar una experiencia confiable a nuestros usuarios. Estamos seguros de que las pruebas realizadas han contribuido significativamente a este objetivo.
+
+#### VetCare.API-Test
+
+|                  Repository                    |      Branch   |   Commit Id                              |                         Commit Message                         | Commit Message Body |  Committed on (Date)  |
+|:----------------------------------------------:|:-------------:|:----------------------------------------:|:--------------------------------------------------------------:|:-------------------:|:---------------------:|
+| https://github.com/upc-coders/VetCare.API-Test |     develop   | 47402700d5fc08a76181b0410c8424dc68b2d738 |             chore: Roll back the project to net 6.             |         ---         |  04/11/2023        	  |
+|                                                |    develop    | 066afd4e38a9d4da042c8db8c4d5ee5b0ca6ffb1 |           feat: Added new project VetCare.API.Test.            |    ---        	     | 04/11/2023          	 |
+|                                                |    develop    | e67f8e2715bff6d50f6359c7ced5ee5ee00c59a8 |                chore: Installed new dependency.                |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | 77fb754f047bf94fa326d97761ca853cca9c8504 |         test: Added feature test and step definitions.         |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | 5afdc46c6845b13f10354e3317b21cb82af5b96b | test: Implemented products tests feature and step definitions. |     ---       	     | 04/11/2023          	 |
+|                                                |    develop    | eb95ba1ed411a270fac1d09e620b69ae21335673 |            test: Modify Program.cs and change port.            |     ---       	     |    04/11/2023   	     |
+
+
+### 5.2.4.5. Execution Evidence for Sprint Review.
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En esta sección se presentan los endspoints realizados en el sprint y se realizan capturas de las acciones CRUD que se han empleado en este sprint. Tales como los enlaces que se están utilizando para los Endpoints.
+
+Link del Swagger UI: https://vetcareapi.azurewebsites.net/swagger/index.html
+
+<table>
+
+
+   <tr>
+    <td align="center" colspan="4"> <strong>Services</strong></td>
+
+  </tr>
+  <tr>
+    <td align="center"> <strong>Endpoint</strong> </td>
+    <td align="center"> <strong>Acciones implementadas</strong></td>
+    <td align="center"> <strong>Enlaces</strong> </td>
+    <td align="center"> <strong>Acciones soportadas</strong></td>
+
+    </td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> Questions </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /questions, correspondiente al CRUD de las preguntas frecuentes.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/questions </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/questions </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/questions </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/questions </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Veterinary </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /veterinary, correspondiente al CRUD de la información de un médico veterinario.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/veterinaries </td>
+    <td align="center"> DELETE </td>
+  </tr>
+
+   <!---------------------------------------------------------------------- -->
+
+<tr>
+    <td rowspan="4" align="center"> Vets </td>
+    <td rowspan="4" align="center"> Implementar el Endpoint /vets, correspondiente al CRUD de una veterinaria.  </td>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/vets </td>
+    <td align="center"> GET</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/vets </td>
+    <td align="center"> POST </td>
+  </tr>
+
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/vets </td>
+    <td align="center"> PUT </td>
+  </tr>
+  <tr>
+     <td align="center"> https://vetcareapi.azurewebsites.net/api/v1/vets </td>
+    <td align="center"> DELETE </td>
+  </tr>
+</table>
+
+### 5.2.4.7.  Software Deployment Evidence for Sprint Review.
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
+hicimos uso de diversas herramientas como GitHub, Rider, etc. A continuación,
+vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
+
+A continuación el gráfico de barras de la cantidad de commits por integrante
+
+
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -1093,14 +1381,14 @@ Los problemas serán evaluados utilizando la escala de gravedad que se describe 
 | # |                                                  Problema                                                   | Escala de severidad	 |            Heurística/Principio violada(o)            |  
 |:-:|:-----------------------------------------------------------------------------------------------------------:|:--------------------:|:-----------------------------------------------------:|
 | 1 | El usuario no encuentra la tecla "/" para poder escribir la fecha de nacimiento en la pantalla de registro. |          2           |        Match between system and the real world        |
-| 2 |           Ausencia de un indicador para señalar que el campo se debe completar obligatoriamente.            |          2           | Visibility of system status/Consistency and standards 
+| 2 |           Ausencia de un indicador para señalar que el campo se debe completar obligatoriamente.            |          2           | Visibility of system status/Consistency and standards |
 | 3 |      Falta de visibilidad de los márgenes en la sección para escribir los datos del register y log in.      |          1           |              Visibility of system status              |
 | 4 |      Ausencia del botón para las personas que no se identifican con los géneros mostrados en register.      |          2           |                Help and documentation                 |
 | 5 |       Ambigüedad en la pantalla del register que se debe poner los dos nombres y/o los dos apellidos.       |          2           |        Match between system and the real world        |
 | 6 |                       Ausencia de la funcionalidad del botón “forgot your password?”.                       |          3           |               User control and freedom                |
 | 7 |                           Visibilidad de la contraseña en la pantalla de log in.                            |          3           |              Visibility of system status              |             
 | 8 |                    Ausencia de la funcionalidad de los botones en la pantalla de log in.                    |          3           |               User control and freedom                |
-| 9 |          El FAQ carece de un diseño atractivo y utiliza una tipografía y colores poco atractivos.           |          2           |              Aesthetic and minimalist design          |
+| 9 |          El FAQ carece de un diseño atractivo y utiliza una tipografía y colores poco atractivos.           |          2           |            Aesthetic and minimalist design            |
 
 **Problema #1:** El usuario no encuentra la tecla "/" para poder escribir la fecha de nacimiento en la pantalla de registro.
 
