@@ -1413,8 +1413,22 @@ Link de los endpoints:
   </tr>
 </table>
 
-### 5.2.4.7.  Software Deployment Evidence for Sprint Review.
+### 5.2.4.7.  Software Deployment Evidence for Sprint Review.  
 
+En esta sección, se brindará detalle del despliegue del Backend como el Frontend, con sus respectivas plataformas de despliegue independientemente una del otro.
+
+El despliegue fue realizado en la plataforma Netlify con el siguiente link.
+Link: [https://vetcarecenter.netlify.app/](https://vetcarecenter.netlify.app/)  
+
+[![front-vetcare.png](https://i.ibb.co/nBvN7Sc/Screenshot-4.jpg)](https://i.ibb.co/nBvN7Sc/Screenshot-4.jpg)  
+
+Asi mismo, el despliegue del Backend, fue logrado en Azure.   
+[![backend.jpg](https://i.ibb.co/J5N3FzX/Screenshot-5.jpg)](https://i.ibb.co/J5N3FzX/Screenshot-5.jpg)
+
+Comprobando los endpoints por Postman.  
+[![backend2.jpg](https://i.ibb.co/P5qX7dp/Screenshot-6.jpg)](https://i.ibb.co/P5qX7dp/Screenshot-6.jpg)
+
+Link: [https://vetcareapi.azurewebsites.net/](https://vetcareapi.azurewebsites.net/)   
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestra meta principal fue la implementación en final inicial del frontend y backend del proyecto.
